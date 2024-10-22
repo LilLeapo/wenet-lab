@@ -1,0 +1,2000 @@
+0001000002	data/huiyan_dataset/raw_wav/wav/0001/000002.wav	中 央 人 民 广 播 电 台 中 央 人 民 广 播 电 台 全 国 新 闻 联 播
+0001000004	data/huiyan_dataset/raw_wav/wav/0001/000004.wav	全 国 新 闻 联 播 每 天 为 您 汇 总 梳 理 全 天 资 讯 我 是 主 持 人 泰 龙 我 是 玉 蕾 首 先 关 注 今 日 头 条
+0001000005	data/huiyan_dataset/raw_wav/wav/0001/000005.wav	央 广 消 息
+0001000006	data/huiyan_dataset/raw_wav/wav/0001/000006.wav	中 共 中 央 政 治 局 昨 天 下 午 就 我 国 脱 贫 攻 坚 形 式 和 更 好 实 施 精 准 扶 贫
+0001000007	data/huiyan_dataset/raw_wav/wav/0001/000007.wav	进 行 第 三 十 九 次 集 体 学 习
+0001000008	data/huiyan_dataset/raw_wav/wav/0001/000008.wav	中 共 中 央 总 书 记 习 近 平 在 主 持 学 习 时 强 调
+0001000009	data/huiyan_dataset/raw_wav/wav/0001/000009.wav	言 必 信
+0001000010	data/huiyan_dataset/raw_wav/wav/0001/000010.wav	行 必 果
+0001000011	data/huiyan_dataset/raw_wav/wav/0001/000011.wav	农 村 贫 困 人 口 如 期 脱 贫
+0001000012	data/huiyan_dataset/raw_wav/wav/0001/000012.wav	贫 困 县 全 部 摘 帽
+0001000013	data/huiyan_dataset/raw_wav/wav/0001/000013.wav	解 决 区 域 性 整 体 贫 困
+0001000014	data/huiyan_dataset/raw_wav/wav/0001/000014.wav	是 全 面 建 成 小 康 社 会 的 底 线 任 务
+0001000015	data/huiyan_dataset/raw_wav/wav/0001/000015.wav	是 我 们 做 出 的 庄 严 承 诺
+0001000016	data/huiyan_dataset/raw_wav/wav/0001/000016.wav	要 强 化 领 导 责 任
+0001000017	data/huiyan_dataset/raw_wav/wav/0001/000017.wav	强 化 资 金 投 入
+0001000018	data/huiyan_dataset/raw_wav/wav/0001/000018.wav	强 化 部 门 协 同
+0001000019	data/huiyan_dataset/raw_wav/wav/0001/000019.wav	强 化 东 西 协 作
+0001000020	data/huiyan_dataset/raw_wav/wav/0001/000020.wav	强 化 社 会 合 力
+0001000021	data/huiyan_dataset/raw_wav/wav/0001/000021.wav	强 化 基 层 活 力
+0001000022	data/huiyan_dataset/raw_wav/wav/0001/000022.wav	强 化 任 务 落 实
+0001000023	data/huiyan_dataset/raw_wav/wav/0001/000023.wav	集 中 力 量 攻 坚 克 难
+0001000024	data/huiyan_dataset/raw_wav/wav/0001/000024.wav	更 好 推 进 精 准 扶 贫 精 准 脱 贫
+0001000025	data/huiyan_dataset/raw_wav/wav/0001/000025.wav	确 保 如 期 实 现 脱 贫 攻 坚 目 标
+0001000026	data/huiyan_dataset/raw_wav/wav/0001/000026.wav	学 习 时 播 放 了 有 关 脱 贫 攻 坚 的 专 题 片
+0001000027	data/huiyan_dataset/raw_wav/wav/0001/000027.wav	刘 永 富 陈 敏 尔 陈 豪 王 三 运 先 后 发 言
+0001000028	data/huiyan_dataset/raw_wav/wav/0001/000028.wav	他 们 结 合 本 部 门 本 地 区 实 际
+0001000029	data/huiyan_dataset/raw_wav/wav/0001/000029.wav	谈 了 脱 贫 攻 坚 面 临 的 形 势
+0001000030	data/huiyan_dataset/raw_wav/wav/0001/000030.wav	存 在 的 问 题 和 下 一 步 工 作 打 算
+0001000031	data/huiyan_dataset/raw_wav/wav/0001/000031.wav	中 共 中 央 政 治 局 各 位 同 志 认 真 听 取 了 他 们 的 发 言
+0001000032	data/huiyan_dataset/raw_wav/wav/0001/000032.wav	并 就 有 关 问 题 进 行 了 讨 论
+0001000033	data/huiyan_dataset/raw_wav/wav/0001/000033.wav	习 近 平 在 主 持 学 习 时 发 表 了 讲 话
+0001000034	data/huiyan_dataset/raw_wav/wav/0001/000034.wav	他 强 调 党 的 十 八 大 以 来
+0001000035	data/huiyan_dataset/raw_wav/wav/0001/000035.wav	党 中 央 对 脱 贫 攻 坚 作 出 新 的 部 署
+0001000036	data/huiyan_dataset/raw_wav/wav/0001/000036.wav	吹 响 了 打 赢 脱 贫 攻 坚 战 的 进 军 号
+0001000037	data/huiyan_dataset/raw_wav/wav/0001/000037.wav	脱 贫 攻 坚 取 得 显 著 成 绩
+0001000038	data/huiyan_dataset/raw_wav/wav/0001/000038.wav	二 零 一 三 年 至 二 零 一 六 年 四 月 间
+0001000039	data/huiyan_dataset/raw_wav/wav/0001/000039.wav	每 年 农 村 贫 困 人 口 减 少 都 超 过 一 千 万 人
+0001000040	data/huiyan_dataset/raw_wav/wav/0001/000040.wav	累 计 脱 贫 五 千 五 百 六 十 四 万 人
+0001000041	data/huiyan_dataset/raw_wav/wav/0001/000041.wav	贫 困 发 生 率 从 二 零 一 二 年 底 的 百 分 之 十 点 二 下 降 到 二 零 一 六 年 底 的 百 分 之 四 点 五
+0001000042	data/huiyan_dataset/raw_wav/wav/0001/000042.wav	下 降 五 点 七 个 百 分 点
+0001000043	data/huiyan_dataset/raw_wav/wav/0001/000043.wav	贫 困 地 区 农 村 居 民 收 入 增 幅 高 于 全 国 平 均 水 平
+0001000044	data/huiyan_dataset/raw_wav/wav/0001/000044.wav	贫 困 群 众 生 活 水 平 明 显 提 高
+0001000045	data/huiyan_dataset/raw_wav/wav/0001/000045.wav	贫 困 地 区 面 貌 明 显 改 善
+0001000046	data/huiyan_dataset/raw_wav/wav/0001/000046.wav	总 体 来 看
+0001000047	data/huiyan_dataset/raw_wav/wav/0001/000047.wav	党 中 央 确 定 的 中 央 统 筹 省 负 总 责
+0001000048	data/huiyan_dataset/raw_wav/wav/0001/000048.wav	市 县 抓 落 实 的 管 理 体 制 得 到 了 贯 彻
+0001000049	data/huiyan_dataset/raw_wav/wav/0001/000049.wav	四 梁 八 柱 的 顶 层 设 计 基 本 形 成
+0001000050	data/huiyan_dataset/raw_wav/wav/0001/000050.wav	各 项 决 策 部 署 得 到 较 好 落 实
+0001000051	data/huiyan_dataset/raw_wav/wav/0001/000051.wav	各 方 面 都 行 动 起 来 了
+0001000052	data/huiyan_dataset/raw_wav/wav/0001/000052.wav	在 实 践 中 我 们 形 成 了 不 少 有 益 经 验
+0001000053	data/huiyan_dataset/raw_wav/wav/0001/000053.wav	概 括 起 来 主 要 是 加 强 领 导 是 根 本
+0001000054	data/huiyan_dataset/raw_wav/wav/0001/000054.wav	把 握 精 准 是 要 义
+0001000055	data/huiyan_dataset/raw_wav/wav/0001/000055.wav	增 加 投 入 是 保 障
+0001000056	data/huiyan_dataset/raw_wav/wav/0001/000056.wav	各 方 参 与 是 合 力
+0001000057	data/huiyan_dataset/raw_wav/wav/0001/000057.wav	群 众 参 与 是 基 础
+0001000058	data/huiyan_dataset/raw_wav/wav/0001/000058.wav	这 些 经 验 弥 足 珍 贵
+0001000059	data/huiyan_dataset/raw_wav/wav/0001/000059.wav	要 长 期 坚 持
+0001000060	data/huiyan_dataset/raw_wav/wav/0001/000060.wav	习 近 平 指 出
+0001000061	data/huiyan_dataset/raw_wav/wav/0001/000061.wav	要 充 分 认 识 打 赢 脱 贫 攻 坚 战 的 艰 巨 性
+0001000062	data/huiyan_dataset/raw_wav/wav/0001/000062.wav	今 后 几 年 我 国 脱 贫 攻 坚 面 临 着 十 分 艰 巨 的 任 务
+0001000063	data/huiyan_dataset/raw_wav/wav/0001/000063.wav	越 往 后 脱 贫 难 度 越 大
+0001000064	data/huiyan_dataset/raw_wav/wav/0001/000064.wav	因 为 剩 下 的 大 都 是 条 件 较 差 基 础 较 弱
+0001000065	data/huiyan_dataset/raw_wav/wav/0001/000065.wav	贫 困 程 度 较 深 的 地 区 和 群 众
+0001000066	data/huiyan_dataset/raw_wav/wav/0001/000066.wav	要 把 深 度 贫 困 地 区 作 为 区 域 攻 坚 重 点
+0001000067	data/huiyan_dataset/raw_wav/wav/0001/000067.wav	确 保 在 既 定 时 间 节 点 完 成 脱 贫 攻 坚 任 务
+0001000068	data/huiyan_dataset/raw_wav/wav/0001/000068.wav	习 近 平 强 调
+0001000069	data/huiyan_dataset/raw_wav/wav/0001/000069.wav	要 坚 持 精 准 扶 贫
+0001000070	data/huiyan_dataset/raw_wav/wav/0001/000070.wav	精 准 脱 贫
+0001000071	data/huiyan_dataset/raw_wav/wav/0001/000071.wav	要 打 牢 精 准 扶 贫 基 础
+0001000072	data/huiyan_dataset/raw_wav/wav/0001/000072.wav	通 过 建 档 立 卡 摸 清 贫 困 人 口 底 数
+0001000073	data/huiyan_dataset/raw_wav/wav/0001/000073.wav	做 实 做 细 实 现 动 态 调 整
+0001000074	data/huiyan_dataset/raw_wav/wav/0001/000074.wav	要 提 高 扶 贫 措 施 有 效 性
+0001000075	data/huiyan_dataset/raw_wav/wav/0001/000075.wav	核 心 是 因 地 制 宜
+0001000076	data/huiyan_dataset/raw_wav/wav/0001/000076.wav	因 人 因 户 因 村 施 策
+0001000077	data/huiyan_dataset/raw_wav/wav/0001/000077.wav	突 出 产 业 扶 贫
+0001000078	data/huiyan_dataset/raw_wav/wav/0001/000078.wav	提 高 组 织 化 程 度
+0001000079	data/huiyan_dataset/raw_wav/wav/0001/000079.wav	培 育 带 动 贫 困 人 口 脱 贫 的 经 济 实 体
+0001000080	data/huiyan_dataset/raw_wav/wav/0001/000080.wav	要 组 织 好 异 地 扶 贫 搬 迁
+0001000081	data/huiyan_dataset/raw_wav/wav/0001/000081.wav	坚 持 群 众 自 愿 原 则
+0001000082	data/huiyan_dataset/raw_wav/wav/0001/000082.wav	合 理 控 制 建 设 规 模 和 成 本
+0001000083	data/huiyan_dataset/raw_wav/wav/0001/000083.wav	发 展 后 续 产 业
+0001000084	data/huiyan_dataset/raw_wav/wav/0001/000084.wav	确 保 搬 得 出 稳 得 住
+0001000085	data/huiyan_dataset/raw_wav/wav/0001/000085.wav	逐 步 能 致 富
+0001000086	data/huiyan_dataset/raw_wav/wav/0001/000086.wav	要 加 大 扶 贫 劳 务 协 作
+0001000087	data/huiyan_dataset/raw_wav/wav/0001/000087.wav	提 高 培 训 针 对 性 和 劳 务 输 出 组 织 化 程 度
+0001000088	data/huiyan_dataset/raw_wav/wav/0001/000088.wav	促 进 转 移 就 业
+0001000089	data/huiyan_dataset/raw_wav/wav/0001/000089.wav	鼓 励 就 地 就 近 就 业
+0001000090	data/huiyan_dataset/raw_wav/wav/0001/000090.wav	要 落 实 教 育 扶 贫 和 健 康 扶 贫 政 策
+0001000091	data/huiyan_dataset/raw_wav/wav/0001/000091.wav	突 出 解 决 贫 困 家 庭 大 病
+0001000092	data/huiyan_dataset/raw_wav/wav/0001/000092.wav	慢 性 病 和 学 生 上 学 等 问 题
+0001000093	data/huiyan_dataset/raw_wav/wav/0001/000093.wav	要 加 大 政 策 落 实 力 度
+0001000094	data/huiyan_dataset/raw_wav/wav/0001/000094.wav	加 大 财 政 土 地 等 政 策 支 持 力 度
+0001000095	data/huiyan_dataset/raw_wav/wav/0001/000095.wav	加 强 交 通 扶 贫
+0001000096	data/huiyan_dataset/raw_wav/wav/0001/000096.wav	水 利 扶 贫
+0001000097	data/huiyan_dataset/raw_wav/wav/0001/000097.wav	金 融 扶 贫
+0001000098	data/huiyan_dataset/raw_wav/wav/0001/000098.wav	教 育 扶 贫
+0001000099	data/huiyan_dataset/raw_wav/wav/0001/000099.wav	健 康 扶 贫 等 扶 贫 行 动
+0001000100	data/huiyan_dataset/raw_wav/wav/0001/000100.wav	扶 贫 小 额 信 贷 扶 贫 再 贷 款 等 政 策 要 突 出 精 准
+0001000101	data/huiyan_dataset/raw_wav/wav/0001/000101.wav	习 近 平 指 出
+0001000102	data/huiyan_dataset/raw_wav/wav/0001/000102.wav	要 加 强 基 层 基 础 工 作
+0001000103	data/huiyan_dataset/raw_wav/wav/0001/000103.wav	要 加 强 贫 困 村 两 委 建 设
+0001000104	data/huiyan_dataset/raw_wav/wav/0001/000104.wav	深 入 推 进 抓 党 建 促 脱 贫 攻 坚 工 作
+0001000105	data/huiyan_dataset/raw_wav/wav/0001/000105.wav	选 好 配 强 村 两 委 班 子
+0001000106	data/huiyan_dataset/raw_wav/wav/0001/000106.wav	培 养 农 村 致 富 带 头 人
+0001000107	data/huiyan_dataset/raw_wav/wav/0001/000107.wav	促 进 乡 村 本 土 人 才 回 流
+0001000108	data/huiyan_dataset/raw_wav/wav/0001/000108.wav	打 造 一 支 不 走 的 扶 贫 工 作 队
+0001000109	data/huiyan_dataset/raw_wav/wav/0001/000109.wav	要 充 实 一 线 扶 贫 工 作 队 伍
+0001000110	data/huiyan_dataset/raw_wav/wav/0001/000110.wav	发 挥 贫 困 村 第 一 书 记 和 驻 村 工 作 队 的 作 用
+0001000111	data/huiyan_dataset/raw_wav/wav/0001/000111.wav	在 实 战 中 培 养 锻 炼 干 部
+0001000112	data/huiyan_dataset/raw_wav/wav/0001/000112.wav	打 造 一 支 能 征 善 战 的 干 部 队 伍
+0001000113	data/huiyan_dataset/raw_wav/wav/0001/000113.wav	农 村 干 部 在 村 里 工 作 很 辛 苦
+0001000114	data/huiyan_dataset/raw_wav/wav/0001/000114.wav	对 他 们 要 加 倍 关 心
+0001000115	data/huiyan_dataset/raw_wav/wav/0001/000115.wav	习 近 平 强 调
+0001000116	data/huiyan_dataset/raw_wav/wav/0001/000116.wav	要 把 握 好 脱 贫 攻 坚 正 确 方 向
+0001000117	data/huiyan_dataset/raw_wav/wav/0001/000117.wav	要 防 止 层 层 加 码
+0001000118	data/huiyan_dataset/raw_wav/wav/0001/000118.wav	要 量 力 而 行
+0001000119	data/huiyan_dataset/raw_wav/wav/0001/000119.wav	真 实 可 靠
+0001000120	data/huiyan_dataset/raw_wav/wav/0001/000120.wav	保 证 质 量
+0001000121	data/huiyan_dataset/raw_wav/wav/0001/000121.wav	要 防 止 形 式 主 义
+0001000122	data/huiyan_dataset/raw_wav/wav/0001/000122.wav	扶 真 贫
+0001000123	data/huiyan_dataset/raw_wav/wav/0001/000123.wav	真 扶 贫
+0001000124	data/huiyan_dataset/raw_wav/wav/0001/000124.wav	扶 贫 工 作 必 须 务 实
+0001000125	data/huiyan_dataset/raw_wav/wav/0001/000125.wav	脱 贫 过 程 必 须 扎 实
+0001000126	data/huiyan_dataset/raw_wav/wav/0001/000126.wav	脱 贫 结 果 必 须 真 实
+0001000127	data/huiyan_dataset/raw_wav/wav/0001/000127.wav	让 脱 贫 成 效 真 正 获 得 群 众 认 可
+0001000128	data/huiyan_dataset/raw_wav/wav/0001/000128.wav	经 得 起 实 践 和 历 史 的 检 验
+0001000129	data/huiyan_dataset/raw_wav/wav/0001/000129.wav	要 实 施 最 严 格 的 考 核 评 估
+0001000130	data/huiyan_dataset/raw_wav/wav/0001/000130.wav	开 展 督 查 巡 查
+0001000131	data/huiyan_dataset/raw_wav/wav/0001/000131.wav	对 不 严 不 实 弄 虚 作 假 的 要 严 肃 问 责
+0001000132	data/huiyan_dataset/raw_wav/wav/0001/000132.wav	要 加 强 扶 贫 资 金 管 理 使 用
+0001000133	data/huiyan_dataset/raw_wav/wav/0001/000133.wav	对 挪 用 乃 至 贪 污 扶 贫 款 项 的 行 为 必 须 坚 决 纠 正
+0001000134	data/huiyan_dataset/raw_wav/wav/0001/000134.wav	严 肃 处 理
+0001000135	data/huiyan_dataset/raw_wav/wav/0001/000135.wav	习 近 平 强 调
+0001000136	data/huiyan_dataset/raw_wav/wav/0001/000136.wav	干 部 群 众 是 脱 贫 攻 坚 的 重 要 力 量
+0001000137	data/huiyan_dataset/raw_wav/wav/0001/000137.wav	贫 困 群 众 既 是 脱 贫 攻 坚 的 对 象
+0001000138	data/huiyan_dataset/raw_wav/wav/0001/000138.wav	更 是 脱 贫 致 富 的 主 体
+0001000139	data/huiyan_dataset/raw_wav/wav/0001/000139.wav	要 注 重 扶 贫 同 扶 志 扶 智 相 结 合
+0001000140	data/huiyan_dataset/raw_wav/wav/0001/000140.wav	把 贫 困 群 众 积 极 性 和 主 动 性 充 分 调 动 起 来
+0001000141	data/huiyan_dataset/raw_wav/wav/0001/000141.wav	引 导 贫 困 群 众 树 立 主 体 意 识
+0001000142	data/huiyan_dataset/raw_wav/wav/0001/000142.wav	发 扬 自 力 更 生 精 神
+0001000143	data/huiyan_dataset/raw_wav/wav/0001/000143.wav	激 发 改 变 贫 困 面 貌 的 干 劲 和 决 心
+0001000144	data/huiyan_dataset/raw_wav/wav/0001/000144.wav	靠 自 己 的 努 力 改 变 命 运
+0001000146	data/huiyan_dataset/raw_wav/wav/0001/000146.wav	下 面 我 们 看 看 今 天 其 他 各 大 媒 体 和 网 站 都 在 关 注 哪 些 重 要 新 闻
+0001000147	data/huiyan_dataset/raw_wav/wav/0001/000147.wav	三 十 一 个 省 份 释 放 就 业 预 期 硬 指 标
+0001000148	data/huiyan_dataset/raw_wav/wav/0001/000148.wav	新 华 网 观 察 今 年 去 哪 找 工 作
+0001000149	data/huiyan_dataset/raw_wav/wav/0001/000149.wav	共 享 单 车 押 金 退 还 难 人 民 网 评 论 数 亿 元 共 享 单 车 押 金 去 哪 了
+0001000150	data/huiyan_dataset/raw_wav/wav/0001/000150.wav	中 国 经 济 网 关 注
+0001000151	data/huiyan_dataset/raw_wav/wav/0001/000151.wav	财 政 部 表 示 个 税 改 革 需 做 好 顶 层 设 计 逐 步 实 施 到 位
+0001000152	data/huiyan_dataset/raw_wav/wav/0001/000152.wav	央 视 网 聚 焦 公 安 部 确 认 中 国 与 法 国 将 实 现 驾 驶 证 互 认 换 领
+0001000153	data/huiyan_dataset/raw_wav/wav/0001/000153.wav	央 广 网 观 察 自 主 品 牌 强 势 崛 起
+0001000154	data/huiyan_dataset/raw_wav/wav/0001/000154.wav	国 内 六 大 车 企 如 何 勇 立 潮 头 国 际 在 线 消 息
+0001000155	data/huiyan_dataset/raw_wav/wav/0001/000155.wav	日 本 东 京 都 知 事 表 示 二 零 二 零 年 东 京 奥 运 会 成 本 可 能 失 控
+0001000157	data/huiyan_dataset/raw_wav/wav/0001/000157.wav	全 国 新 闻 联 播 以 下 关 注 习 近 平 与 意 大 利 总 统 马 塔 雷 拉 举 行 会 谈
+0001000158	data/huiyan_dataset/raw_wav/wav/0001/000158.wav	习 近 平 会 见 法 国 总 理 卡 泽 纳 夫
+0001000159	data/huiyan_dataset/raw_wav/wav/0001/000159.wav	国 家 统 计 局 发 布 七 十 个 大 中 城 市 房 价 数 据
+0001000160	data/huiyan_dataset/raw_wav/wav/0001/000160.wav	一 月 份 一 二 线 城 市 房 价 基 本 只 涨
+0001000161	data/huiyan_dataset/raw_wav/wav/0001/000161.wav	三 线 城 市 房 价 走 势 总 体 平 稳
+0001000162	data/huiyan_dataset/raw_wav/wav/0001/000162.wav	环 保 部 调 查 发 现 部 分 城 市 冬 季 重 污 染 问 题 改 善 不 大
+0001000163	data/huiyan_dataset/raw_wav/wav/0001/000163.wav	农 业 部 表 示 目 前 H 七 N 九 病 毒 污 染 面 仍 在 扩 大
+0001000164	data/huiyan_dataset/raw_wav/wav/0001/000164.wav	对 相 关 养 殖 场 户 的 家 禽 坚 决 扑 杀 和 无 害 化 处 理
+0001000165	data/huiyan_dataset/raw_wav/wav/0001/000165.wav	国 家 发 改 委 独 家 回 应 严 改 问 题
+0001000166	data/huiyan_dataset/raw_wav/wav/0001/000166.wav	今 年 年 底 之 前
+0001000167	data/huiyan_dataset/raw_wav/wav/0001/000167.wav	食 盐 行 业 政 企 必 须 分 开
+0001000168	data/huiyan_dataset/raw_wav/wav/0001/000168.wav	美 国 国 土 安 全 部 出 台 新 规
+0001000169	data/huiyan_dataset/raw_wav/wav/0001/000169.wav	加 强 边 境 管 控
+0001000170	data/huiyan_dataset/raw_wav/wav/0001/000170.wav	限 制 非 法 移 民
+0001000172	data/huiyan_dataset/raw_wav/wav/0001/000172.wav	全 国 新 闻 联 播 关 注 时 政 要 闻
+0001000173	data/huiyan_dataset/raw_wav/wav/0001/000173.wav	央 广 记 者 马 闯 报 道
+0001000174	data/huiyan_dataset/raw_wav/wav/0001/000174.wav	国 家 主 席 习 近 平 今 天 下 午 在 人 民 大 会 堂 与 意 大 利 总 统 马 塔 雷 拉 举 行 会 谈
+0001000175	data/huiyan_dataset/raw_wav/wav/0001/000175.wav	习 近 平 指 出
+0001000176	data/huiyan_dataset/raw_wav/wav/0001/000176.wav	中 意 两 国 友 好 交 往 历 史 源 远 流 长
+0001000177	data/huiyan_dataset/raw_wav/wav/0001/000177.wav	两 大 古 老 文 明 交 相 辉 映 相 互 吸 引
+0001000178	data/huiyan_dataset/raw_wav/wav/0001/000178.wav	中 意 两 国 建 交 四 十 七 年 来
+0001000179	data/huiyan_dataset/raw_wav/wav/0001/000179.wav	双 方 平 等 相 待 互 利 合 作
+0001000180	data/huiyan_dataset/raw_wav/wav/0001/000180.wav	成 为 全 面 战 略 合 作 伙 伴 关 系
+0001000181	data/huiyan_dataset/raw_wav/wav/0001/000181.wav	习 近 平 表 示 愿 同 总 统 先 生 一 道 将 两 国 关 系 推 向 新 的 更 高 水 平
+0001000182	data/huiyan_dataset/raw_wav/wav/0001/000182.wav	马 塔 雷 拉 说 他 本 人 是 春 节 后 首 个 访 问 中 国 的 外 国 元 首
+0001000183	data/huiyan_dataset/raw_wav/wav/0001/000183.wav	希 望 此 访 能 够 加 强 两 国 的 战 略 合 作 伙 伴 关 系
+0001000185	data/huiyan_dataset/raw_wav/wav/0001/000185.wav	央 广 记 者 刘 乐 报 道
+0001000186	data/huiyan_dataset/raw_wav/wav/0001/000186.wav	国 家 主 席 习 近 平 今 天 在 人 民 大 会 堂 会 见 法 国 总 理 卡 泽 纳 夫
+0001000187	data/huiyan_dataset/raw_wav/wav/0001/000187.wav	习 近 平 指 出
+0001000188	data/huiyan_dataset/raw_wav/wav/0001/000188.wav	中 法 两 国 是 全 面 战 略 伙 伴
+0001000189	data/huiyan_dataset/raw_wav/wav/0001/000189.wav	也 都 是 联 合 国 安 理 会 常 任 理 事 国
+0001000190	data/huiyan_dataset/raw_wav/wav/0001/000190.wav	健 康 稳 定 的 中 法 关 系 符 合 两 国 和 两 国 人 民 根 本 利 益
+0001000191	data/huiyan_dataset/raw_wav/wav/0001/000191.wav	也 是 世 界 和 平 发 展 的 需 要
+0001000192	data/huiyan_dataset/raw_wav/wav/0001/000192.wav	习 近 平 强 调
+0001000193	data/huiyan_dataset/raw_wav/wav/0001/000193.wav	中 法 关 系 之 所 以 顺 利 发 展
+0001000194	data/huiyan_dataset/raw_wav/wav/0001/000194.wav	最 重 要 的 原 因 就 是 我 们 始 终 坚 持 相 互 尊 重
+0001000195	data/huiyan_dataset/raw_wav/wav/0001/000195.wav	平 等 相 待
+0001000196	data/huiyan_dataset/raw_wav/wav/0001/000196.wav	切 实 理 解 照 顾 彼 此 核 心 利 益 和 重 大 关 切 在 重 大 问 题 上 相 互 支 持
+0001000197	data/huiyan_dataset/raw_wav/wav/0001/000197.wav	双 方 要 抓 好 重 点 项 目 的 落 实
+0001000198	data/huiyan_dataset/raw_wav/wav/0001/000198.wav	保 持 新 兴 领 域 合 作 的 发 展 势 头
+0001000199	data/huiyan_dataset/raw_wav/wav/0001/000199.wav	充 分 调 动 和 发 挥 两 国 企 业 和 地 方 积 极 性 主 动 性
+0001000200	data/huiyan_dataset/raw_wav/wav/0001/000200.wav	就 中 国 制 造 二 零 二 五 同 法 国 未 来 工 业 计 划 发 展 战 略 对 接
+0001000201	data/huiyan_dataset/raw_wav/wav/0001/000201.wav	中 方 欢 迎 法 方 参 与 一 带 一 路 建 设
+0001000202	data/huiyan_dataset/raw_wav/wav/0001/000202.wav	支 持 两 国 企 业 在 一 带 一 路 框 架 内 开 展 合 作
+0001000203	data/huiyan_dataset/raw_wav/wav/0001/000203.wav	中 方 愿 同 法 方 深 化 执 法 安 全 领 域 合 作
+0001000205	data/huiyan_dataset/raw_wav/wav/0001/000205.wav	习 近 平 指 出 中 法 要 加 强 在 国 际 事 务 中 的 合 作
+0001000206	data/huiyan_dataset/raw_wav/wav/0001/000206.wav	支 持 多 极 化 进 程
+0001000207	data/huiyan_dataset/raw_wav/wav/0001/000207.wav	维 护 以 联 合 国 宪 章 为 基 础 的 国 际 关 系 基 本 准 则
+0001000208	data/huiyan_dataset/raw_wav/wav/0001/000208.wav	推 动 国 际 和 地 区 热 点 问 题 和 平 解 决
+0001000209	data/huiyan_dataset/raw_wav/wav/0001/000209.wav	要 共 同 旗 帜 鲜 明 反 对 各 种 形 式 的 保 护 主 义
+0001000210	data/huiyan_dataset/raw_wav/wav/0001/000210.wav	推 动 更 为 开 放 包 容 普 惠 平 衡 共 赢 的 经 济 全 球 化
+0001000212	data/huiyan_dataset/raw_wav/wav/0001/000212.wav	要 继 续 推 动 全 球 治 理 变 革
+0001000213	data/huiyan_dataset/raw_wav/wav/0001/000213.wav	捍 卫 包 括 气 候 变 化 巴 黎 协 定 在 内 的 全 球 治 理 成 果
+0001000214	data/huiyan_dataset/raw_wav/wav/0001/000214.wav	加 强 在 二 十 国 集 团 框 架 内 合 作 积 极 落 实 二 十 国 集 团 领 导 人 杭 州 峰 会 共 识
+0001000215	data/huiyan_dataset/raw_wav/wav/0001/000215.wav	推 动 汉 堡 峰 会 取 得 积 极 成 果
+0001000216	data/huiyan_dataset/raw_wav/wav/0001/000216.wav	中 方 支 持 欧 洲 走 一 体 化 道 路
+0001000217	data/huiyan_dataset/raw_wav/wav/0001/000217.wav	愿 同 欧 方 一 道 推 进 中 欧 和 平 增 长 改 革 文 明 四 大 伙 伴 关 系 建 设 更 好 实 现 合 作 共 赢
+0001000219	data/huiyan_dataset/raw_wav/wav/0001/000219.wav	卡 泽 纳 夫 表 示 法 方 致 力 于 推 动 法 中 全 面 战 略 伙 伴 关 系 发 展 取 得 丰 硕 成 果
+0001000220	data/huiyan_dataset/raw_wav/wav/0001/000220.wav	在 当 前 复 杂 多 变 的 欧 洲 和 世 界 形 势 下
+0001000221	data/huiyan_dataset/raw_wav/wav/0001/000221.wav	中 国 的 国 际 影 响 举 足 轻 重
+0001000222	data/huiyan_dataset/raw_wav/wav/0001/000222.wav	法 方 将 继 续 积 极 推 动 基 于 相 互 信 任 的 欧 中 关 系 取 得 更 大 发 展
+0001000224	data/huiyan_dataset/raw_wav/wav/0001/000224.wav	央 广 记 者 刘 乐 报 道 全 国 人 大 常 委 会 委 员 长 张 德 江 今 天 在 人 民 大 会 堂 会 见 了 法 国 总 理 卡 泽 纳 夫
+0001000226	data/huiyan_dataset/raw_wav/wav/0001/000226.wav	央 广 记 者 侯 艳 刘 会 民 报 道
+0001000227	data/huiyan_dataset/raw_wav/wav/0001/000227.wav	十 二 届 全 国 人 大 常 委 会 第 二 十 六 次 会 议 今 天 上 午 在 北 京 人 民 大 会 堂 开 幕
+0001000228	data/huiyan_dataset/raw_wav/wav/0001/000228.wav	张 德 江 委 员 长 主 持 会 议
+0001000230	data/huiyan_dataset/raw_wav/wav/0001/000230.wav	本 次 常 委 会 会 议 的 一 项 重 要 任 务 是 为 召 开 十 二 届 全 国 人 大 五 次 会 议 做 准 备
+0001000232	data/huiyan_dataset/raw_wav/wav/0001/000232.wav	为 此 会 议 审 议 了 全 国 人 大 常 委 会 工 作 报 告 稿
+0001000233	data/huiyan_dataset/raw_wav/wav/0001/000233.wav	审 议 了 委 员 长 会 议 关 于 提 请 审 议 十 二 届 全 国 人 大 五 次 会 议 议 程 草 案
+0001000234	data/huiyan_dataset/raw_wav/wav/0001/000234.wav	主 席 团 和 秘 书 长 名 单 草 案 列 席 人 员 名 单 草 案 等 三 个 议 案
+0001000236	data/huiyan_dataset/raw_wav/wav/0001/000236.wav	会 议 还 听 取 了 关 于 红 十 字 会 法 修 订 草 案 审 议 结 果 的 报 告
+0001000237	data/huiyan_dataset/raw_wav/wav/0001/000237.wav	听 取 了 国 务 院 关 于 提 请 审 议 企 业 所 得 税 法 修 正 案 草 案
+0001000238	data/huiyan_dataset/raw_wav/wav/0001/000238.wav	反 不 正 当 竞 争 法 修 订 草 案 的 议 案 的 说 明 等
+0001000240	data/huiyan_dataset/raw_wav/wav/0001/000240.wav	央 广 消 息 中 国 新 加 坡 双 边 合 作 联 委 会 第 十 三 次 会 议 中 心 苏 州 工 业 园 区 联 合 协 调 理 事 会 第 十 八 次 会 议
+0001000241	data/huiyan_dataset/raw_wav/wav/0001/000241.wav	中 新 天 津 生 态 城 联 合 协 调 理 事 会 第 九 次 会 议 和 中 新 重 庆 战 略 性 互 联 互 通 示 范 项 目 联 合 协 调 理 事 会 第 一 次 会 议 将 于 二 月 二 十 七 号 在 北 京 举 行
+0001000242	data/huiyan_dataset/raw_wav/wav/0001/000242.wav	应 国 务 院 副 总 理 张 高 丽 的 邀 请
+0001000243	data/huiyan_dataset/raw_wav/wav/0001/000243.wav	新 加 坡 共 和 国 副 总 理 张 志 贤 将 于 二 月 二 十 六 号 到 三 月 一 号 来 华 同 张 高 丽 副 总 理 共 同 主 持 上 述 会 议
+0001000245	data/huiyan_dataset/raw_wav/wav/0001/000245.wav	您 正 在 收 听 的 是 中 央 人 民 广 播 电 台 中 国 之 声 全 国 新 闻 联 播
+0001000247	data/huiyan_dataset/raw_wav/wav/0001/000247.wav	全 国 新 闻 联 播 梳 理 其 他 国 内 焦 点
+0001000248	data/huiyan_dataset/raw_wav/wav/0001/000248.wav	国 家 统 计 局 今 天 公 布 七 十 个 大 中 城 市 住 宅 销 售 价 格 统 计 数 据 显 示
+0001000249	data/huiyan_dataset/raw_wav/wav/0001/000249.wav	今 年 一 月 份 一 二 线 城 市 房 价 基 本 止 涨
+0001000250	data/huiyan_dataset/raw_wav/wav/0001/000250.wav	三 线 城 市 房 价 总 势 总 体 平 稳
+0001000251	data/huiyan_dataset/raw_wav/wav/0001/000251.wav	二 手 房 涨 幅 超 过 了 新 房
+0001000252	data/huiyan_dataset/raw_wav/wav/0001/000252.wav	央 广 记 者 张 绵 绵 报 道
+0001000253	data/huiyan_dataset/raw_wav/wav/0001/000253.wav	一 月 房 价 数 据 显 示
+0001000254	data/huiyan_dataset/raw_wav/wav/0001/000254.wav	十 五 个 一 线 和 热 点 二 线 城 市 因 地 制 宜
+0001000255	data/huiyan_dataset/raw_wav/wav/0001/000255.wav	因 城 施 策 实 施 房 地 产 调 控 政 策 以 来 市 场 变 化 明 显
+0001000256	data/huiyan_dataset/raw_wav/wav/0001/000256.wav	房 价 持 续 趋 稳 回 落
+0001000257	data/huiyan_dataset/raw_wav/wav/0001/000257.wav	其 中 十 一 个 城 市 一 月 份 新 建 商 品 房 价 格 环 比 下 降
+0001000258	data/huiyan_dataset/raw_wav/wav/0001/000258.wav	降 幅 在 零 点 一 到 零 点 五 个 百 分 点 之 间
+0001000259	data/huiyan_dataset/raw_wav/wav/0001/000259.wav	三 个 城 市 房 价 环 比 持 平
+0001000260	data/huiyan_dataset/raw_wav/wav/0001/000260.wav	广 州 市 环 比 上 涨 百 分 之 零 点 六
+0001000261	data/huiyan_dataset/raw_wav/wav/0001/000261.wav	也 就 是 说 除 了 广 州 其 他 十 四 个 热 点 城 市 的 新 房 房 价 都 处 于 回 落 或 与 上 月 持 平 状 态
+0001000262	data/huiyan_dataset/raw_wav/wav/0001/000262.wav	在 随 机 采 访 中 有 购 房 者 直 言 我 不 买 太 贵 了 价 格 太 高 了 肯 定 高 了
+0001000263	data/huiyan_dataset/raw_wav/wav/0001/000263.wav	现 在 就 我 觉 得 涨 的 太 快 了
+0001000264	data/huiyan_dataset/raw_wav/wav/0001/000264.wav	中 原 地 产 市 场 研 究 部 总 监 张 大 伟 分 析
+0001000265	data/huiyan_dataset/raw_wav/wav/0001/000265.wav	广 东 省 近 期 地 王 频 出 对 广 州 市 房 价 的 上 涨 有 必 然 拉 动 作 用
+0001000266	data/huiyan_dataset/raw_wav/wav/0001/000266.wav	同 时 房 价 高 起 也 和 广 州 市 自 身 的 特 点 有 关
+0001000267	data/huiyan_dataset/raw_wav/wav/0001/000267.wav	也 跟 我 们 这 一 轮 楼 市 降 温 的 主 要 原 因 是 因 为 政 策 调 控
+0001000268	data/huiyan_dataset/raw_wav/wav/0001/000268.wav	广 州 也 出 台 了 一 些 调 控 政 策 但 是 因 为 它 之 前 的 房 价 涨 幅 相 对 比 较 弱 一 些
+0001000269	data/huiyan_dataset/raw_wav/wav/0001/000269.wav	所 以 它 肯 定 是 目 前 这 个 全 国 一 二 线
+0001000270	data/huiyan_dataset/raw_wav/wav/0001/000270.wav	特 别 是 一 线 和 部 分 的 核 心 二 线 里 面 政 策 力 度 相 对 比 较 弱 的
+0001000271	data/huiyan_dataset/raw_wav/wav/0001/000271.wav	相 比 新 房 七 十 个 大 中 城 市 二 手 房 价 格 涨 幅 明 显 超 过 新 房
+0001000272	data/huiyan_dataset/raw_wav/wav/0001/000272.wav	其 中 广 州 上 涨 百 分 之 一 点 六 湛 江 上 涨 百 分 之 一 点 一
+0001000273	data/huiyan_dataset/raw_wav/wav/0001/000273.wav	太 原 南 宁 重 庆 上 涨 百 分 之 零 点 九
+0001000274	data/huiyan_dataset/raw_wav/wav/0001/000274.wav	二 手 房 合 计 十 六 个 城 市 房 价 环 比 下 调
+0001000275	data/huiyan_dataset/raw_wav/wav/0001/000275.wav	而 新 建 商 品 房 有 二 十 个 城 市 房 价 环 比 下 调
+0001000276	data/huiyan_dataset/raw_wav/wav/0001/000276.wav	这 代 表 了 本 轮 楼 市 调 控 政 策 压 力 主 要 来 自 信 贷 收 紧 购 房 资 格 的 约 束
+0001000277	data/huiyan_dataset/raw_wav/wav/0001/000277.wav	另 外 在 新 建 商 品 房 的 预 售 限 价 等 方 面 政 策 执 行 力 度 更 大
+0001000278	data/huiyan_dataset/raw_wav/wav/0001/000278.wav	因 此 新 建 商 品 房 的 房 价 也 得 到 更 好 的 控 制
+0001000279	data/huiyan_dataset/raw_wav/wav/0001/000279.wav	大 概 在 * * 十 五 到 二 十 个 城 市
+0001000280	data/huiyan_dataset/raw_wav/wav/0001/000280.wav	它 已 经 基 本 上 都 进 入 到 了 一 个 城 区 或 者 说 核 心 区 是 二 手 为 主
+0001000281	data/huiyan_dataset/raw_wav/wav/0001/000281.wav	郊 区 是 新 房 为 主
+0001000282	data/huiyan_dataset/raw_wav/wav/0001/000282.wav	本 身 从 这 一 轮 市 场 的 变 化 来 看
+0001000283	data/huiyan_dataset/raw_wav/wav/0001/000283.wav	它 的 这 个 价 格 相 对 抗 跌 性 比 较 强
+0001000284	data/huiyan_dataset/raw_wav/wav/0001/000284.wav	所 以 它 的 本 身 从 市 场 的 发 展 来 看
+0001000285	data/huiyan_dataset/raw_wav/wav/0001/000285.wav	它 的 价 格 还 是 比 较 坚 挺 的
+0001000287	data/huiyan_dataset/raw_wav/wav/0001/000287.wav	环 保 部 今 天 表 示
+0001000288	data/huiyan_dataset/raw_wav/wav/0001/000288.wav	部 分 城 市 冬 季 污 染 程 度 改 善 幅 度 不 大
+0001000289	data/huiyan_dataset/raw_wav/wav/0001/000289.wav	一 些 地 方 仍 然 存 在 应 急 预 案 措 施 难 落 实 难 考 核 的 问 题
+0001000290	data/huiyan_dataset/raw_wav/wav/0001/000290.wav	央 广 记 者 杜 希 萌 报 道
+0001000291	data/huiyan_dataset/raw_wav/wav/0001/000291.wav	数 据 显 示 今 年 一 月 全 国 三 百 三 十 八 个 地 级 及 以 上 城 市 平 均 优 良 天 数 比 例 只 有 六 成
+0001000292	data/huiyan_dataset/raw_wav/wav/0001/000292.wav	京 津 冀 区 域 p m 二 点 五 浓 度 达 到 了 一 百 二 十 八 微 克 每 立 方 米
+0001000293	data/huiyan_dataset/raw_wav/wav/0001/000293.wav	同 比 上 升 了 百 分 之 四 十 三 点 八
+0001000294	data/huiyan_dataset/raw_wav/wav/0001/000294.wav	环 保 部 副 部 长 赵 英 明 今 天 坦 言
+0001000295	data/huiyan_dataset/raw_wav/wav/0001/000295.wav	北 方 一 些 城 市 冬 季 重 污 染 问 题 改 善 程 度 不 大 尤 其 是 去 年 以 来 部 分 行 业 回 暖
+0001000296	data/huiyan_dataset/raw_wav/wav/0001/000296.wav	造 成 工 业 污 染 排 放 大 幅 增 加
+0001000297	data/huiyan_dataset/raw_wav/wav/0001/000297.wav	京 津 冀 p m 二 点 五 的 平 均 浓 度 同 比 下 降 了 百 分 之 七 点 八
+0001000298	data/huiyan_dataset/raw_wav/wav/0001/000298.wav	但 是 北 京 市 连 续 四 年 的 这 个 监 测 数 据 显 示
+0001000299	data/huiyan_dataset/raw_wav/wav/0001/000299.wav	污 染 最 重 的 三 十 六 天
+0001000300	data/huiyan_dataset/raw_wav/wav/0001/000300.wav	p m 二 点 五 平 均 浓 度 是 二 百 五 十 五 微 克 四 年 基 本 没 有 变 化
+0001000301	data/huiyan_dataset/raw_wav/wav/0001/000301.wav	持 续 时 间 长 达 一 个 月 的 环 保 部 一 季 度 空 气 质 量 专 项 督 查 工 作 正 在 京 津 冀 及 周 边 区 域 十 八 个 市 开 展
+0001000302	data/huiyan_dataset/raw_wav/wav/0001/000302.wav	赵 英 明 说 一 些 地 方 红 色 预 警 的 减 排 效 果 只 相 当 于 蓝 色 预 警
+0001000303	data/huiyan_dataset/raw_wav/wav/0001/000303.wav	我 们 现 在 正 在 核 查 这 个 应 急 预 案
+0001000304	data/huiyan_dataset/raw_wav/wav/0001/000304.wav	督 促 地 方 整 改
+0001000305	data/huiyan_dataset/raw_wav/wav/0001/000305.wav	根 据 正 在 研 究 制 定 的 京 津 冀 及 周 边 区 域 二 零 一 七 大 气 污 染 防 治 工 作 方 案 征 求 意 见 稿
+0001000306	data/huiyan_dataset/raw_wav/wav/0001/000306.wav	除 目 前 已 经 实 施 冬 季 调 节 生 产 的 水 泥 砖 瓦 窑 外
+0001000307	data/huiyan_dataset/raw_wav/wav/0001/000307.wav	今 年 石 家 庄 唐 山 邯 郸 安 阳 等 城 市 采 暖 季 钢 铁 产 能 要 限 产 百 分 之 五 十
+0001000308	data/huiyan_dataset/raw_wav/wav/0001/000308.wav	京 津 冀 区 域 将 在 二 零 一 七 年 实 现 传 输 通 道 二 + 二 十 六 个 城 市 煤 炭 消 费 总 量 相 比 上 一 年 度 负 增 长
+0001000309	data/huiyan_dataset/raw_wav/wav/0001/000309.wav	农 业 部 今 天 通 报 当 前 动 物 H 七 N 九 阳 性 检 出 率 和 地 理 分 布 呈 上 升 和 扩 大 之 势
+0001000310	data/huiyan_dataset/raw_wav/wav/0001/000310.wav	农 业 部 将 尽 快 完 成 紧 急 监 测
+0001000311	data/huiyan_dataset/raw_wav/wav/0001/000311.wav	对 相 关 养 殖 场 户 的 家 禽 坚 决 扑 杀 和 无 害 化 处 理
+0001000312	data/huiyan_dataset/raw_wav/wav/0001/000312.wav	央 广 记 者 沈 静 文 报 道
+0001000313	data/huiyan_dataset/raw_wav/wav/0001/000313.wav	农 业 部 副 部 长 于 康 震 介 绍
+0001000314	data/huiyan_dataset/raw_wav/wav/0001/000314.wav	二 零 一 六 年 全 国 监 测 动 物 H 七 N 九 样 品 一 百 二 十 七 万 份
+0001000315	data/huiyan_dataset/raw_wav/wav/0001/000315.wav	覆 盖 厂 点 四 点 四 二 万 个
+0001000316	data/huiyan_dataset/raw_wav/wav/0001/000316.wav	其 中 监 测 病 原 学 样 品 三 十 万 份
+0001000317	data/huiyan_dataset/raw_wav/wav/0001/000317.wav	检 出 的 十 八 份 阳 性 样 品 来 自 浙 江 广 东 吉 林 安 徽 四 省 的 十 一 个 活 禽 经 营 场 点
+0001000318	data/huiyan_dataset/raw_wav/wav/0001/000318.wav	两 个 养 殖 场 和 两 个 家 禽 屠 宰 点
+0001000319	data/huiyan_dataset/raw_wav/wav/0001/000319.wav	今 年 以 来 H 七 N 九 阳 性 检 出 率 和 地 理 分 布 呈 上 升 和 扩 大 之 势
+0001000320	data/huiyan_dataset/raw_wav/wav/0001/000320.wav	二 零 一 七 年 一 月
+0001000321	data/huiyan_dataset/raw_wav/wav/0001/000321.wav	全 国 监 测 动 物 H 七 N 九 样 品 十 六 万 份
+0001000322	data/huiyan_dataset/raw_wav/wav/0001/000322.wav	其 中 病 原 体 样 品 六 万 份
+0001000323	data/huiyan_dataset/raw_wav/wav/0001/000323.wav	检 出 了 二 十 六 份 阳 性 样 品
+0001000324	data/huiyan_dataset/raw_wav/wav/0001/000324.wav	分 别 来 自 广 东 贵 州 湖 南 江 苏 四 省 的 十 五 个 活 禽 经 营 场 点 和 一 个 养 殖 户
+0001000325	data/huiyan_dataset/raw_wav/wav/0001/000325.wav	从 地 理 分 布 看
+0001000326	data/huiyan_dataset/raw_wav/wav/0001/000326.wav	目 前 H 七 N 九 病 毒 污 染 面 仍 在 不 断 扩 大
+0001000327	data/huiyan_dataset/raw_wav/wav/0001/000327.wav	从 来 源 场 所 看
+0001000328	data/huiyan_dataset/raw_wav/wav/0001/000328.wav	H 七 N 九 病 原 学 阳 性 样 品 主 要 来 自 活 禽 交 易 市 场
+0001000329	data/huiyan_dataset/raw_wav/wav/0001/000329.wav	个 别 家 庭 养 殖 场 和 屠 宰 场 也 有 检 出
+0001000330	data/huiyan_dataset/raw_wav/wav/0001/000330.wav	于 康 震 表 示 农 业 部 门 将 密 切 跟 踪 疫 情 动 态
+0001000331	data/huiyan_dataset/raw_wav/wav/0001/000331.wav	强 化 监 测 和 流 行 病 学 调 查
+0001000332	data/huiyan_dataset/raw_wav/wav/0001/000332.wav	加 强 源 头 防 控 和 净 化
+0001000333	data/huiyan_dataset/raw_wav/wav/0001/000333.wav	虽 然 到 目 前 为 止 只 有 广 东 检 出 了 H 七 N 九 流 感 的 变 异 株
+0001000334	data/huiyan_dataset/raw_wav/wav/0001/000334.wav	但 在 活 血 禽 全 国 大 范 围 流 通 的 大 背 景 下
+0001000335	data/huiyan_dataset/raw_wav/wav/0001/000335.wav	其 他 地 区 恐 怕 也 很 难 独 善 其 身
+0001000336	data/huiyan_dataset/raw_wav/wav/0001/000336.wav	各 地 畜 牧 兽 医 部 门 要 按 照 要 求 抓 紧 完 成 H 七 N 九 的 紧 急 监 测
+0001000337	data/huiyan_dataset/raw_wav/wav/0001/000337.wav	尽 快 摸 清 H 七 N 九 变 异 毒 株 的 污 染 面 和 分 布 状 况
+0001000338	data/huiyan_dataset/raw_wav/wav/0001/000338.wav	对 检 出 病 原 学 阳 性 的 养 殖 场 户 的 家 禽 啊 要 坚 决 进 行 扑 杀 和 无 害 化 处 理
+0001000339	data/huiyan_dataset/raw_wav/wav/0001/000339.wav	按 照 国 家 有 关 扑 杀 补 偿 的 规 定 经 费 是 有 保 障 的
+0001000341	data/huiyan_dataset/raw_wav/wav/0001/000341.wav	针 对 中 国 之 声 上 周 持 续 关 注 的 食 盐 定 点 生 产 企 业 跨 省 卖 盐 却 被 多 个 省 市 的 盐 业 管 理 部 门 查 扣 等 问 题
+0001000342	data/huiyan_dataset/raw_wav/wav/0001/000342.wav	国 家 发 改 委 昨 天 接 受 央 广 记 者 独 家 采 访 时 表 示
+0001000343	data/huiyan_dataset/raw_wav/wav/0001/000343.wav	将 于 近 期 印 发 落 实 盐 改 跨 区 经 营 有 关 政 策 的 通 知
+0001000344	data/huiyan_dataset/raw_wav/wav/0001/000344.wav	重 申 盐 改 的 文 件 精 神
+0001000345	data/huiyan_dataset/raw_wav/wav/0001/000345.wav	要 求 地 方 盐 业 管 理 部 门 不 得 设 置 行 政 壁 垒
+0001000346	data/huiyan_dataset/raw_wav/wav/0001/000346.wav	阻 碍 改 革 的 进 程
+0001000347	data/huiyan_dataset/raw_wav/wav/0001/000347.wav	央 广 记 者 刘 依 晨 肖 源 报 道
+0001000348	data/huiyan_dataset/raw_wav/wav/0001/000348.wav	国 家 发 改 委 经 济 体 制 综 合 改 革 司 巡 视 员 王 强 在 接 受 央 广 记 者 独 家 采 访 时 重 申
+0001000349	data/huiyan_dataset/raw_wav/wav/0001/000349.wav	盐 业 体 制 改 革 并 不 意 味 着 取 消 食 盐 专 营 制 度
+0001000350	data/huiyan_dataset/raw_wav/wav/0001/000350.wav	王 强 认 为 在 实 际 操 作 中 的 确 有 食 盐 定 点 生 产 企 业 存 在 违 规 的 地 方
+0001000351	data/huiyan_dataset/raw_wav/wav/0001/000351.wav	比 如 搞 加 盟 转 贷 批 等 等
+0001000352	data/huiyan_dataset/raw_wav/wav/0001/000352.wav	但 相 对 而 言
+0001000353	data/huiyan_dataset/raw_wav/wav/0001/000353.wav	地 方 盐 业 管 理 部 门 设 置 各 种 行 政 壁 垒 的 现 象 更 突 出 一 些
+0001000354	data/huiyan_dataset/raw_wav/wav/0001/000354.wav	打 个 比 方 讲 我 们 说 告 知 你 八 个 信 息 就 可 以 了
+0001000355	data/huiyan_dataset/raw_wav/wav/0001/000355.wav	它 可 能 增 加 个 十 几 个 信 息
+0001000356	data/huiyan_dataset/raw_wav/wav/0001/000356.wav	二 十 几 个 信 息
+0001000357	data/huiyan_dataset/raw_wav/wav/0001/000357.wav	还 有 一 个 就 是 现 在 呢 有 的 地 方 搞 了 一 个 食 盐 的 交 易 平 台
+0001000358	data/huiyan_dataset/raw_wav/wav/0001/000358.wav	那 么 这 个 我 认 为 是 好 事 儿
+0001000359	data/huiyan_dataset/raw_wav/wav/0001/000359.wav	但 是 公 开 公 平 公 正 自 愿 原 则
+0001000360	data/huiyan_dataset/raw_wav/wav/0001/000360.wav	你 不 能 把 这 个 作 为 一 个 前 置 条 件 新 设 一 个 门 槛
+0001000361	data/huiyan_dataset/raw_wav/wav/0001/000361.wav	此 外 还 有 地 方 盐 业 局 以 所 谓 的 产 品 质 量 问 题 刁 难 食 盐 企 业
+0001000362	data/huiyan_dataset/raw_wav/wav/0001/000362.wav	王 强 认 为 这 些 是 不 应 该 出 现 的 问 题
+0001000363	data/huiyan_dataset/raw_wav/wav/0001/000363.wav	只 要 有 所 在 地 有 资 质 的 部 门 检 测 那 个 标 准
+0001000364	data/huiyan_dataset/raw_wav/wav/0001/000364.wav	他 只 要 把 那 个 单 子 拿 走 的
+0001000365	data/huiyan_dataset/raw_wav/wav/0001/000365.wav	你 这 个 时 候 你 不 能 再 要 求 再 提 供 我 在 的 省 内 的 一 个 检 测 报 告 了 你 如 果 要 想 检 测 可 以
+0001000366	data/huiyan_dataset/raw_wav/wav/0001/000366.wav	你 不 影 响 别 人 销 售
+0001000367	data/huiyan_dataset/raw_wav/wav/0001/000367.wav	你 自 己 拿 几 袋 盐 你 你 自 己 检 测 就 完 了
+0001000368	data/huiyan_dataset/raw_wav/wav/0001/000368.wav	如 果 去 检 测 了 不 符 合 规 定
+0001000369	data/huiyan_dataset/raw_wav/wav/0001/000369.wav	该 怎 么 处 罚 就 怎 么 处 罚
+0001000370	data/huiyan_dataset/raw_wav/wav/0001/000370.wav	但 还 有 一 个 呢 就 是 你 要 符 合 个 卫 计 委 当 地 的 一 个 碘 盐 浓 度 的 规 定
+0001000371	data/huiyan_dataset/raw_wav/wav/0001/000371.wav	王 强 表 示 盐 改 政 策 落 地 五 十 天 以 来 暴 露 出 来 的 问 题
+0001000372	data/huiyan_dataset/raw_wav/wav/0001/000372.wav	表 面 上 看 是 食 盐 企 业 与 地 方 盐 业 局 的 冲 突
+0001000373	data/huiyan_dataset/raw_wav/wav/0001/000373.wav	但 更 深 层 次 的 矛 盾 还 是 政 企 不 分
+0001000374	data/huiyan_dataset/raw_wav/wav/0001/000374.wav	因 而 今 年 年 底 之 前 全 部 行 政 层 级 的 盐 业 部 门 和 盐 业 公 司 必 须 政 企 分 开
+0001000375	data/huiyan_dataset/raw_wav/wav/0001/000375.wav	以 便 为 食 盐 市 场 创 造 一 个 公 平 竞 争 的 环 境
+0001000377	data/huiyan_dataset/raw_wav/wav/0001/000377.wav	国 家 文 物 事 业 发 展 十 三 五 规 划 近 日 发 布
+0001000378	data/huiyan_dataset/raw_wav/wav/0001/000378.wav	规 划 提 出 加 大 文 物 保 护 力 度
+0001000379	data/huiyan_dataset/raw_wav/wav/0001/000379.wav	全 面 提 升 博 物 馆 发 展 质 量
+0001000380	data/huiyan_dataset/raw_wav/wav/0001/000380.wav	让 文 物 活 起 来
+0001000381	data/huiyan_dataset/raw_wav/wav/0001/000381.wav	央 广 记 者 丁 飞 报 道
+0001000382	data/huiyan_dataset/raw_wav/wav/0001/000382.wav	根 据 规 划 到 二 零 二 零 年 我 国 文 物 资 源 和 保 护 状 况 基 本 摸 清
+0001000383	data/huiyan_dataset/raw_wav/wav/0001/000383.wav	全 面 完 成 第 一 次 全 国 可 移 动 文 物 普 查 公 布 普 查 数 据 和 成 果
+0001000384	data/huiyan_dataset/raw_wav/wav/0001/000384.wav	全 国 将 实 行 国 有 可 移 动 文 物 身 份 证 制 度
+0001000385	data/huiyan_dataset/raw_wav/wav/0001/000385.wav	长 城 保 护 计 划 革 命 文 物 保 护 利 用 工 程 等 一 系 列 重 点 文 物 保 护 工 程 将 陆 续 推 进
+0001000386	data/huiyan_dataset/raw_wav/wav/0001/000386.wav	国 家 文 物 局 副 局 长 顾 育 才 透 露
+0001000387	data/huiyan_dataset/raw_wav/wav/0001/000387.wav	十 三 五 期 间 要 牢 固 树 立 保 护 文 物 也 是 政 绩 的 科 学 理 念
+0001000388	data/huiyan_dataset/raw_wav/wav/0001/000388.wav	推 动 文 物 保 护 实 现 两 个 转 变
+0001000389	data/huiyan_dataset/raw_wav/wav/0001/000389.wav	要 推 动 文 物 保 护 由 注 重 抢 救 性 保 护
+0001000390	data/huiyan_dataset/raw_wav/wav/0001/000390.wav	向 抢 救 性 与 预 防 性 保 护 并 重 来 转 变
+0001000391	data/huiyan_dataset/raw_wav/wav/0001/000391.wav	由 以 前 注 重 保 护 文 物 本 体 向 既 注 重 保 护 文 物 本 体
+0001000392	data/huiyan_dataset/raw_wav/wav/0001/000392.wav	也 注 重 保 护 文 物 的 周 边 环 境 和 文 化 生 态 的 整 体 保 护 来 转 变
+0001000393	data/huiyan_dataset/raw_wav/wav/0001/000393.wav	同 时 呢 我 们 也 要 积 极 地 鼓 励 社 会 的 力 量 来 参 与 文 物 保 护
+0001000394	data/huiyan_dataset/raw_wav/wav/0001/000394.wav	根 据 规 划 到 二 零 二 零 年 主 体 多 元 结 构 优 化 特 色 鲜 明 富 有 活 力 的 博 物 馆 体 系 基 本 形 成
+0001000395	data/huiyan_dataset/raw_wav/wav/0001/000395.wav	全 国 博 物 馆 覆 盖 率 从 十 二 五 期 间 的 每 二 十 九 万 人 拥 有 一 家 博 物 馆
+0001000396	data/huiyan_dataset/raw_wav/wav/0001/000396.wav	提 高 到 每 二 十 五 万 人 拥 有 一 家 观 众 人 数 每 年 达 八 亿 人 次
+0001000397	data/huiyan_dataset/raw_wav/wav/0001/000397.wav	全 国 国 有 博 物 馆 为 中 小 学 生 讲 解 服 务 每 年 十 万 小 时 以 上
+0001000398	data/huiyan_dataset/raw_wav/wav/0001/000398.wav	会 使 更 多 的 文 物 从 库 房 出 来 来 到 展 厅 与 广 大 观 众 见 面
+0001000399	data/huiyan_dataset/raw_wav/wav/0001/000399.wav	通 过 互 联 网 移 动 终 端 等 手 段
+0001000400	data/huiyan_dataset/raw_wav/wav/0001/000400.wav	老 百 姓 足 不 出 户 就 可 以 欣 赏 到 精 美 的 文 物
+0001000402	data/huiyan_dataset/raw_wav/wav/0001/000402.wav	参 与 了 签 到 打 卡
+0001000403	data/huiyan_dataset/raw_wav/wav/0001/000403.wav	兑 换 手 机 活 动 却 无 法 顺 利 兑 换 手 机
+0001000404	data/huiyan_dataset/raw_wav/wav/0001/000404.wav	八 十 名 消 费 者 起 诉 乐 视 涉 嫌 欺 诈 一 案
+0001000405	data/huiyan_dataset/raw_wav/wav/0001/000405.wav	今 天 下 午 在 北 京 市 朝 阳 区 法 院 开 庭
+0001000406	data/huiyan_dataset/raw_wav/wav/0001/000406.wav	央 广 记 者 杨 博 宇 报 道
+0001000407	data/huiyan_dataset/raw_wav/wav/0001/000407.wav	在 今 天 下 午 的 庭 审 中
+0001000408	data/huiyan_dataset/raw_wav/wav/0001/000408.wav	原 告 一 方 四 位 代 理 律 师 及 两 名 乐 迷 社 区 用 户 代 表 出 庭
+0001000409	data/huiyan_dataset/raw_wav/wav/0001/000409.wav	被 告 乐 视 方 面 有 两 位 代 理 人 出 庭
+0001000410	data/huiyan_dataset/raw_wav/wav/0001/000410.wav	该 案 审 于 二 零 一 六 年 二 月 四 号 乐 视 在 其 官 方 粉 丝 互 动 交 流 平 台
+0001000411	data/huiyan_dataset/raw_wav/wav/0001/000411.wav	乐 迷 社 区 发 布 了 题 为 春 节 签 到 打 卡 手 机 红 包 百 分 之 百 获 得 的 活 动 帖
+0001000412	data/huiyan_dataset/raw_wav/wav/0001/000412.wav	吸 引 了 众 多 用 户 关 注
+0001000413	data/huiyan_dataset/raw_wav/wav/0001/000413.wav	这 一 活 动 帖 内 容 为 每 天 签 到 成 功
+0001000414	data/huiyan_dataset/raw_wav/wav/0001/000414.wav	并 且 连 续 十 六 天 完 成 打 卡
+0001000415	data/huiyan_dataset/raw_wav/wav/0001/000415.wav	即 可 在 二 零 一 六 年 二 月 二 十 五 号 十 二 点
+0001000416	data/huiyan_dataset/raw_wav/wav/0001/000416.wav	在 乐 米 集 市 百 分 之 百 兑 换 手 机 不 少 乐 迷 按 照 该 帖 内 容 连 续 十 六 天 打 卡
+0001000417	data/huiyan_dataset/raw_wav/wav/0001/000417.wav	但 在 二 月 二 十 五 号 十 二 点 前 后 登 陆 乐 米 社 区 的 乐 米 集 市 准 备 参 加 现 时 抢 购 兑 换 价 值 三 千 九 百 九 十 九 元 乐 m a x 手 机 时
+0001000418	data/huiyan_dataset/raw_wav/wav/0001/000418.wav	却 出 现 网 页 无 法 打 开 的 情 形 后 拨 打 客 服 告 知 网 站 受 到 了 黑 客 攻 击
+0001000419	data/huiyan_dataset/raw_wav/wav/0001/000419.wav	再 登 录 时 页 面 提 示 已 兑 换 完
+0001000420	data/huiyan_dataset/raw_wav/wav/0001/000420.wav	我 一 开 始 的 时 候 是 跟 客 服 联 系 过 的 客 服 说 没 问 题 我 们 这 个 事 是 百 分 之 百 肯 定 是 每 个 人 都 有 的
+0001000421	data/huiyan_dataset/raw_wav/wav/0001/000421.wav	然 后 等 到 了 后 边 呢 在 跟 客 服 联 系 的 时 候 呢 客 服 就 开 始 就 说 这 个 就 说 那 个 他 前 后 自 己 就 完 全 矛 盾 了
+0001000422	data/huiyan_dataset/raw_wav/wav/0001/000422.wav	他 后 来 把 百 分 之 百 的 这 个 这 个 字 去 掉 了 然 后 换 成 了 数 量 有 限
+0001000423	data/huiyan_dataset/raw_wav/wav/0001/000423.wav	先 到 先 得 二 零 一 六 年 七 月 十 八 号
+0001000424	data/huiyan_dataset/raw_wav/wav/0001/000424.wav	八 十 名 乐 迷 社 区 用 户 向 北 京 朝 阳 法 院 提 起 诉 讼
+0001000425	data/huiyan_dataset/raw_wav/wav/0001/000425.wav	诉 请 按 照 约 定 兑 换 价 值 三 千 九 百 九 十 九 元 的 乐 m a x 手 机 一 部
+0001000426	data/huiyan_dataset/raw_wav/wav/0001/000426.wav	并 要 求 乐 视 支 付 三 倍 赔 偿
+0001000427	data/huiyan_dataset/raw_wav/wav/0001/000427.wav	在 下 午 的 庭 审 当 中 持 续 了 两 个 多 小 时
+0001000428	data/huiyan_dataset/raw_wav/wav/0001/000428.wav	随 后 法 官 宣 布 休 庭 并 未 当 庭 宣 判
+0001000429	data/huiyan_dataset/raw_wav/wav/0001/000429.wav	此 事 的 相 关 进 展 中 国 之 声 将 继 续 关 注
+0001000430	data/huiyan_dataset/raw_wav/wav/0001/000430.wav	今 年 以 来 最 大 范 围 降 雪 强 度 最 强 的 雨 雪 降 温 天 气 仍 在 持 续
+0001000431	data/huiyan_dataset/raw_wav/wav/0001/000431.wav	给 各 地 交 通 造 成 严 重 影 响 请 听 报 道
+0001000432	data/huiyan_dataset/raw_wav/wav/0001/000432.wav	受 到 降 雪 影 响 今 天 早 上 十 点 北 京 天 津 河 北 吉 林 内 蒙 古 辽 宁 山 东 和 山 西 八 个 省 市 的 三 十 三 条 高 速 公 路 的 局 部 路 段 封 闭
+0001000433	data/huiyan_dataset/raw_wav/wav/0001/000433.wav	其 中 河 北 全 省 天 津 境 内 的 所 有 高 速 全 部 封 闭
+0001000434	data/huiyan_dataset/raw_wav/wav/0001/000434.wav	截 至 今 天 中 午 随 着 降 雪 结 束 天 津 及 河 北 大 部 分 高 速 陆 续 恢 复 正 常 通 行
+0001000435	data/huiyan_dataset/raw_wav/wav/0001/000435.wav	东 北 三 省 再 度 迎 来 大 范 围 降 雪 辽 宁 吉 林 两 省 数 百 条 长 途 客 运 停 运
+0001000436	data/huiyan_dataset/raw_wav/wav/0001/000436.wav	哈 尔 滨 市 的 京 哈 绕 城 等 高 速 公 路 封 闭 目 前 哈 尔 滨 机 场 高 速 限 速 四 十 公 里
+0001000437	data/huiyan_dataset/raw_wav/wav/0001/000437.wav	昨 天 起 河 南 多 地 普 降 中 到 大 雪 河 南 境 内 铁 路 受 到 不 同 程 度 的 影 响 郑 州 东 站 和 郑 州 火 车 站 列 车 一 度 出 现 晚 点 部 分 甚 至 达 到 一 个 小 时 以 上
+0001000438	data/huiyan_dataset/raw_wav/wav/0001/000438.wav	今 天 上 午 大 部 分 车 次 都 正 点 从 郑 州 站 发 出
+0001000439	data/huiyan_dataset/raw_wav/wav/0001/000439.wav	郑 州 东 站 新 闻 发 言 人 陈 洋 目 前 呢 有 西 安 北 方 向 过 来 和 从 东 边 过 来 方 向 列 车 有 这 个 小 量 晚 点 情 况
+0001000440	data/huiyan_dataset/raw_wav/wav/0001/000440.wav	随 着 降 温 带 的 南 移 江 淮 地 区 今 天 迎 来 较 强 的 雨 雪 天 气
+0001000441	data/huiyan_dataset/raw_wav/wav/0001/000441.wav	安 徽 超 过 五 十 个 市 县 发 布 暴 雪 寒 潮 等 天 气 预 警
+0001000442	data/huiyan_dataset/raw_wav/wav/0001/000442.wav	大 雪 导 致 安 徽 北 部 交 通 受 阻 G 三 零 连 霍 高 速 安 徽 段
+0001000443	data/huiyan_dataset/raw_wav/wav/0001/000443.wav	G 三 五 济 广 高 速 亳 阜 段 等 高 速 从 昨 晚 开 始 封 闭
+0001000444	data/huiyan_dataset/raw_wav/wav/0001/000444.wav	目 前 仍 实 行 交 通 管 制
+0001000445	data/huiyan_dataset/raw_wav/wav/0001/000445.wav	亳 州 交 警 支 队 高 速 四 大 队 协 警 刘 浩 路 面 现 在 结 冰 比 较 严 重
+0001000446	data/huiyan_dataset/raw_wav/wav/0001/000446.wav	积 水 比 较 深 比 较 高 比 较 厚
+0001000447	data/huiyan_dataset/raw_wav/wav/0001/000447.wav	已 经 实 行 了 那 个 一 级 管 制
+0001000448	data/huiyan_dataset/raw_wav/wav/0001/000448.wav	那 呃 不 允 许 车 辆 上 高 速
+0001000449	data/huiyan_dataset/raw_wav/wav/0001/000449.wav	在 江 苏 多 种 恶 劣 天 气 汹 涌 而 来
+0001000450	data/huiyan_dataset/raw_wav/wav/0001/000450.wav	徐 州 发 布 今 年 首 个 暴 雪 黄 色 预 警
+0001000451	data/huiyan_dataset/raw_wav/wav/0001/000451.wav	海 事 部 门 发 布 大 风 预 警
+0001000452	data/huiyan_dataset/raw_wav/wav/0001/000452.wav	南 通 连 云 港 等 地 海 事 部 门 已 经 采 取 了 应 急 措 施
+0001000453	data/huiyan_dataset/raw_wav/wav/0001/000453.wav	要 求 抗 风 能 力 差 的 船 舶 提 前 避 风
+0001000454	data/huiyan_dataset/raw_wav/wav/0001/000454.wav	全 国 新 闻 联 播 来 扫 描 一 组 国 内 资 讯
+0001000455	data/huiyan_dataset/raw_wav/wav/0001/000455.wav	为 期 四 十 天 的 二 零 一 七 年 铁 路 春 运 已 圆 满 结 束
+0001000456	data/huiyan_dataset/raw_wav/wav/0001/000456.wav	大 数 据 报 告 显 示 北 上 广 浙 四 地 流 入 全 国 近 七 成 务 工 人 员
+0001000457	data/huiyan_dataset/raw_wav/wav/0001/000457.wav	全 国 铁 路 累 计 发 送 旅 客 三 点 五 七 亿 人 次 增 长 百 分 之 十 点 一 创 铁 路 春 运 旅 客 发 送 新 纪 录
+0001000458	data/huiyan_dataset/raw_wav/wav/0001/000458.wav	上 海 市 发 布 三 年 行 动 计 划 到 二 零 一 九 年 上 海 工 业 互 联 网 发 展 生 态 体 系 初 步 形 成
+0001000459	data/huiyan_dataset/raw_wav/wav/0001/000459.wav	力 争 成 为 国 家 级 工 业 互 联 网 创 新 示 范 城 市
+0001000460	data/huiyan_dataset/raw_wav/wav/0001/000460.wav	武 汉 市 近 日 出 台 企 业 创 新 十 条 其 中 包 括 凡 企 业 吸 纳 技 术 可 按 上 年 度 实 现 技 术 交 易 额 百 分 之 二 的 比 例 给 予 补 贴
+0001000461	data/huiyan_dataset/raw_wav/wav/0001/000461.wav	单 个 企 业 最 高 一 百 万 元 封 顶 以 最 大 限 度 保 护 和 释 放 企 业 创 新 活 力
+0001000462	data/huiyan_dataset/raw_wav/wav/0001/000462.wav	青 海 省 第 一 次 全 国 地 理 国 情 普 查 结 果 显 示
+0001000463	data/huiyan_dataset/raw_wav/wav/0001/000463.wav	中 国 最 美 湖 泊 青 海 湖 从 二 零 四 零 四 年 至 二 零 一 六 年 面 积 增 加 了 一 百 六 十 九 点 七 平 方 千 米
+0001000464	data/huiyan_dataset/raw_wav/wav/0001/000464.wav	相 当 于 二 十 六 个 西 湖 的 面 积
+0001000465	data/huiyan_dataset/raw_wav/wav/0001/000465.wav	全 国 新 闻 联 播 最 后 关 注 国 际 资 讯 美 国 国 土 安 全 部 二 十 一 号 发 布 两 份 备 忘 录
+0001000466	data/huiyan_dataset/raw_wav/wav/0001/000466.wav	落 实 美 国 总 统 特 朗 普 此 前 签 署 的 关 于 加 强 边 境 管 控
+0001000467	data/huiyan_dataset/raw_wav/wav/0001/000467.wav	限 制 非 法 移 民 的 行 政 令 央 广 记 者 朱 敏 报 道
+0001000468	data/huiyan_dataset/raw_wav/wav/0001/000468.wav	这 两 份 备 忘 录 的 出 台 旨 在 阻 止 非 法 移 民 并 便 利 对 没 有 合 法 理 由 进 入 或 滞 留 美 国 的 外 国 人 进 行 识 别 逮 捕 关 押 和 驱 离
+0001000469	data/huiyan_dataset/raw_wav/wav/0001/000469.wav	具 体 措 施 包 括 增 加 海 关 和 边 境 保 护 局 的 执 法 人 员 数 量
+0001000470	data/huiyan_dataset/raw_wav/wav/0001/000470.wav	加 强 国 土 安 全 部 长 对 于 执 法 行 动 的 指 挥 权
+0001000471	data/huiyan_dataset/raw_wav/wav/0001/000471.wav	在 美 墨 边 境 筑 墙 等 白 宫 新 闻 发 言 人 斯 派 塞 表 示
+0001000472	data/huiyan_dataset/raw_wav/wav/0001/000472.wav	新 的 规 定 不 会 大 规 模 遣 返 移 民 但 是 会 赋 予 移 民 官 员 更 大 的 权 利 来 实 施 既 有 规 定
+0001000474	data/huiyan_dataset/raw_wav/wav/0001/000474.wav	记 住 任 何 非 法 在 美 国 的 人 随 时 可 能 遭 到 遣 返 这 在 每 个 国 家 都 是 一 样 的
+0001000475	data/huiyan_dataset/raw_wav/wav/0001/000475.wav	并 不 仅 在 我 们 的 国 家 才 这 样
+0001000476	data/huiyan_dataset/raw_wav/wav/0001/000476.wav	如 果 你 在 这 个 国 家 非 法 拘 留
+0001000477	data/huiyan_dataset/raw_wav/wav/0001/000477.wav	显 然 会 有 规 定 确 保 你 可 以 遭 到 遣 返
+0001000479	data/huiyan_dataset/raw_wav/wav/0001/000479.wav	斯 派 塞 表 示 已 有 近 一 百 万 非 法 移 民 被 裁 定 符 合 新 规 目 标
+0001000480	data/huiyan_dataset/raw_wav/wav/0001/000480.wav	因 此 政 府 将 确 保 集 中 资 源 处 理 这 些 非 法 移 民
+0001000481	data/huiyan_dataset/raw_wav/wav/0001/000481.wav	中 国 国 际 问 题 研 究 院 美 国 研 究 所 所 长 滕 建 群 认 为
+0001000482	data/huiyan_dataset/raw_wav/wav/0001/000482.wav	相 比 于 上 一 份 被 法 院 喊 停 的 禁 穆 令
+0001000483	data/huiyan_dataset/raw_wav/wav/0001/000483.wav	针 对 非 法 移 民 的 遣 返 新 政 会 面 临 较 少 司 法 阻 碍
+0001000484	data/huiyan_dataset/raw_wav/wav/0001/000484.wav	他 通 过 限 制 和 打 击 在 美 国 的 非 法 移 民 来 赢 得 各 方 的 支 持
+0001000485	data/huiyan_dataset/raw_wav/wav/0001/000485.wav	从 司 法 角 度 来 说 做 出 再 次 阻 断 他 的 这 种 行 政 命 令 的 可 能 性 不 是 很 大
+0001000487	data/huiyan_dataset/raw_wav/wav/0001/000487.wav	中 国 之 声 正 在 直 播 稍 后 央 广 新 闻 晚 高 峰 为 您 关 注
+0001000488	data/huiyan_dataset/raw_wav/wav/0001/000488.wav	南 京 购 买 二 手 房 遭 遇 前 任 赖 着 户 口 不 走
+0001000489	data/huiyan_dataset/raw_wav/wav/0001/000489.wav	有 政 策 没 细 则 怎 么 办
+0001000490	data/huiyan_dataset/raw_wav/wav/0001/000490.wav	这 次 全 国 新 闻 联 播 节 目 监 制 赵 军 编 辑 徐 杰 峰 吴 菁 主 播 玉 蕾 泰 龙
+0001000491	data/huiyan_dataset/raw_wav/wav/0001/000491.wav	更 多 内 容 请 关 注 央 广 音 频 客 户 端 中 国 广 播 以 及 中 国 之 声 实 名 微 博 和 微 信 公 众 号
+0002000002	data/huiyan_dataset/raw_wav/wav/0002/000002.wav	中 央 人 民 广 播 电 台 中 央 人 民 广 播 电 台 全 国 新 闻 联 播
+0002000004	data/huiyan_dataset/raw_wav/wav/0002/000004.wav	全 国 新 闻 联 播 每 天 为 您 汇 总 梳 理 全 天 资 讯 我 是 主 持 人 尹 麒 我 是 颖 婧 首 先 关 注 今 日 头 条
+0002000005	data/huiyan_dataset/raw_wav/wav/0002/000005.wav	北 京 网 约 车 新 政 五 个 月 的 过 渡 期 结 束
+0002000006	data/huiyan_dataset/raw_wav/wav/0002/000006.wav	今 天 正 式 开 始 实 施
+0002000007	data/huiyan_dataset/raw_wav/wav/0002/000007.wav	根 据 新 规 运 营 车 辆 需 要 有 网 约 运 营 许 可 证
+0002000008	data/huiyan_dataset/raw_wav/wav/0002/000008.wav	司 机 要 持 有 网 约 车 司 机 资 格 证 才 能 上 路 运 营
+0002000009	data/huiyan_dataset/raw_wav/wav/0002/000009.wav	新 政 正 式 实 施 不 会 一 刀 切 式 要 求 所 有 车 辆 和 司 机 持 证 上 岗
+0002000010	data/huiyan_dataset/raw_wav/wav/0002/000010.wav	该 项 工 作 将 逐 步 推 进 央 广 记 者 吴 哲 华 发 来 报 道
+0002000011	data/huiyan_dataset/raw_wav/wav/0002/000011.wav	目 前 北 京 已 有 包 括 滴 滴 出 行 神 舟 首 汽 约 车 飞 嘀 易 到 等 五 家 网 约 车 平 台 取 得 经 营 许 可
+0002000012	data/huiyan_dataset/raw_wav/wav/0002/000012.wav	尽 管 网 约 车 新 政 已 经 正 式 实 施
+0002000013	data/huiyan_dataset/raw_wav/wav/0002/000013.wav	要 求 京 牌 京 户 今 天 上 午 河 南 籍 滴 滴 快 车 司 机 张 师 傅 仍 开 着 京 牌 小 轿 车
+0002000014	data/huiyan_dataset/raw_wav/wav/0002/000014.wav	在 北 京 拉 活 是 外 地 的 呀 你 是 外 地 的 对 呀 那 怎 么 还 可 以 跑
+0002000015	data/huiyan_dataset/raw_wav/wav/0002/000015.wav	我 是 北 京 牌 子 嘛 如 果 说 要 是 外 地 的 牌 子 的 话
+0002000016	data/huiyan_dataset/raw_wav/wav/0002/000016.wav	呃 你 就 跑 不 了 了
+0002000017	data/huiyan_dataset/raw_wav/wav/0002/000017.wav	他 不 是 要 求 北 京 户 口 吗
+0002000018	data/huiyan_dataset/raw_wav/wav/0002/000018.wav	在 北 京 不 可 能 北 京 户 口 到 哪 查 去 据 媒 体 报 道 过 渡 期 结 束 后
+0002000019	data/huiyan_dataset/raw_wav/wav/0002/000019.wav	执 法 人 员 不 会 一 刀 切 式 要 求 所 有 车 辆 和 司 机 持 证 上 岗
+0002000020	data/huiyan_dataset/raw_wav/wav/0002/000020.wav	该 项 工 作 将 逐 步 推 进
+0002000021	data/huiyan_dataset/raw_wav/wav/0002/000021.wav	也 就 是 说 新 政 的 完 全 执 行 仍 需 要 一 个 过 程
+0002000022	data/huiyan_dataset/raw_wav/wav/0002/000022.wav	已 经 有 很 多 同 行 退 出
+0002000023	data/huiyan_dataset/raw_wav/wav/0002/000023.wav	感 觉 自 己 也 干 不 长 了
+0002000024	data/huiyan_dataset/raw_wav/wav/0002/000024.wav	其 实 这 个 计 划 早 就 说 了
+0002000025	data/huiyan_dataset/raw_wav/wav/0002/000025.wav	人 会 不 会 变 少 呀 就 是 平 台 的 司 机 会 不 会 变 少 呀 都 是 这 样 的
+0002000026	data/huiyan_dataset/raw_wav/wav/0002/000026.wav	几 乎 就 没 有 了 为 啥 你 看 北 京 人 谁 会 去 跑 这 个
+0002000027	data/huiyan_dataset/raw_wav/wav/0002/000027.wav	王 女 士 今 天 上 午 十 一 点 多
+0002000028	data/huiyan_dataset/raw_wav/wav/0002/000028.wav	龙 裕 东 一 路 打 滴 滴 快 车 去 西 二 旗 地 铁 站 体 验 了 一 把 打 网 约 车 难
+0002000029	data/huiyan_dataset/raw_wav/wav/0002/000029.wav	平 时 拼 车 的 话 可 能 也 就 七 块 钱 左 右
+0002000030	data/huiyan_dataset/raw_wav/wav/0002/000030.wav	然 后 我 今 天 叫 不 拼 车 的 话 他 等 了 二 十 分 钟 加 了 两 次 价
+0002000031	data/huiyan_dataset/raw_wav/wav/0002/000031.wav	嗯 一 个 是 十 三 块 多 一 个 是 十 七 块 多 最 后 都 没 有 叫 上
+0002000032	data/huiyan_dataset/raw_wav/wav/0002/000032.wav	北 京 商 报 援 引 有 关 人 士 的 话 说
+0002000033	data/huiyan_dataset/raw_wav/wav/0002/000033.wav	与 网 约 车 市 场 补 贴 最 多
+0002000034	data/huiyan_dataset/raw_wav/wav/0002/000034.wav	北 京 网 约 车 市 场 车 辆 最 多 的 时 候 相 比
+0002000035	data/huiyan_dataset/raw_wav/wav/0002/000035.wav	网 约 车 新 政 落 地 后
+0002000036	data/huiyan_dataset/raw_wav/wav/0002/000036.wav	合 规 网 约 车 将 整 体 大 幅 锐 减
+0002000037	data/huiyan_dataset/raw_wav/wav/0002/000037.wav	北 京 海 淀 后 厂 村 是 一 度 喧 闹 的 滴 滴 村
+0002000038	data/huiyan_dataset/raw_wav/wav/0002/000038.wav	在 后 厂 村 聚 集 并 居 住 的 外 地
+0002000039	data/huiyan_dataset/raw_wav/wav/0002/000039.wav	滴 滴 司 机 一 度 有 近 千 人
+0002000040	data/huiyan_dataset/raw_wav/wav/0002/000040.wav	距 滴 滴 村 的 住 户 描 述
+0002000041	data/huiyan_dataset/raw_wav/wav/0002/000041.wav	网 约 车 平 台 近 百 分 之 七 八 十
+0002000042	data/huiyan_dataset/raw_wav/wav/0002/000042.wav	都 是 非 京 户 的 司 机
+0002000043	data/huiyan_dataset/raw_wav/wav/0002/000043.wav	专 车 司 机 陈 先 生 说
+0002000044	data/huiyan_dataset/raw_wav/wav/0002/000044.wav	滴 滴 村 现 在 干 专 车 的 只 剩 下 十 几 个 人 了
+0002000045	data/huiyan_dataset/raw_wav/wav/0002/000045.wav	滴 滴 村 的 称 号 已 经 成 为 历 史
+0002000046	data/huiyan_dataset/raw_wav/wav/0002/000046.wav	这 种 外 地 车 它 现 在 又 不 派 单 了
+0002000047	data/huiyan_dataset/raw_wav/wav/0002/000047.wav	那 现 在 就 少 了 再 加 上 那 个 北 嗯 北 京 牌 的 北 京 牌 的 有 几 个 没 几 个 了
+0002000048	data/huiyan_dataset/raw_wav/wav/0002/000048.wav	也 就 十 多 个 人 吧 应 该 是 差 不 多 少 了 百 分 之 九 十 吧
+0002000049	data/huiyan_dataset/raw_wav/wav/0002/000049.wav	陈 先 生 是 滴 滴 村 不 多 的 坚 持 者
+0002000050	data/huiyan_dataset/raw_wav/wav/0002/000050.wav	他 仍 在 使 用 滴 滴 和 优 步 平 台
+0002000051	data/huiyan_dataset/raw_wav/wav/0002/000051.wav	每 天 能 挣 五 六 百 元 刨 去 油 钱 和 给 平 台 的 费 用 每 天 净 赚 三 百 多 虽 然 跑 网 约 车 的 少 了
+0002000052	data/huiyan_dataset/raw_wav/wav/0002/000052.wav	但 平 台 屡 屡 加 价
+0002000053	data/huiyan_dataset/raw_wav/wav/0002/000053.wav	陈 先 生 认 为 网 约 车 的 乘 客 并 没 有 比 以 前 增 多
+0002000054	data/huiyan_dataset/raw_wav/wav/0002/000054.wav	据 了 解 多 个 网 约 车 平 台 在 此 前 就 开 始 对 在 京 外 部 车 牌 的 网 约 车 停 止 派 单
+0002000055	data/huiyan_dataset/raw_wav/wav/0002/000055.wav	几 位 北 京 的 出 租 司 机 告 诉 记 者
+0002000056	data/huiyan_dataset/raw_wav/wav/0002/000056.wav	如 果 政 策 得 到 严 格 执 行
+0002000057	data/huiyan_dataset/raw_wav/wav/0002/000057.wav	生 意 可 能 会 好 很 多
+0002000058	data/huiyan_dataset/raw_wav/wav/0002/000058.wav	但 也 对 政 策 的 执 行 力 打 了 个 问 号
+0002000059	data/huiyan_dataset/raw_wav/wav/0002/000059.wav	收 入 会 不 会 增 加 呀
+0002000060	data/huiyan_dataset/raw_wav/wav/0002/000060.wav	这 这 你 要 活 多 了 肯 定 都 都 能 成 正 比 了
+0002000061	data/huiyan_dataset/raw_wav/wav/0002/000061.wav	你 还 小 破 车 还 得 拉 有 的 车 倍 破 有 的 车 是 你 看 这 京 牌 外 地 人 在 开 照 样 得 拉
+0002000062	data/huiyan_dataset/raw_wav/wav/0002/000062.wav	目 前 看 新 政 实 施 会 在 短 期 内 导 致 打 车 难
+0002000063	data/huiyan_dataset/raw_wav/wav/0002/000063.wav	交 通 部 深 化 出 租 车 改 革 首 席 专 家 徐 康 明 接 受 媒 体 采 访 时 表 示
+0002000064	data/huiyan_dataset/raw_wav/wav/0002/000064.wav	现 在 巡 游 出 租 和 合 规 网 约 车 的 运 能 还 没 有 完 全 释 放 出 来
+0002000065	data/huiyan_dataset/raw_wav/wav/0002/000065.wav	当 前 合 规 的 网 约 车 至 少 有 百 分 之 二 十 的 潜 能 还 可 以 发 挥
+0002000066	data/huiyan_dataset/raw_wav/wav/0002/000066.wav	等 市 场 稳 定 后 政 府 能 判 断 是 否 存 在 系 统 性 的 运 能 短 缺
+0002000067	data/huiyan_dataset/raw_wav/wav/0002/000067.wav	再 采 取 相 应 措 施 分 析 人 士 指 出 未 来 伴 随 着 价 格 相 对 敏 感 的 用 户 回 归 公 共 交 通 或 使 用 其 他 出 行 方 式 后
+0002000068	data/huiyan_dataset/raw_wav/wav/0002/000068.wav	合 规 网 约 车 数 量 进 一 步 增 加 供 需 会 达 到 基 本 平 衡
+0002000069	data/huiyan_dataset/raw_wav/wav/0002/000069.wav	打 车 难 现 象 将 大 幅 改 善 据 了 解
+0002000070	data/huiyan_dataset/raw_wav/wav/0002/000070.wav	北 京 市 相 关 执 法 部 门 将 在 未 来 一 段 时 间 内 加 大 执 法 力 度
+0002000071	data/huiyan_dataset/raw_wav/wav/0002/000071.wav	对 不 合 规 但 尚 在 运 营 的 车 辆 进 行 惩 罚
+0002000073	data/huiyan_dataset/raw_wav/wav/0002/000073.wav	下 面 我 们 看 看 今 天 其 他 各 大 媒 体 和 网 站 都 在 关 注 哪 些 重 要 新 闻
+0002000074	data/huiyan_dataset/raw_wav/wav/0002/000074.wav	新 华 网 评 论 我 国 首 个 住 房 租 售 法 规 公 开 征 求 意 见
+0002000075	data/huiyan_dataset/raw_wav/wav/0002/000075.wav	直 击 住 房 租 售 市 场 痛 点 回 应 百 姓 关 切
+0002000076	data/huiyan_dataset/raw_wav/wav/0002/000076.wav	人 民 网 聚 焦 高 考 将 至 各 类 问 题 引 关 注 各 地 政 府 为 考 生 保 驾 护 航
+0002000077	data/huiyan_dataset/raw_wav/wav/0002/000077.wav	光 明 网 观 察 各 地 阻 击 形 式 主 义 官 僚 主 义 确 保 中 央 决 策 部 署 落 地
+0002000078	data/huiyan_dataset/raw_wav/wav/0002/000078.wav	中 新 网 消 息 山 寨 手 机 应 用 陷 阱 多 标 志 相 差 无 几 内 容 相 去 千 里
+0002000079	data/huiyan_dataset/raw_wav/wav/0002/000079.wav	央 广 网 扫 描 五 二 零 鲜 花 热 卖 批 发 价 涨 两 三 倍 电 商 反 比 花 店 贵
+0002000080	data/huiyan_dataset/raw_wav/wav/0002/000080.wav	环 球 网 消 息 巴 西 总 统 特 梅 尔 现 封 口 费 风 波 引 发 全 国 政 治 经 济 动 荡
+0002000081	data/huiyan_dataset/raw_wav/wav/0002/000081.wav	巴 西 最 高 法 将 展 开 调 查
+0002000083	data/huiyan_dataset/raw_wav/wav/0002/000083.wav	全 国 新 闻 联 播 以 下 关 注 杨 洁 篪 同 美 国 国 务 卿 蒂 勒 森 通 电 话
+0002000084	data/huiyan_dataset/raw_wav/wav/0002/000084.wav	财 政 部 等 六 部 委 发 布 七 月 一 号 起 将 调 查 非 居 民 金 融 账 户 涉 税 信 息
+0002000085	data/huiyan_dataset/raw_wav/wav/0002/000085.wav	第 三 批 中 央 环 保 督 察 七 省 市 已 问 责 近 三 千 人
+0002000086	data/huiyan_dataset/raw_wav/wav/0002/000086.wav	中 国 学 生 营 养 日 调 查 农 村 学 生 营 养 不 良 城 市 青 少 年 营 养 摄 入 过 高
+0002000087	data/huiyan_dataset/raw_wav/wav/0002/000087.wav	江 苏 发 展 大 会 开 幕
+0002000088	data/huiyan_dataset/raw_wav/wav/0002/000088.wav	伊 朗 内 政 部 官 员 宣 布 鲁 哈 尼 在 伊 朗 总 统 选 举 中 获 胜 特 朗 普 抵 达 沙 特 开 启 上 任 以 来 首 次 出 访
+0002000089	data/huiyan_dataset/raw_wav/wav/0002/000089.wav	央 广 消 息 国 务 委 员 杨 洁 篪 今 天 应 约 同 美 国 国 务 卿 蒂 勒 森 通 电 话
+0002000090	data/huiyan_dataset/raw_wav/wav/0002/000090.wav	杨 洁 篪 表 示 习 近 平 主 席 同 特 朗 普 总 统 海 湖 庄 园 会 晤 以 来
+0002000091	data/huiyan_dataset/raw_wav/wav/0002/000091.wav	在 两 国 元 首 共 识 引 领 下 中 美 关 系 取 得 新 的 重 要 积 极 进 展
+0002000092	data/huiyan_dataset/raw_wav/wav/0002/000092.wav	下 阶 段 双 方 要 继 续 落 实 两 国 元 首 共 识 保 持 高 层 及 各 级 别 交 往 势 头
+0002000093	data/huiyan_dataset/raw_wav/wav/0002/000093.wav	推 进 实 施 经 济 合 作 百 日 计 划 拓 展 各 领 域 务 实 合 作
+0002000094	data/huiyan_dataset/raw_wav/wav/0002/000094.wav	在 重 大 国 际 地 区 问 题 上 加 强 沟 通 协 调
+0002000095	data/huiyan_dataset/raw_wav/wav/0002/000095.wav	中 方 愿 同 美 方 密 切 沟 通 共 同 做 好 近 期 举 行 首 轮 中 美 外 交 安 全 对 话 的 筹 备 工 作
+0002000096	data/huiyan_dataset/raw_wav/wav/0002/000096.wav	确 保 对 话 顺 利 成 功
+0002000097	data/huiyan_dataset/raw_wav/wav/0002/000097.wav	蒂 勒 森 表 示 美 方 愿 同 中 方 加 强 协 调 筹 备 好 首 轮 美 中 外 交 安 全 对 话
+0002000098	data/huiyan_dataset/raw_wav/wav/0002/000098.wav	期 待 对 话 取 得 积 极 成 果
+0002000099	data/huiyan_dataset/raw_wav/wav/0002/000099.wav	双 方 还 就 朝 鲜 半 岛 局 势 等 共 同 关 心 的 国 际 地 区 问 题 交 换 意 见
+0002000101	data/huiyan_dataset/raw_wav/wav/0002/000101.wav	全 国 新 闻 联 播 梳 理 其 他 国 内 焦 点
+0002000102	data/huiyan_dataset/raw_wav/wav/0002/000102.wav	国 家 税 务 总 局 财 政 部 等 六 部 门 昨 天 发 布 非 居 民 金 融 账 户 涉 税 信 息 尽 职 调 查 管 理 办 法
+0002000103	data/huiyan_dataset/raw_wav/wav/0002/000103.wav	从 今 年 七 月 一 号 起 我 国 境 内 金 融 机 构 将 对 存 款 账 户 托 管 账 户
+0002000104	data/huiyan_dataset/raw_wav/wav/0002/000104.wav	投 资 机 构 的 股 权 权 益 和 债 权 权 益
+0002000105	data/huiyan_dataset/raw_wav/wav/0002/000105.wav	以 及 具 有 现 金 价 值 的 保 险 合 同 或 年 金 合 同 开 展 尽 职 调 查
+0002000106	data/huiyan_dataset/raw_wav/wav/0002/000106.wav	这 些 账 户 无 论 金 额 大 小
+0002000107	data/huiyan_dataset/raw_wav/wav/0002/000107.wav	都 应 该 通 过 尽 职 调 查 识 别 账 户 持 有 人 是 否 为 非 居 民
+0002000108	data/huiyan_dataset/raw_wav/wav/0002/000108.wav	央 广 记 者 王 楷 报 道
+0002000109	data/huiyan_dataset/raw_wav/wav/0002/000109.wav	据 了 解 此 次 六 部 委 联 合 发 文
+0002000110	data/huiyan_dataset/raw_wav/wav/0002/000110.wav	一 是 为 了 履 行 我 国 向 g 二 零 承 诺 的 金 融 账 户 涉 税 信 息 自 动 交 换 国 际 义 务
+0002000111	data/huiyan_dataset/raw_wav/wav/0002/000111.wav	另 一 方 面 也 是 为 了 规 范 金 融 机 构 对 非 居 民 金 融 账 户 涉 税 信 息 尽 职 调 查 行 为
+0002000112	data/huiyan_dataset/raw_wav/wav/0002/000112.wav	管 理 办 法 所 称 尽 职 调 查 并 非 一 般 意 义 上 的 调 查
+0002000113	data/huiyan_dataset/raw_wav/wav/0002/000113.wav	而 是 指 金 融 机 构 按 照 规 定 的 程 序 了 解 账 户 持 有 人 或 者 有 关 控 制 人 的 税 收 居 民 身 份
+0002000114	data/huiyan_dataset/raw_wav/wav/0002/000114.wav	识 别 非 居 民 金 融 账 户 收 集 并 且 记 录 相 关 账 户 信 息
+0002000115	data/huiyan_dataset/raw_wav/wav/0002/000115.wav	税 务 总 局 称 该 管 理 办 法 对 社 会 公 众 影 响 较 小
+0002000116	data/huiyan_dataset/raw_wav/wav/0002/000116.wav	主 要 对 在 中 国 境 内 开 立 账 户 的 非 居 民 或 者 有 非 居 民 控 制 人 的 消 极 非 金 融 机 构 影 响 较 大
+0002000117	data/huiyan_dataset/raw_wav/wav/0002/000117.wav	利 用 消 极 非 金 融 机 构 跨 境 逃 避 税 的 做 法 将 受 到 一 定 控 制
+0002000118	data/huiyan_dataset/raw_wav/wav/0002/000118.wav	中 国 现 代 国 际 关 系 研 究 院 研 究 员 陈 凤 英 表 示
+0002000119	data/huiyan_dataset/raw_wav/wav/0002/000119.wav	此 举 是 为 了 加 强 金 融 监 管 和 保 证 金 融 市 场 稳 定
+0002000120	data/huiyan_dataset/raw_wav/wav/0002/000120.wav	把 我 们 过 去 没 有 监 管 到 的 没 有 看 到 的 很 多 钱 他 要 管 起 来
+0002000121	data/huiyan_dataset/raw_wav/wav/0002/000121.wav	那 么 避 税 一 方 面 更 多 呢 就 是 流 向
+0002000122	data/huiyan_dataset/raw_wav/wav/0002/000122.wav	我 们 还 是 要 掌 握 还 有 谁 持 有 的
+0002000123	data/huiyan_dataset/raw_wav/wav/0002/000123.wav	持 有 的 是 合 法 性 问 题
+0002000124	data/huiyan_dataset/raw_wav/wav/0002/000124.wav	环 保 部 公 布 截 至 五 月 十 八 号
+0002000125	data/huiyan_dataset/raw_wav/wav/0002/000125.wav	第 三 批 七 个 中 央 环 境 保 护 督 察 组 都 已 完 成 第 二 阶 段 下 沉 督 查 任 务
+0002000126	data/huiyan_dataset/raw_wav/wav/0002/000126.wav	七 省 市 共 问 责 近 三 千 人
+0002000127	data/huiyan_dataset/raw_wav/wav/0002/000127.wav	央 广 记 者 冯 悦 报 道
+0002000128	data/huiyan_dataset/raw_wav/wav/0002/000128.wav	经 党 中 央 国 务 院 批 准
+0002000129	data/huiyan_dataset/raw_wav/wav/0002/000129.wav	第 三 批 七 个 中 央 环 境 保 护 督 察 组 于 四 月 二 十 四 号 到 二 十 八 号
+0002000130	data/huiyan_dataset/raw_wav/wav/0002/000130.wav	陆 续 对 天 津 山 西 辽 宁 安 徽 福 建 湖 南 贵 州 等 省 市 实 施 督 查 进 驻
+0002000131	data/huiyan_dataset/raw_wav/wav/0002/000131.wav	截 至 五 月 十 八 号
+0002000132	data/huiyan_dataset/raw_wav/wav/0002/000132.wav	七 个 督 察 组 共 收 到 群 众 举 报 两 万 九 千 四 百 多 件
+0002000133	data/huiyan_dataset/raw_wav/wav/0002/000133.wav	经 梳 理 合 并 重 复 举 报
+0002000134	data/huiyan_dataset/raw_wav/wav/0002/000134.wav	累 计 向 被 督 查 地 区 交 办 转 办 一 万 九 千 一 百 多 件
+0002000135	data/huiyan_dataset/raw_wav/wav/0002/000135.wav	各 被 督 查 地 区 已 完 成 查 处 一 万 一 千 二 百 四 十 五 件
+0002000136	data/huiyan_dataset/raw_wav/wav/0002/000136.wav	其 中 立 案 处 罚 四 千 三 百 八 十 八 家
+0002000137	data/huiyan_dataset/raw_wav/wav/0002/000137.wav	处 罚 金 额 一 万 九 千 六 百 多 万 元
+0002000138	data/huiyan_dataset/raw_wav/wav/0002/000138.wav	立 案 侦 查 二 百 三 十 一 件
+0002000139	data/huiyan_dataset/raw_wav/wav/0002/000139.wav	拘 留 二 百 七 十 三 人
+0002000140	data/huiyan_dataset/raw_wav/wav/0002/000140.wav	约 谈 四 千 四 百 九 十 四 人
+0002000141	data/huiyan_dataset/raw_wav/wav/0002/000141.wav	问 责 两 千 九 百 七 十 六 人
+0002000142	data/huiyan_dataset/raw_wav/wav/0002/000142.wav	七 省 市 中 湖 南 省 问 责 人 数 最 多 接 近 一 千 人
+0002000143	data/huiyan_dataset/raw_wav/wav/0002/000143.wav	通 过 边 督 查 边 整 改
+0002000144	data/huiyan_dataset/raw_wav/wav/0002/000144.wav	各 省 市 解 决 了 一 批 群 众 身 边 的 环 境 问 题
+0002000145	data/huiyan_dataset/raw_wav/wav/0002/000145.wav	在 山 西 省 太 原 市 记 者 看 到
+0002000146	data/huiyan_dataset/raw_wav/wav/0002/000146.wav	柳 溪 街 十 三 冶 宿 舍 正 在 进 行 违 章 拆 除
+0002000147	data/huiyan_dataset/raw_wav/wav/0002/000147.wav	是 不 有 了 饭 店 以 后 感 觉 这 也 是 噪 音 也 大
+0002000148	data/huiyan_dataset/raw_wav/wav/0002/000148.wav	扰 民 一 走 到 这 附 近 就 呛 得 受 不 了
+0002000149	data/huiyan_dataset/raw_wav/wav/0002/000149.wav	那 整 改 之 后 呢 整 改 之 后 我 相 信 一 定 要 好
+0002000150	data/huiyan_dataset/raw_wav/wav/0002/000150.wav	污 染 要 是 少 了
+0002000151	data/huiyan_dataset/raw_wav/wav/0002/000151.wav	我 们 生 活 健 康 了 呀 对 不 对
+0002000152	data/huiyan_dataset/raw_wav/wav/0002/000152.wav	也 快 乐 了
+0002000153	data/huiyan_dataset/raw_wav/wav/0002/000153.wav	每 天 特 别 高 兴 上 班 去
+0002000154	data/huiyan_dataset/raw_wav/wav/0002/000154.wav	从 去 年 开 始
+0002000155	data/huiyan_dataset/raw_wav/wav/0002/000155.wav	这 里 临 街 开 了 十 二 家 饭 馆
+0002000156	data/huiyan_dataset/raw_wav/wav/0002/000156.wav	由 于 处 在 居 民 区 饭 馆 排 放 的 污 染 物 影 响 了 居 民 的 正 常 生 活
+0002000157	data/huiyan_dataset/raw_wav/wav/0002/000157.wav	在 接 到 中 央 环 保 督 察 组 交 办 问 题 之 后
+0002000158	data/huiyan_dataset/raw_wav/wav/0002/000158.wav	当 地 工 商 食 药 监 环 保 等 部 门 联 合 执 法
+0002000159	data/huiyan_dataset/raw_wav/wav/0002/000159.wav	对 十 二 家 饭 店 进 行 拆 除 整 改
+0002000160	data/huiyan_dataset/raw_wav/wav/0002/000160.wav	太 原 市 杏 花 岭 区 三 桥 街 道 办 事 处 城 建 办 副 主 任 闫 天 文
+0002000161	data/huiyan_dataset/raw_wav/wav/0002/000161.wav	我 们 这 次 呢 加 大 了 治 理 力 度 会 同 了 各 个 部 门 商 务 部 门 也 积 极 配 合 进 行 进 行 治 理 工 作 不 能 走 过 场
+0002000162	data/huiyan_dataset/raw_wav/wav/0002/000162.wav	今 后 我 们 要 把 环 保 工 作 持 续 的 加 大 力 度 做 下 去 给 居 民 一 个 好 的 生 活 环 境
+0002000163	data/huiyan_dataset/raw_wav/wav/0002/000163.wav	根 据 安 排 目 前 各 督 察 组 正 在 开 展 第 三 阶 段 督 查
+0002000164	data/huiyan_dataset/raw_wav/wav/0002/000164.wav	并 继 续 受 理 群 众 的 环 境 信 访 举 报
+0002000165	data/huiyan_dataset/raw_wav/wav/0002/000165.wav	今 天 是 中 国 学 生 营 养 日
+0002000166	data/huiyan_dataset/raw_wav/wav/0002/000166.wav	今 年 的 主 题 是 天 天 好 营 养 一 生 享 健 康
+0002000167	data/huiyan_dataset/raw_wav/wav/0002/000167.wav	记 者 调 查 发 现
+0002000168	data/huiyan_dataset/raw_wav/wav/0002/000168.wav	城 市 学 生 由 于 营 养 偏 高
+0002000169	data/huiyan_dataset/raw_wav/wav/0002/000169.wav	肥 胖 已 经 成 为 青 少 年 健 康 的 一 大 威 胁
+0002000170	data/huiyan_dataset/raw_wav/wav/0002/000170.wav	而 部 分 山 区 学 生 营 养 不 良 比 例 较 高
+0002000171	data/huiyan_dataset/raw_wav/wav/0002/000171.wav	请 听 报 道
+0002000172	data/huiyan_dataset/raw_wav/wav/0002/000172.wav	早 上 记 者 走 进 河 南 新 乡 师 大 附 中 第 一 食 堂 发 现 日 常 打 饭 窗 口 里 的 牛 奶
+0002000173	data/huiyan_dataset/raw_wav/wav/0002/000173.wav	鸡 蛋 炸 串 等 食 品 一 应 俱 全
+0002000174	data/huiyan_dataset/raw_wav/wav/0002/000174.wav	而 临 边 学 校 超 市 里 的 食 品 更 是 琳 琅 满 目
+0002000175	data/huiyan_dataset/raw_wav/wav/0002/000175.wav	学 生 们 往 往 趁 着 课 间 来 这 里 选 购 食 品
+0002000176	data/huiyan_dataset/raw_wav/wav/0002/000176.wav	我 喜 欢 吃 薯 条 和 和 薯 片
+0002000177	data/huiyan_dataset/raw_wav/wav/0002/000177.wav	我 比 较 喜 欢 吃 水 果 果 脯 这 样 子 的 我 喜 欢 吃 巧 克 力
+0002000178	data/huiyan_dataset/raw_wav/wav/0002/000178.wav	记 者 调 查 全 国 多 所 学 校 发 现 由 于 薯 条 巧 克 力 等 热 量 过 高 食 品 摄 入 过 多
+0002000179	data/huiyan_dataset/raw_wav/wav/0002/000179.wav	加 上 不 爱 运 动 城 市 中 的 小 胖 墩 越 来 越 多
+0002000180	data/huiyan_dataset/raw_wav/wav/0002/000180.wav	江 西 九 江 小 学 生 文 政 今 年 十 一 岁
+0002000181	data/huiyan_dataset/raw_wav/wav/0002/000181.wav	体 重 在 同 学 中 一 直 保 持 在 前 三 名
+0002000182	data/huiyan_dataset/raw_wav/wav/0002/000182.wav	一 五 零 公 分 的 他 体 重 已 经 达 到 了 近 五 十 五 公 斤
+0002000183	data/huiyan_dataset/raw_wav/wav/0002/000183.wav	这 可 急 坏 了 他 的 妈 妈 温 女 士 无 论 小 的 时 候 还 是 现 在 都 特 别 能 吃
+0002000184	data/huiyan_dataset/raw_wav/wav/0002/000184.wav	而 且 还 是 像 奶 油 蛋 糕 啊 雪 糕 啊 这 样 的 甜 食
+0002000185	data/huiyan_dataset/raw_wav/wav/0002/000185.wav	体 重 的 增 长 也 让 孩 子 的 心 理 产 生 了 变 化
+0002000186	data/huiyan_dataset/raw_wav/wav/0002/000186.wav	同 学 都 叫 他 文 胖 胖
+0002000187	data/huiyan_dataset/raw_wav/wav/0002/000187.wav	他 不 想 和 同 学 一 起 玩 了
+0002000188	data/huiyan_dataset/raw_wav/wav/0002/000188.wav	我 觉 得 这 可 能 是 他 心 里 开 始 自 卑 的 状 态
+0002000189	data/huiyan_dataset/raw_wav/wav/0002/000189.wav	我 一 下 就 着 急 了
+0002000190	data/huiyan_dataset/raw_wav/wav/0002/000190.wav	想 着 将 不 能 心 软
+0002000191	data/huiyan_dataset/raw_wav/wav/0002/000191.wav	一 定 要 控 制 他 的 饮 食
+0002000192	data/huiyan_dataset/raw_wav/wav/0002/000192.wav	让 他 尽 量 多 运 动
+0002000193	data/huiyan_dataset/raw_wav/wav/0002/000193.wav	城 市 学 生 营 养 过 剩 的 同 时
+0002000194	data/huiyan_dataset/raw_wav/wav/0002/000194.wav	部 分 山 区 农 村 学 生 的 营 养 状 况 却 不 容 乐 观
+0002000195	data/huiyan_dataset/raw_wav/wav/0002/000195.wav	一 方 面 是 留 守 照 顾 孩 子 们 的 老 人
+0002000196	data/huiyan_dataset/raw_wav/wav/0002/000196.wav	在 营 养 均 衡 上 不 懂 调 配
+0002000197	data/huiyan_dataset/raw_wav/wav/0002/000197.wav	另 一 方 面 是 可 供 学 生 们 选 购 的 超 市
+0002000198	data/huiyan_dataset/raw_wav/wav/0002/000198.wav	小 卖 部 较 少
+0002000199	data/huiyan_dataset/raw_wav/wav/0002/000199.wav	营 养 物 质 匮 乏
+0002000200	data/huiyan_dataset/raw_wav/wav/0002/000200.wav	学 生 营 养 不 良 的 比 例 过 高
+0002000201	data/huiyan_dataset/raw_wav/wav/0002/000201.wav	不 管 是 学 校 食 堂 饭 菜 还 是 家 庭 配 餐 则 相 对 单 调 许 多
+0002000202	data/huiyan_dataset/raw_wav/wav/0002/000202.wav	河 南 辉 县 市 拍 石 头 乡 中 心 小 学 学 生 王 燕 告 诉 记 者
+0002000203	data/huiyan_dataset/raw_wav/wav/0002/000203.wav	无 论 在 学 校 还 是 在 家 里
+0002000204	data/huiyan_dataset/raw_wav/wav/0002/000204.wav	一 日 三 餐 都 是 老 三 样 学 校 家 里 都 一 样 那 在 中 午 啊 晚 上 都 吃 些 什 么 呀 面 条 卤 面 大 米 烩 菜
+0002000205	data/huiyan_dataset/raw_wav/wav/0002/000205.wav	一 般 都 是 这 样
+0002000206	data/huiyan_dataset/raw_wav/wav/0002/000206.wav	针 对 城 乡 学 生 营 养 差 异 的 问 题
+0002000207	data/huiyan_dataset/raw_wav/wav/0002/000207.wav	专 家 建 议 肥 胖 学 生 要 从 传 统 饮 食 的 变 化 及 中 餐 的 营 养 不 均 衡 中 找 原 因
+0002000208	data/huiyan_dataset/raw_wav/wav/0002/000208.wav	应 加 强 在 健 康 饮 食 习 惯 和 体 育 锻 炼 方 面 对 青 少 年 儿 童 的 教 育
+0002000209	data/huiyan_dataset/raw_wav/wav/0002/000209.wav	江 西 九 江 妇 幼 保 健 院 医 师 艾 丽 指 出
+0002000210	data/huiyan_dataset/raw_wav/wav/0002/000210.wav	合 理 的 饮 食 和 运 动 除 了 可 以 有 效 控 制 孩 子 的 体 重 之 外
+0002000211	data/huiyan_dataset/raw_wav/wav/0002/000211.wav	对 孩 子 的 身 高 也 有 着 直 接 影 响
+0002000212	data/huiyan_dataset/raw_wav/wav/0002/000212.wav	蛋 白 质 碳 水 化 合 物 和 脂 肪 呢 是 儿 童 生 长 所 需 要 的 三 大 营 养 素
+0002000213	data/huiyan_dataset/raw_wav/wav/0002/000213.wav	比 如 说 像 鱼 呀 鸡 蛋 啊 牛 奶 啊 这 些 对 儿 童 的 身 高 和 体 重 的 生 长 呢 都 有 着 很 大 的 影 响
+0002000214	data/huiyan_dataset/raw_wav/wav/0002/000214.wav	而 对 于 农 村 学 生 营 养 不 良 的 情 况
+0002000215	data/huiyan_dataset/raw_wav/wav/0002/000215.wav	各 地 正 在 完 善 相 应 的 措 施
+0002000216	data/huiyan_dataset/raw_wav/wav/0002/000216.wav	河 南 新 乡 在 部 分 山 区 中 小 学 开 展 了 校 园 营 养 餐 计 划
+0002000217	data/huiyan_dataset/raw_wav/wav/0002/000217.wav	新 乡 卫 辉 市 狮 豹 头 乡 完 全 中 学 校 长 李 道 安 介 绍
+0002000218	data/huiyan_dataset/raw_wav/wav/0002/000218.wav	我 们 尽 量 按 照 科 学 的 营 养 方 案
+0002000219	data/huiyan_dataset/raw_wav/wav/0002/000219.wav	早 餐 以 后 给 我 们 增 加 了 牛 奶 了 鸡 蛋 啊 还 有 一 个 火 腿 肠 啊 也 满 足 他 们 的 营 养 需 求
+0002000220	data/huiyan_dataset/raw_wav/wav/0002/000220.wav	使 他 们 尽 可 能 的 在 营 养 方 面 得 到 科 学 合 理 的 安 排
+0002000221	data/huiyan_dataset/raw_wav/wav/0002/000221.wav	今 天 是 全 国 母 乳 喂 养 日
+0002000222	data/huiyan_dataset/raw_wav/wav/0002/000222.wav	二 零 一 三 年 国 内 第 一 家 母 乳 库 出 现
+0002000223	data/huiyan_dataset/raw_wav/wav/0002/000223.wav	昨 天 北 京 首 家 公 立 医 院 母 乳 库 协 和 医 院 母 乳 库 也 正 式 投 入 使 用
+0002000224	data/huiyan_dataset/raw_wav/wav/0002/000224.wav	然 而 记 者 调 查 发 现
+0002000225	data/huiyan_dataset/raw_wav/wav/0002/000225.wav	各 地 运 营 情 况 却 并 不 十 分 乐 观
+0002000226	data/huiyan_dataset/raw_wav/wav/0002/000226.wav	常 常 会 出 现 告 急
+0002000227	data/huiyan_dataset/raw_wav/wav/0002/000227.wav	央 广 记 者 张 绵 绵 报 道
+0002000228	data/huiyan_dataset/raw_wav/wav/0002/000228.wav	母 乳 中 含 有 配 方 奶 中 没 有 的 生 物 免 疫 活 性 成 分
+0002000229	data/huiyan_dataset/raw_wav/wav/0002/000229.wav	对 婴 儿 来 说 也 比 配 方 奶 容 易 吸 收
+0002000230	data/huiyan_dataset/raw_wav/wav/0002/000230.wav	如 果 婴 儿 无 法 消 化 配 方 奶
+0002000231	data/huiyan_dataset/raw_wav/wav/0002/000231.wav	医 院 可 以 选 择 通 过 静 脉 输 液 为 其 提 供 肠 外 营 养
+0002000232	data/huiyan_dataset/raw_wav/wav/0002/000232.wav	但 肠 外 营 养 毕 竟 不 是 生 理 过 程
+0002000233	data/huiyan_dataset/raw_wav/wav/0002/000233.wav	不 仅 操 作 复 杂
+0002000234	data/huiyan_dataset/raw_wav/wav/0002/000234.wav	而 且 有 可 能 产 生 一 些 相 关 并 发 症
+0002000235	data/huiyan_dataset/raw_wav/wav/0002/000235.wav	另 一 方 面
+0002000236	data/huiyan_dataset/raw_wav/wav/0002/000236.wav	早 产 儿 的 妈 妈 常 常 由 于 自 身 健 康 原 因
+0002000237	data/huiyan_dataset/raw_wav/wav/0002/000237.wav	无 法 在 第 一 时 间 提 供 母 乳
+0002000238	data/huiyan_dataset/raw_wav/wav/0002/000238.wav	正 是 这 样 的 临 床 需 求 使 母 乳 库 建 设 势 在 必 行
+0002000239	data/huiyan_dataset/raw_wav/wav/0002/000239.wav	北 京 协 和 医 院 儿 科 副 主 任 李 正 红 说
+0002000240	data/huiyan_dataset/raw_wav/wav/0002/000240.wav	这 个 科 研 性 母 乳 库 呢 是 说 想 做 一 些 母 乳 相 关 的 一 些 科 科 研
+0002000241	data/huiyan_dataset/raw_wav/wav/0002/000241.wav	呃 包 括 这 个 母 乳 存 放 啊 或 者 说 整 个 母 乳 加 工 过 程 中 的 一 些 科 研 希 望 这 些 科 研 数 据 能 够 服 务 于 临 床 型 母 乳 库
+0002000242	data/huiyan_dataset/raw_wav/wav/0002/000242.wav	能 够 为 我 们 国 内 制 定 咱 们 自 己 的 标 准 来 提 供 一 些 数 据
+0002000243	data/huiyan_dataset/raw_wav/wav/0002/000243.wav	在 上 海 市 儿 童 医 院 母 乳 库 从 去 年 六 月 成 立 至 今
+0002000244	data/huiyan_dataset/raw_wav/wav/0002/000244.wav	日 均 出 库 乳 量 两 千 到 三 千 毫 升
+0002000245	data/huiyan_dataset/raw_wav/wav/0002/000245.wav	可 以 为 约 十 三 名 早 产 儿 宝 宝 提 供 营 养 支 持
+0002000246	data/huiyan_dataset/raw_wav/wav/0002/000246.wav	但 是 今 年 他 们 也 遭 遇 到 了 母 乳 紧 缺 的 尴 尬
+0002000247	data/huiyan_dataset/raw_wav/wav/0002/000247.wav	母 乳 库 负 责 人 上 海 市 儿 童 医 院 消 化 科 主 任 医 师 张 婷 说
+0002000248	data/huiyan_dataset/raw_wav/wav/0002/000248.wav	二 月 时 冰 箱 里 的 存 货 一 度 出 现
+0002000249	data/huiyan_dataset/raw_wav/wav/0002/000249.wav	只 能 供 医 院 早 产 儿 一 个 星 期 使 用 的 情 况
+0002000250	data/huiyan_dataset/raw_wav/wav/0002/000250.wav	本 来 我 们 这 几 个 格 子 全 都 是 满 的
+0002000251	data/huiyan_dataset/raw_wav/wav/0002/000251.wav	现 在 呢 就 是 说 只 有 是 这 么 点 没 有 效 果
+0002000252	data/huiyan_dataset/raw_wav/wav/0002/000252.wav	可 能 这 些 呢 还 够 一 个 星 期 上 海 市 儿 童 医 院 母 乳 库 遇 到 的 困 难 在 很 多 其 他 地 区 都 存 在
+0002000253	data/huiyan_dataset/raw_wav/wav/0002/000253.wav	从 母 乳 捐 赠 流 程 来 说 确 实 很 严 格
+0002000255	data/huiyan_dataset/raw_wav/wav/0002/000255.wav	于 是 有 一 些 妈 妈 们 嫌 麻 烦 打 起 了 退 堂 鼓
+0002000256	data/huiyan_dataset/raw_wav/wav/0002/000256.wav	据 介 绍 来 捐 献 母 乳 的 爱 心 妈 妈 需 要 符 合 以 下 这 些 条 件
+0002000257	data/huiyan_dataset/raw_wav/wav/0002/000257.wav	在 该 院 分 娩 十 个 月 之 内 医 院 留 有 产 妇 完 善 的 检 查 记 录
+0002000258	data/huiyan_dataset/raw_wav/wav/0002/000258.wav	或 其 他 三 甲 医 院 分 娩
+0002000259	data/huiyan_dataset/raw_wav/wav/0002/000259.wav	有 半 年 以 内 血 清 检 查 单
+0002000260	data/huiyan_dataset/raw_wav/wav/0002/000260.wav	北 京 协 和 医 院 儿 科 副 主 任 李 正 红 表 示
+0002000261	data/huiyan_dataset/raw_wav/wav/0002/000261.wav	这 些 要 求 都 是 本 着 从 孩 子 的 健 康 和 对 妈 妈 负 责 任 的 角 度 来 确 定 的
+0002000262	data/huiyan_dataset/raw_wav/wav/0002/000262.wav	生 命 宝 贵 只 有 一 次
+0002000263	data/huiyan_dataset/raw_wav/wav/0002/000263.wav	还 需 要 社 会 共 同 的 理 解 跟 献 血 差 不 多 而 且 呢 我 们 要 六 个 月 以 内 的 健 康 体 检 报 告
+0002000264	data/huiyan_dataset/raw_wav/wav/0002/000264.wav	就 包 括 一 些 血 液 的 筛 查 完 全 符 合 条 件 的 才 能 够 捐 献
+0002000265	data/huiyan_dataset/raw_wav/wav/0002/000265.wav	以 约 在 江 苏 共 筑 梦 想 为 主 题 的 首 届 江 苏 发 展 大 会
+0002000266	data/huiyan_dataset/raw_wav/wav/0002/000266.wav	今 天 在 南 京 隆 重 开 幕
+0002000267	data/huiyan_dataset/raw_wav/wav/0002/000267.wav	一 千 二 百 多 名 来 自 海 内 外 江 苏 籍 和 在 江 苏 学 习 工 作 的 各 领 域 知 名 人 士
+0002000268	data/huiyan_dataset/raw_wav/wav/0002/000268.wav	以 及 获 得 江 苏 荣 誉 公 民
+0002000269	data/huiyan_dataset/raw_wav/wav/0002/000269.wav	江 苏 友 谊 奖 的 外 籍 友 人 等 共 叙 一 堂 叙 乡 情 叙 发 展
+0002000270	data/huiyan_dataset/raw_wav/wav/0002/000270.wav	央 广 记 者 杨 明 姚 东 明 杨 守 华 报 道
+0002000272	data/huiyan_dataset/raw_wav/wav/0002/000272.wav	刚 刚 启 用 的 江 苏 大 剧 院 精 英 荟 萃 群 贤 毕 至
+0002000273	data/huiyan_dataset/raw_wav/wav/0002/000273.wav	江 苏 省 委 书 记 李 强 在 主 旨 演 讲 中 说
+0002000274	data/huiyan_dataset/raw_wav/wav/0002/000274.wav	江 苏 发 展 已 经 站 到 了 一 个 新 的 平 台 上
+0002000275	data/huiyan_dataset/raw_wav/wav/0002/000275.wav	同 时 也 正 处 于 转 型 升 级 的 重 要 关 口
+0002000276	data/huiyan_dataset/raw_wav/wav/0002/000276.wav	江 苏 的 发 展 比 任 何 时 候 都 需 要 你 们
+0002000277	data/huiyan_dataset/raw_wav/wav/0002/000277.wav	我 们 比 任 何 时 候 都 苛 求 人 才
+0002000278	data/huiyan_dataset/raw_wav/wav/0002/000278.wav	我 们 将 致 力 打 造 具 有 世 界 影 响 的 人 才 集 聚 高 地
+0002000279	data/huiyan_dataset/raw_wav/wav/0002/000279.wav	让 更 多 的 人 才 加 入 到 江 苏 发 展 中 来
+0002000280	data/huiyan_dataset/raw_wav/wav/0002/000280.wav	在 这 里 施 展 才 华
+0002000281	data/huiyan_dataset/raw_wav/wav/0002/000281.wav	成 就 事 业
+0002000282	data/huiyan_dataset/raw_wav/wav/0002/000282.wav	大 会 期 间 还 举 行 了 江 苏 发 展 论 坛
+0002000283	data/huiyan_dataset/raw_wav/wav/0002/000283.wav	紫 金 山 科 技 创 新 讲 坛
+0002000284	data/huiyan_dataset/raw_wav/wav/0002/000284.wav	扬 子 江 工 商 峰 会 以 及 教 育 健 康
+0002000285	data/huiyan_dataset/raw_wav/wav/0002/000285.wav	文 化 传 媒 金 融 规 划 侨 界 等 七 个 专 题 论 坛
+0002000286	data/huiyan_dataset/raw_wav/wav/0002/000286.wav	随 后 参 会 嘉 宾 将 分 别 返 乡 考 察 江 苏 发 展 大 会 的 举 办
+0002000287	data/huiyan_dataset/raw_wav/wav/0002/000287.wav	在 参 会 嘉 宾 中 激 起 强 烈 反 响
+0002000288	data/huiyan_dataset/raw_wav/wav/0002/000288.wav	新 东 方 教 育 集 团 董 事 长 俞 敏 洪
+0002000289	data/huiyan_dataset/raw_wav/wav/0002/000289.wav	江 苏 确 实 是 一 个 人 才 辈 出 的 地 方
+0002000290	data/huiyan_dataset/raw_wav/wav/0002/000290.wav	但 是 江 苏 的 人 才 呢 很 大 程 度 上 有 一 半 以 上 是 分 散 在 全 国 和 全 世 界 各 地 的
+0002000291	data/huiyan_dataset/raw_wav/wav/0002/000291.wav	那 么 这 样 的 一 个 会 议
+0002000292	data/huiyan_dataset/raw_wav/wav/0002/000292.wav	它 实 际 上 是 一 个 凝 聚 人 心
+0002000293	data/huiyan_dataset/raw_wav/wav/0002/000293.wav	共 谋 发 展 的 会 议
+0002000294	data/huiyan_dataset/raw_wav/wav/0002/000294.wav	我 觉 得 这 样 的 一 个 碰 撞 一 定 能 为 江 苏 的 未 来 的 发 展 能 产 生 一 些 好 的 点 子 和 好 的 策 划
+0002000295	data/huiyan_dataset/raw_wav/wav/0002/000295.wav	龙 源 企 业 控 股 有 限 公 司 主 席 荣 智 健
+0002000296	data/huiyan_dataset/raw_wav/wav/0002/000296.wav	江 苏 的 发 展 过 往 的 成 绩 跟 今 后 的 发 展 做 了 一 个 总 结
+0002000297	data/huiyan_dataset/raw_wav/wav/0002/000297.wav	听 了 都 都 很 感 动 就 算 年 老 了
+0002000298	data/huiyan_dataset/raw_wav/wav/0002/000298.wav	我 将 来 还 有 机 会 啊 为 江 苏 做 点 贡 献
+0002000299	data/huiyan_dataset/raw_wav/wav/0002/000299.wav	据 了 解 江 苏 发 展 大 会 今 后 将 每 两 到 三 年 举 办 一 届
+0002000300	data/huiyan_dataset/raw_wav/wav/0002/000300.wav	并 正 式 建 立 了 常 设 办 事 机 构
+0002000301	data/huiyan_dataset/raw_wav/wav/0002/000301.wav	江 苏 省 委 副 秘 书 长 大 会 组 委 会 办 公 室 主 任 杨 根 平
+0002000302	data/huiyan_dataset/raw_wav/wav/0002/000302.wav	这 次 大 会 不 是 一 般 的 招 商 引 资
+0002000303	data/huiyan_dataset/raw_wav/wav/0002/000303.wav	也 不 是 一 般 的 会 议 安 排
+0002000304	data/huiyan_dataset/raw_wav/wav/0002/000304.wav	就 是 要 构 建 这 么 一 个 海 内 外 江 苏 籍 的 联 系 交 流 这 个 平 台
+0002000305	data/huiyan_dataset/raw_wav/wav/0002/000305.wav	我 们 这 个 平 台 要 着 眼 于 长 远 是 开 放 的 方 式 的
+0002000306	data/huiyan_dataset/raw_wav/wav/0002/000306.wav	所 有 的 人 都 可 以 进 来
+0002000307	data/huiyan_dataset/raw_wav/wav/0002/000307.wav	那 增 进 交 流 合 作 来 绘 制 距 离
+0002000308	data/huiyan_dataset/raw_wav/wav/0002/000308.wav	因 一 代 和 二 代 身 份 证 尾 号 不 同
+0002000309	data/huiyan_dataset/raw_wav/wav/0002/000309.wav	在 上 海 打 拼 多 年 的 安 徽 芜 湖 人 王 女 士
+0002000310	data/huiyan_dataset/raw_wav/wav/0002/000310.wav	一 旦 遇 到 相 关 证 件 丢 失
+0002000311	data/huiyan_dataset/raw_wav/wav/0002/000311.wav	就 不 得 不 往 返 上 海 和 安 徽 两 地
+0002000312	data/huiyan_dataset/raw_wav/wav/0002/000312.wav	证 明 我 是 我
+0002000313	data/huiyan_dataset/raw_wav/wav/0002/000313.wav	央 广 记 者 管 昕 恒 巴 特 发 来 报 道
+0002000314	data/huiyan_dataset/raw_wav/wav/0002/000314.wav	王 女 士 的 老 家 在 原 芜 湖 县 埭 南 乡 斗 村 行 政 村 王 楼 自 然 村
+0002000315	data/huiyan_dataset/raw_wav/wav/0002/000315.wav	现 属 镜 湖 区 方 村 街 道
+0002000316	data/huiyan_dataset/raw_wav/wav/0002/000316.wav	目 前 在 上 海 已 经 成 家 立 业
+0002000317	data/huiyan_dataset/raw_wav/wav/0002/000317.wav	王 女 士 一 代 身 份 证 办 理 于 二 零 零 三 年
+0002000318	data/huiyan_dataset/raw_wav/wav/0002/000318.wav	身 份 证 尾 号 是 六 九 零 x 但 是 到 二 零 一 一 年 回 老 家 办 理 身 份 证 尾 号 改 为 了 六 八 八 九
+0002000319	data/huiyan_dataset/raw_wav/wav/0002/000319.wav	她 三 十 二 岁 之 前 的 所 有 信 息 都 是 用 的 一 代 身 份 证
+0002000320	data/huiyan_dataset/raw_wav/wav/0002/000320.wav	三 十 二 岁 以 后 的 信 息 用 的 都 是 二 代 身 份 证
+0002000321	data/huiyan_dataset/raw_wav/wav/0002/000321.wav	这 样 她 在 上 海 办 事 需 要 证 明 身 份 的 时 候
+0002000322	data/huiyan_dataset/raw_wav/wav/0002/000322.wav	往 往 会 涉 及 到 新 老 证 件 不 同 的 问 题
+0002000323	data/huiyan_dataset/raw_wav/wav/0002/000323.wav	我 一 搞 什 么 事 我 要 回 老 家 还 要 求 爷 爷 拜 奶 奶
+0002000324	data/huiyan_dataset/raw_wav/wav/0002/000324.wav	还 看 脸 色 去 证 明 我 是 一 个 人
+0002000325	data/huiyan_dataset/raw_wav/wav/0002/000325.wav	我 买 房 再 办 积 分 啊 银 行 卡 掉 一 张 要 一 张
+0002000326	data/huiyan_dataset/raw_wav/wav/0002/000326.wav	不 停 地 去 开 证 明
+0002000327	data/huiyan_dataset/raw_wav/wav/0002/000327.wav	然 后 我 那 天 叫 我 父 亲 去 开
+0002000328	data/huiyan_dataset/raw_wav/wav/0002/000328.wav	嗯 他 们 还 发 火 了
+0002000329	data/huiyan_dataset/raw_wav/wav/0002/000329.wav	说 你 天 天 来 开 证 明
+0002000330	data/huiyan_dataset/raw_wav/wav/0002/000330.wav	我 也 发 火 了
+0002000331	data/huiyan_dataset/raw_wav/wav/0002/000331.wav	我 说 你 这 个 人 你 把 人 家 身 份 证 号 码 变 了
+0002000332	data/huiyan_dataset/raw_wav/wav/0002/000332.wav	我 前 三 十 年 所 有 的 记 录 都 没 了
+0002000333	data/huiyan_dataset/raw_wav/wav/0002/000333.wav	王 女 士 遇 到 的 麻 烦 究 竟 是 怎 么 造 成 的
+0002000334	data/huiyan_dataset/raw_wav/wav/0002/000334.wav	现 有 的 公 安 网 络 技 术 无 法 解 决 目 前 的 问 题 吗
+0002000335	data/huiyan_dataset/raw_wav/wav/0002/000335.wav	记 者 联 系 到 王 女 士 的 户 籍 所 在 地
+0002000336	data/huiyan_dataset/raw_wav/wav/0002/000336.wav	芜 湖 市 镜 湖 区 公 安 分 局 荆 方 派 出 所
+0002000337	data/huiyan_dataset/raw_wav/wav/0002/000337.wav	主 管 户 籍 的 科 信 副 所 长 告 诉 记 者
+0002000338	data/huiyan_dataset/raw_wav/wav/0002/000338.wav	她 的 一 代 证 是 人 工 编 写 的
+0002000339	data/huiyan_dataset/raw_wav/wav/0002/000339.wav	就 二 代 证 呢 是 电 脑 自 动 生 成 的
+0002000340	data/huiyan_dataset/raw_wav/wav/0002/000340.wav	所 以 这 一 块 有 差 别
+0002000341	data/huiyan_dataset/raw_wav/wav/0002/000341.wav	这 是 第 一 个 原 因 第 二 个 原 因 当 时 办 你 二 代 证 的 时 候
+0002000342	data/huiyan_dataset/raw_wav/wav/0002/000342.wav	她 也 许 没 有 仔 细 地 去 核 对 自 己 的 尾 码
+0002000343	data/huiyan_dataset/raw_wav/wav/0002/000343.wav	就 身 份 证 编 码
+0002000344	data/huiyan_dataset/raw_wav/wav/0002/000344.wav	派 出 所 方 面 认 为 导 致 这 一 现 状 的 责 任 或 许 在 王 女 士 本 身
+0002000345	data/huiyan_dataset/raw_wav/wav/0002/000345.wav	而 王 女 士 显 然 并 不 这 样 认 为
+0002000346	data/huiyan_dataset/raw_wav/wav/0002/000346.wav	但 现 在 已 经 无 法 辨 认 谁 对 谁 错 了
+0002000347	data/huiyan_dataset/raw_wav/wav/0002/000347.wav	而 现 在 派 出 所 方 面 又 很 难 将 王 女 士 的 二 代 身 份 证 号 码 变 回 一 代 证 号 码
+0002000348	data/huiyan_dataset/raw_wav/wav/0002/000348.wav	科 所 长 说 我 们 也 没 办 法 带 你 去 更 改
+0002000349	data/huiyan_dataset/raw_wav/wav/0002/000349.wav	只 有 开 相 关 的 证 明 让 你 到 相 关 部 门 去 更 正
+0002000350	data/huiyan_dataset/raw_wav/wav/0002/000350.wav	近 日 当 地 公 安 机 关 给 王 女 士 一 次 性 开 具 了 六 份 证 明
+0002000351	data/huiyan_dataset/raw_wav/wav/0002/000351.wav	她 打 算 将 目 前 能 想 到 的 涉 及 一 代 证 文 件 都 逐 个 变 更 为 二 代 证 号 码
+0002000352	data/huiyan_dataset/raw_wav/wav/0002/000352.wav	当 地 公 安 机 关 表 示 会 给 王 女 士 办 理 相 关 证 件 更 换 提 供 必 要 的 便 利
+0002000353	data/huiyan_dataset/raw_wav/wav/0002/000353.wav	全 国 新 闻 联 播 扫 描 一 组 国 内 简 讯
+0002000354	data/huiyan_dataset/raw_wav/wav/0002/000354.wav	长 沙 今 天 发 布 新 的 楼 市 调 控 政 策
+0002000355	data/huiyan_dataset/raw_wav/wav/0002/000355.wav	限 购 对 象 扩 大 至 本 市 户 籍 家 庭
+0002000356	data/huiyan_dataset/raw_wav/wav/0002/000356.wav	限 购 范 围 也 从 新 房 扩 大 至 二 手 房
+0002000357	data/huiyan_dataset/raw_wav/wav/0002/000357.wav	其 中 本 市 户 籍 家 庭 限 购 两 套 房
+0002000358	data/huiyan_dataset/raw_wav/wav/0002/000358.wav	中 国 互 联 网 协 会 国 家 互 联 网 应 急 中 心 联 合 发 布 报 告 显 示
+0002000359	data/huiyan_dataset/raw_wav/wav/0002/000359.wav	二 零 一 六 年 由 国 家 互 联 网 应 急 中 心 捕 获 及 通 过 厂 商 交 换 获 得 的 移 动 互 联 网 恶 意 程 序 数 量 超 过 二 百 零 五 万 个
+0002000360	data/huiyan_dataset/raw_wav/wav/0002/000360.wav	较 二 零 一 五 年 同 期 增 长 百 分 十 三 十 九 点 零
+0002000361	data/huiyan_dataset/raw_wav/wav/0002/000361.wav	安 卓 平 台 用 户 成 为 最 主 要 的 攻 击 对 象
+0002000362	data/huiyan_dataset/raw_wav/wav/0002/000362.wav	截 止 今 天 十 一 点 历 经 三 天 三 夜
+0002000363	data/huiyan_dataset/raw_wav/wav/0002/000363.wav	内 蒙 古 呼 伦 贝 尔 陈 巴 尔 虎 旗 那 吉 林 场 森 林 火 灾 火 场 实 现 全 线 合 围
+0002000364	data/huiyan_dataset/raw_wav/wav/0002/000364.wav	外 界 明 火 全 部 被 扑 灭 扑 火 工 作 取 得 决 定 性 进 展
+0002000365	data/huiyan_dataset/raw_wav/wav/0002/000365.wav	明 天 四 时 三 十 一 分 将 迎 来 传 统 节 气 小 满
+0002000366	data/huiyan_dataset/raw_wav/wav/0002/000366.wav	专 家 表 示 该 节 气 是 收 获 的 前 奏
+0002000367	data/huiyan_dataset/raw_wav/wav/0002/000367.wav	夏 收 夏 种 夏 管 三 夏 大 忙 的 序 幕 从 此 拉 开
+0002000368	data/huiyan_dataset/raw_wav/wav/0002/000368.wav	是 农 民 一 年 中 繁 忙 的 季 节
+0002000370	data/huiyan_dataset/raw_wav/wav/0002/000370.wav	您 正 在 收 听 的 是 中 央 人 民 广 播 电 台 中 国 之 声 全 国 新 闻 联 播
+0002000372	data/huiyan_dataset/raw_wav/wav/0002/000372.wav	昨 天 来 自 缅 甸 西 海 岸 马 德 岛 的 原 油
+0002000373	data/huiyan_dataset/raw_wav/wav/0002/000373.wav	经 过 十 八 天 长 途 跋 涉 抵 达 瑞 丽 国 门 站
+0002000374	data/huiyan_dataset/raw_wav/wav/0002/000374.wav	随 着 检 验 检 疫 人 员 从 管 道 当 中 取 出 第 一 管 油 样
+0002000375	data/huiyan_dataset/raw_wav/wav/0002/000375.wav	标 志 着 中 缅 原 油 管 道 原 油 正 式 进 入 中 国
+0002000376	data/huiyan_dataset/raw_wav/wav/0002/000376.wav	央 广 记 者 张 绵 绵 报 道
+0002000377	data/huiyan_dataset/raw_wav/wav/0002/000377.wav	这 批 原 油 接 下 来 将 以 每 天 约 五 十 公 里 的 速 度 继 续 向 内 地 推 进
+0002000378	data/huiyan_dataset/raw_wav/wav/0002/000378.wav	最 终 抵 达 位 于 昆 明 安 宁 的 云 南 石 化
+0002000379	data/huiyan_dataset/raw_wav/wav/0002/000379.wav	中 缅 管 道 项 目 是 我 国 继 中 亚 油 气 管 道 中 俄 原 油 管 道 海 上 通 道 之 后 的 第 四 条 能 源 进 口 通 道
+0002000380	data/huiyan_dataset/raw_wav/wav/0002/000380.wav	包 括 原 油 管 道 和 天 然 气 管 道
+0002000381	data/huiyan_dataset/raw_wav/wav/0002/000381.wav	近 日 投 运 的 原 油 管 道 全 长 一 千 四 百 二 十 公 里
+0002000382	data/huiyan_dataset/raw_wav/wav/0002/000382.wav	其 中 百 分 之 四 十 六 在 中 国 境 内 数 量 为 每 年 一 千 三 百 万 吨
+0002000383	data/huiyan_dataset/raw_wav/wav/0002/000383.wav	对 确 保 我 国 西 南 地 区 成 品 油 和 化 工 产 品 供 应 具 有 重 要 意 义
+0002000384	data/huiyan_dataset/raw_wav/wav/0002/000384.wav	中 石 油 西 南 管 道 公 司 副 总 经 理 邹 永 胜 表 示
+0002000385	data/huiyan_dataset/raw_wav/wav/0002/000385.wav	随 着 中 缅 原 油 的 全 面 建 成 和 投 产
+0002000386	data/huiyan_dataset/raw_wav/wav/0002/000386.wav	为 促 进 区 域 国 家 间 的 合 作
+0002000387	data/huiyan_dataset/raw_wav/wav/0002/000387.wav	带 动 区 域 国 家 的 经 济 发 展
+0002000388	data/huiyan_dataset/raw_wav/wav/0002/000388.wav	改 善 区 域 国 家 的 百 姓 生 活 有 十 分 重 要 的 意 义 中 缅 原 油 进 入 中 国 后 将 实 现 就 近 加 工 销 售
+0002000389	data/huiyan_dataset/raw_wav/wav/0002/000389.wav	作 为 与 中 缅 油 气 管 道 配 套 的 项 目
+0002000390	data/huiyan_dataset/raw_wav/wav/0002/000390.wav	中 国 石 油 云 南 石 化 也 将 于 近 期 投 产
+0002000391	data/huiyan_dataset/raw_wav/wav/0002/000391.wav	设 计 年 加 工 能 力 一 千 三 百 万 吨
+0002000392	data/huiyan_dataset/raw_wav/wav/0002/000392.wav	中 石 油 云 南 石 化 有 限 公 司 生 产 运 行 处 调 度 长 赵 宇 鹏 说
+0002000393	data/huiyan_dataset/raw_wav/wav/0002/000393.wav	* * 管 道 配 套 项 目 的 一 千 三 百 万 吨 云 南 石 化 炼 油 项 目 在 近 期 即 将 投 产
+0002000394	data/huiyan_dataset/raw_wav/wav/0002/000394.wav	生 产 的 产 品 主 要 面 向 云 南
+0002000395	data/huiyan_dataset/raw_wav/wav/0002/000395.wav	四 川 广 西 贵 州 等 地 区
+0002000396	data/huiyan_dataset/raw_wav/wav/0002/000396.wav	提 高 西 南 地 区 的 油 品 自 给 率
+0002000397	data/huiyan_dataset/raw_wav/wav/0002/000397.wav	全 国 新 闻 联 播 最 后 关 注 国 际 资 讯
+0002000398	data/huiyan_dataset/raw_wav/wav/0002/000398.wav	伊 朗 内 政 部 官 员 二 十 号 宣 布 鲁 哈 尼 在 伊 朗 总 统 选 举 中 获 胜
+0002000399	data/huiyan_dataset/raw_wav/wav/0002/000399.wav	据 报 道 目 前 的 计 票 结 果 显 示
+0002000400	data/huiyan_dataset/raw_wav/wav/0002/000400.wav	鲁 哈 尼 获 得 了 两 千 二 百 八 十 万 张 票
+0002000401	data/huiyan_dataset/raw_wav/wav/0002/000401.wav	领 先 于 获 得 一 千 五 百 五 十 万 选 票 的 最 主 要 对 手 莱 西
+0002000402	data/huiyan_dataset/raw_wav/wav/0002/000402.wav	央 广 记 者 韩 萌 报 道
+0002000403	data/huiyan_dataset/raw_wav/wav/0002/000403.wav	伊 朗 第 十 二 届 总 统 大 选 十 九 号 正 式 打 响
+0002000404	data/huiyan_dataset/raw_wav/wav/0002/000404.wav	投 票 于 当 天 上 午 八 点 开 始
+0002000405	data/huiyan_dataset/raw_wav/wav/0002/000405.wav	原 定 于 当 天 下 午 六 点 结 束 但 由 于 投 票 人 数 超 出 预 期
+0002000406	data/huiyan_dataset/raw_wav/wav/0002/000406.wav	投 票 截 止 时 间 三 度 延 长
+0002000407	data/huiyan_dataset/raw_wav/wav/0002/000407.wav	最 终 于 当 地 时 间 的 二 十 号 零 点 才 正 式 结 束
+0002000408	data/huiyan_dataset/raw_wav/wav/0002/000408.wav	官 方 预 计 本 次 选 举 投 票 率 超 过 百 分 之 七 十
+0002000409	data/huiyan_dataset/raw_wav/wav/0002/000409.wav	本 次 选 举 最 后 只 剩 下 四 位 候 选 人
+0002000410	data/huiyan_dataset/raw_wav/wav/0002/000410.wav	但 实 际 上 却 早 已 形 成 了 双 雄 争 霸 的 局 面
+0002000411	data/huiyan_dataset/raw_wav/wav/0002/000411.wav	真 正 的 对 决 只 在 鲁 哈 尼 和 莱 西 之 间 展 开
+0002000412	data/huiyan_dataset/raw_wav/wav/0002/000412.wav	现 任 总 统 鲁 哈 尼 是 世 俗 派 的 代 表
+0002000413	data/huiyan_dataset/raw_wav/wav/0002/000413.wav	民 调 领 先 受 改 革 派 和 温 和 保 守 派 支 持
+0002000414	data/huiyan_dataset/raw_wav/wav/0002/000414.wav	四 年 任 期 中 最 大 的 成 就 就 是 在 二 零 一 五 年 与 时 任 美 国 总 统 奥 巴 马 达 成 伊 核 协 议
+0002000415	data/huiyan_dataset/raw_wav/wav/0002/000415.wav	通 过 放 弃 核 计 划 换 取 国 际 社 会 撤 销 部 分 制 裁
+0002000416	data/huiyan_dataset/raw_wav/wav/0002/000416.wav	而 强 硬 保 守 派 教 士 同 时 曾 任 司 法 部 长 的 莱 西 早 前 既 是 伊 朗 专 家 议 会 成 员
+0002000417	data/huiyan_dataset/raw_wav/wav/0002/000417.wav	又 是 基 金 会 主 管 可 谓 实 权 在 握
+0002000418	data/huiyan_dataset/raw_wav/wav/0002/000418.wav	伊 朗 最 高 精 神 领 袖 哈 梅 内 伊 也 曾 多 次 盛 赞 他 值 得 信 任 经 验 丰 富
+0002000419	data/huiyan_dataset/raw_wav/wav/0002/000419.wav	据 统 计 本 次 选 举 共 有 五 千 五 百 万 合 法 选 民
+0002000420	data/huiyan_dataset/raw_wav/wav/0002/000420.wav	两 派 各 有 一 千 万 和 一 千 五 百 万 张 铁 票
+0002000421	data/huiyan_dataset/raw_wav/wav/0002/000421.wav	而 中 间 的 三 千 万 则 是 双 方 争 相 拉 拢 的 关 键 摇 摆 选 民
+0002000422	data/huiyan_dataset/raw_wav/wav/0002/000422.wav	不 过 很 显 然 大 部 分 的 摇 摆 选 民 将 天 平 倾 向 了 鲁 哈 尼
+0002000423	data/huiyan_dataset/raw_wav/wav/0002/000423.wav	我 希 望 鲁 哈 尼 赢 得 大 选
+0002000424	data/huiyan_dataset/raw_wav/wav/0002/000424.wav	因 为 他 的 背 景 更 好
+0002000425	data/huiyan_dataset/raw_wav/wav/0002/000425.wav	在 他 执 政 的 四 年 中 经 济 状 况 好 转 提 供 了 更 多 就 业 机 会
+0002000426	data/huiyan_dataset/raw_wav/wav/0002/000426.wav	今 年 不 会 再 找 不 到 工 作 了 这 位 民 众 的 心 愿 也 终 于 成 了 现 实
+0002000427	data/huiyan_dataset/raw_wav/wav/0002/000427.wav	计 票 结 果 显 示 鲁 哈 尼 获 得 了 两 千 二 百 八 十 万 张 票
+0002000428	data/huiyan_dataset/raw_wav/wav/0002/000428.wav	领 先 于 获 得 一 千 五 百 五 十 万 张 选 票 的 莱 西
+0002000429	data/huiyan_dataset/raw_wav/wav/0002/000429.wav	伊 朗 国 家 电 视 台 已 经 祝 贺 伊 朗 总 统 鲁 哈 尼 成 功 连 任
+0002000430	data/huiyan_dataset/raw_wav/wav/0002/000430.wav	其 他 国 际 资 讯 根 据 中 国 驻 哈 萨 克 斯 坦 使 馆 提 供 的 消 息
+0002000431	data/huiyan_dataset/raw_wav/wav/0002/000431.wav	因 飞 机 迫 降 滞 留 哈 萨 克 斯 坦 首 都 阿 斯 塔 纳 的 二 百 七 十 二 名 中 国 乘 客
+0002000432	data/huiyan_dataset/raw_wav/wav/0002/000432.wav	当 地 时 间 二 十 号 早 晨 六 点 三 十 六 分
+0002000433	data/huiyan_dataset/raw_wav/wav/0002/000433.wav	北 京 时 间 八 点 三 十 六 分 全 部 顺 利 登 机
+0002000434	data/huiyan_dataset/raw_wav/wav/0002/000434.wav	飞 往 旅 程 目 的 地 意 大 利 米 兰
+0002000435	data/huiyan_dataset/raw_wav/wav/0002/000435.wav	据 报 道 这 架 由 中 国 南 京 飞 往 意 大 利 米 兰 的 客 机
+0002000436	data/huiyan_dataset/raw_wav/wav/0002/000436.wav	因 为 技 术 故 障 十 九 号 在 阿 斯 塔 纳 紧 急 迫 降
+0002000437	data/huiyan_dataset/raw_wav/wav/0002/000437.wav	美 国 总 统 特 朗 普 二 十 号 乘 专 机 抵 达 沙 特 阿 拉 伯 首 都 利 雅 得 机 场
+0002000438	data/huiyan_dataset/raw_wav/wav/0002/000438.wav	开 启 其 上 任 以 来 的 首 次 出 访
+0002000439	data/huiyan_dataset/raw_wav/wav/0002/000439.wav	分 析 认 为 特 朗 普 将 沙 特 作 为 首 次 出 访 第 一 站
+0002000440	data/huiyan_dataset/raw_wav/wav/0002/000440.wav	意 在 修 复 奥 巴 马 执 政 时 期 因 叙 利 亚 伊 朗 核 协 议 等 问 题 受 损 的 美 国 与 海 湾 传 统 盟 友 之 间 关 系
+0002000441	data/huiyan_dataset/raw_wav/wav/0002/000441.wav	建 立 反 恐 阵 营 打 击 极 端 组 织 伊 斯 兰 国
+0002000442	data/huiyan_dataset/raw_wav/wav/0002/000442.wav	改 善 他 本 人 在 伊 斯 兰 世 界 的 不 友 善 形 象
+0002000443	data/huiyan_dataset/raw_wav/wav/0002/000443.wav	访 问 沙 特 后 特 朗 普 还 将 访 问 中 东 地 区 和 欧 洲 多 个 国 家
+0002000444	data/huiyan_dataset/raw_wav/wav/0002/000444.wav	期 间 他 还 将 出 席 在 比 利 时 布 鲁 塞 尔 举 行 的 北 约 峰 会
+0002000445	data/huiyan_dataset/raw_wav/wav/0002/000445.wav	以 及 在 意 大 利 西 西 里 岛 举 行 的 七 国 集 团 峰 会
+0002000446	data/huiyan_dataset/raw_wav/wav/0002/000446.wav	沙 特 阿 拉 伯 领 导 的 多 国 联 军 十 九 号 称
+0002000447	data/huiyan_dataset/raw_wav/wav/0002/000447.wav	沙 特 防 空 部 队 当 天 成 功 拦 截 也 门 胡 塞 武 装 向 沙 特 首 都 利 雅 得 发 射 的 导 弹
+0002000448	data/huiyan_dataset/raw_wav/wav/0002/000448.wav	这 是 迄 今 胡 塞 武 装 向 沙 特 境 内 发 射 导 弹
+0002000449	data/huiyan_dataset/raw_wav/wav/0002/000449.wav	距 离 利 雅 得 最 近 的 一 次 分 析 认 为
+0002000450	data/huiyan_dataset/raw_wav/wav/0002/000450.wav	此 次 胡 塞 武 装 向 沙 特 首 都 发 射 导 弹
+0002000451	data/huiyan_dataset/raw_wav/wav/0002/000451.wav	正 值 美 国 总 统 特 朗 普 访 沙 前 夕
+0002000452	data/huiyan_dataset/raw_wav/wav/0002/000452.wav	意 在 警 告 美 国 不 要 向 沙 特 一 边 倒
+0002000453	data/huiyan_dataset/raw_wav/wav/0002/000453.wav	同 时 为 未 来 可 能 进 行 的 和 谈 添 加 筹 码
+0002000454	data/huiyan_dataset/raw_wav/wav/0002/000454.wav	美 国 国 防 部 长 马 蒂 斯 十 九 号 警 告 说
+0002000455	data/huiyan_dataset/raw_wav/wav/0002/000455.wav	使 用 军 事 手 段 解 决 朝 鲜 半 岛 核 问 题 将 会 造 成 难 以 置 信 的 悲 剧
+0002000456	data/huiyan_dataset/raw_wav/wav/0002/000456.wav	美 方 努 力 的 方 向 是 通 过 与 联 合 国 以 及 中 国 日 本 韩 国 等 东 亚 地 区 国 家 合 作
+0002000457	data/huiyan_dataset/raw_wav/wav/0002/000457.wav	寻 求 解 决 朝 核 问 题 的 办 法
+0002000458	data/huiyan_dataset/raw_wav/wav/0002/000458.wav	美 国 驻 阿 富 汗 部 队 十 九 号 发 表 声 明 说
+0002000459	data/huiyan_dataset/raw_wav/wav/0002/000459.wav	极 端 组 织 伊 斯 兰 国 在 阿 富 汗 遭 受 严 重 损 失
+0002000460	data/huiyan_dataset/raw_wav/wav/0002/000460.wav	该 组 织 阿 富 汗 分 支 占 领 区 的 三 分 之 二 已 被 收 复
+0002000461	data/huiyan_dataset/raw_wav/wav/0002/000461.wav	美 军 还 说 清 剿 行 动 将 持 续 到 伊 斯 兰 国 阿 富 汗 分 支 力 量 被 彻 底 消 灭
+0002000463	data/huiyan_dataset/raw_wav/wav/0002/000463.wav	集 中 展 现 中 华 经 典 的 精 髓 神 韵 感 悟 古 圣 先 贤 们 博 大 精 深 的 思 想
+0002000464	data/huiyan_dataset/raw_wav/wav/0002/000464.wav	领 略 他 们 洞 悉 人 间 万 象 的 智 慧
+0002000465	data/huiyan_dataset/raw_wav/wav/0002/000465.wav	五 月 二 十 一 日 十 九 点 三 十 分 至 二 十 二 点
+0002000466	data/huiyan_dataset/raw_wav/wav/0002/000466.wav	中 央 人 民 广 播 电 台 中 国 大 舞 台 精 彩 呈 现
+0002000467	data/huiyan_dataset/raw_wav/wav/0002/000467.wav	先 人 与 我 们 同 行 感 悟 国 学 经 典
+0002000468	data/huiyan_dataset/raw_wav/wav/0002/000468.wav	大 型 交 响 咏 诵 会 经 典 之 韵 国 学 之 美
+0002000469	data/huiyan_dataset/raw_wav/wav/0002/000469.wav	敬 请 关 注
+0002000471	data/huiyan_dataset/raw_wav/wav/0002/000471.wav	中 国 之 声 正 在 直 播 稍 后 央 广 新 闻 晚 高 峰 为 您 带 来
+0002000472	data/huiyan_dataset/raw_wav/wav/0002/000472.wav	北 京 网 约 车 新 政 今 天 正 式 实 施
+0002000473	data/huiyan_dataset/raw_wav/wav/0002/000473.wav	合 规 网 约 车 锐 减 九 成
+0002000474	data/huiyan_dataset/raw_wav/wav/0002/000474.wav	打 车 难 怎 么 解
+0002000475	data/huiyan_dataset/raw_wav/wav/0002/000475.wav	两 代 身 份 证 尾 号 不 同 安 徽 女 子 往 返 上 海 芜 湖 两 地 验 身 份 证 明 我 就 是 我 为 什 么 依 旧 这 么 难
+0002000476	data/huiyan_dataset/raw_wav/wav/0002/000476.wav	大 学 生 兼 职 送 快 递 引 发 热 议 是 励 志 故 事 还 是 得 不 偿 失
+0002000477	data/huiyan_dataset/raw_wav/wav/0002/000477.wav	这 次 全 国 新 闻 联 播 节 目 监 制 赵 君 编 辑 李 洋 见 习 编 辑 季 莹 莹 主 播 颖 婧 尹 麒
+0002000478	data/huiyan_dataset/raw_wav/wav/0002/000478.wav	更 多 内 容 请 关 注 央 广 音 频 客 户 端 中 国 广 播 以 及 中 国 之 声 实 名 微 博 和 微 信 公 众 号
+0003000002	data/huiyan_dataset/raw_wav/wav/0003/000002.wav	各 位 观 众 晚 上 好 晚 上 好
+0003000003	data/huiyan_dataset/raw_wav/wav/0003/000003.wav	今 天 是 十 一 月 二 十 八 号
+0003000004	data/huiyan_dataset/raw_wav/wav/0003/000004.wav	星 期 一 农 历 十 一 月 初 四
+0003000005	data/huiyan_dataset/raw_wav/wav/0003/000005.wav	欢 迎 收 看 今 天 的 新 闻 联 播 节 目
+0003000006	data/huiyan_dataset/raw_wav/wav/0003/000006.wav	首 先 向 您 介 绍 这 次 节 目 的 主 要 内 容
+0003000007	data/huiyan_dataset/raw_wav/wav/0003/000007.wav	上 海 推 行 蔬 菜 均 衡 种 植 计 划 和 价 格 保 险
+0003000008	data/huiyan_dataset/raw_wav/wav/0003/000008.wav	实 现 种 菜 有 计 划
+0003000009	data/huiyan_dataset/raw_wav/wav/0003/000009.wav	菜 贱 不 伤 农
+0003000010	data/huiyan_dataset/raw_wav/wav/0003/000010.wav	习 近 平 会 见 缅 甸 国 防 军 总 司 令
+0003000011	data/huiyan_dataset/raw_wav/wav/0003/000011.wav	深 交 所 推 出 完 善 创 业 板 退 市 制 度 方 案
+0003000012	data/huiyan_dataset/raw_wav/wav/0003/000012.wav	免 费 教 外 来 务 工 人 员 子 弟 学 音 乐 七 年 风 雨 无 阻
+0003000013	data/huiyan_dataset/raw_wav/wav/0003/000013.wav	最 美 的 中 国 人
+0003000014	data/huiyan_dataset/raw_wav/wav/0003/000014.wav	今 天 为 您 报 道 浙 江 海 宁 桥 洞 音 乐 教 师 荆 文 斌
+0003000015	data/huiyan_dataset/raw_wav/wav/0003/000015.wav	国 家 广 电 总 局 规 定
+0003000016	data/huiyan_dataset/raw_wav/wav/0003/000016.wav	明 年 起 电 视 剧 中 间 不 得 插 播 广 告
+0003000017	data/huiyan_dataset/raw_wav/wav/0003/000017.wav	由 于 派 遣 观 察 团 未 果 阿 盟 决 定 立 即 对 叙 利 亚 实 施 制 裁
+0003000018	data/huiyan_dataset/raw_wav/wav/0003/000018.wav	联 合 国 应 对 气 候 变 化 德 班 大 会 开 幕
+0003000019	data/huiyan_dataset/raw_wav/wav/0003/000019.wav	伊 朗 议 会 通 过 议 案 降 低 伊 朗 与 英 国 外 交 关 系
+0003000020	data/huiyan_dataset/raw_wav/wav/0003/000020.wav	回 应 西 方 新 一 轮 制 裁
+0003000021	data/huiyan_dataset/raw_wav/wav/0003/000021.wav	接 下 来 请 看 详 细 内 容
+0003000022	data/huiyan_dataset/raw_wav/wav/0003/000022.wav	今 年 秋 季 气 候 相 对 温 暖
+0003000023	data/huiyan_dataset/raw_wav/wav/0003/000023.wav	一 些 品 种 的 蔬 菜 产 量 大 增
+0003000024	data/huiyan_dataset/raw_wav/wav/0003/000024.wav	价 格 下 跌 甚 至 跌 破 了 成 本 价
+0003000025	data/huiyan_dataset/raw_wav/wav/0003/000025.wav	但 在 上 海 种 青 菜 的 农 民 却 是 很 淡 定
+0003000026	data/huiyan_dataset/raw_wav/wav/0003/000026.wav	种 菜 按 部 就 班
+0003000027	data/huiyan_dataset/raw_wav/wav/0003/000027.wav	记 者 来 到 上 海 一 探 究 竟
+0003000029	data/huiyan_dataset/raw_wav/wav/0003/000029.wav	进 入 十 一 月 份 以 来
+0003000030	data/huiyan_dataset/raw_wav/wav/0003/000030.wav	在 上 海 与 往 年 不 同 的 是 温 度 一 直 都 维 持 在 十 八 九 度
+0003000031	data/huiyan_dataset/raw_wav/wav/0003/000031.wav	在 这 样 的 大 田 里 边 呢 绿 叶 菜 的 长 势 就 非 常 的 良 好
+0003000032	data/huiyan_dataset/raw_wav/wav/0003/000032.wav	十 五 度 到 二 十 五 度 是 最 适 宜 绿 叶 菜 生 长 的 温 度
+0003000033	data/huiyan_dataset/raw_wav/wav/0003/000033.wav	上 海 近 期 本 地 产 蔬 菜 日 均 上 市 量 九 千 八 百 吨 左 右
+0003000034	data/huiyan_dataset/raw_wav/wav/0003/000034.wav	其 中 绿 叶 菜 四 千 六 百 吨 左 右
+0003000035	data/huiyan_dataset/raw_wav/wav/0003/000035.wav	均 达 到 了 近 年 少 见 的 高 峰
+0003000036	data/huiyan_dataset/raw_wav/wav/0003/000036.wav	供 应 量 增 加
+0003000037	data/huiyan_dataset/raw_wav/wav/0003/000037.wav	价 格 就 下 降
+0003000038	data/huiyan_dataset/raw_wav/wav/0003/000038.wav	近 期 青 菜 的 市 场 零 售 价 降 到 了 一 块 多 一 斤
+0003000039	data/huiyan_dataset/raw_wav/wav/0003/000039.wav	田 头 收 购 价 也 一 路 跌 到 了 四 毛 钱 一 斤
+0003000040	data/huiyan_dataset/raw_wav/wav/0003/000040.wav	几 乎 低 于 了 农 民 的 成 本 价
+0003000041	data/huiyan_dataset/raw_wav/wav/0003/000041.wav	但 上 海 本 地 的 种 植 户 却 显 得 十 分 淡 定
+0003000042	data/huiyan_dataset/raw_wav/wav/0003/000042.wav	今 年 为 什 么 还 要 还 要 种 因 为 政 府 出 台 的 政 策 也 得 补 贴 一 点
+0003000043	data/huiyan_dataset/raw_wav/wav/0003/000043.wav	呃 所 以 我 可 以 改 一 改 还 是 改 改 种 五 十 亩 田 菜 菜
+0003000044	data/huiyan_dataset/raw_wav/wav/0003/000044.wav	这 个 价 格 低 一 点 消 掉 了
+0003000045	data/huiyan_dataset/raw_wav/wav/0003/000045.wav	然 后 我 们 这 边 保 险 有 一 天 补 贴 回 来
+0003000046	data/huiyan_dataset/raw_wav/wav/0003/000046.wav	所 以 我 们 总 想 对 我 们 肯 定 是 有 利 的 一 个 不 愁 卖
+0003000047	data/huiyan_dataset/raw_wav/wav/0003/000047.wav	一 个 也 不 愁 价 格 低
+0003000048	data/huiyan_dataset/raw_wav/wav/0003/000048.wav	张 成 文 所 说 的 保 险 叫 做 蔬 菜 价 格 保 险
+0003000049	data/huiyan_dataset/raw_wav/wav/0003/000049.wav	上 海 市 政 府 先 公 布 一 个 经 过 科 学 测 算 的 计 划
+0003000050	data/huiyan_dataset/raw_wav/wav/0003/000050.wav	分 解 到 各 区 县
+0003000051	data/huiyan_dataset/raw_wav/wav/0003/000051.wav	按 照 这 个 计 划 播 种
+0003000052	data/huiyan_dataset/raw_wav/wav/0003/000052.wav	上 市 的 菜 农 就 可 以 获 得 蔬 菜 价 格 保 险
+0003000053	data/huiyan_dataset/raw_wav/wav/0003/000053.wav	当 市 场 价 格 低 于 保 单 约 定 的 时 候
+0003000054	data/huiyan_dataset/raw_wav/wav/0003/000054.wav	就 可 以 获 得 相 应 的 赔 偿
+0003000055	data/huiyan_dataset/raw_wav/wav/0003/000055.wav	这 个 险 种 目 前 保 障 的 范 围 局 限 在 当 地 生 产 和 消 费 量 相 对 最 大 的 绿 叶 菜
+0003000056	data/huiyan_dataset/raw_wav/wav/0003/000056.wav	保 障 时 间 分 别 是 夏 季 的 两 个 多 月 和 冬 季 的 三 个 月
+0003000057	data/huiyan_dataset/raw_wav/wav/0003/000057.wav	保 费 农 民 负 担 百 分 之 十
+0003000058	data/huiyan_dataset/raw_wav/wav/0003/000058.wav	上 海 财 政 负 担 百 分 之 九 十
+0003000059	data/huiyan_dataset/raw_wav/wav/0003/000059.wav	大 概 每 季 一 千 万 元 左 右
+0003000060	data/huiyan_dataset/raw_wav/wav/0003/000060.wav	相 对 于 上 海 每 年 数 以 亿 计 的 农 业 投 入
+0003000061	data/huiyan_dataset/raw_wav/wav/0003/000061.wav	这 笔 钱 并 不 多
+0003000062	data/huiyan_dataset/raw_wav/wav/0003/000062.wav	我 觉 得 是 应 该 是 一 个 钱 第 一 个 不 是 很 多
+0003000063	data/huiyan_dataset/raw_wav/wav/0003/000063.wav	第 二 呢 这 个 钱 是 花 的 值 得 的
+0003000064	data/huiyan_dataset/raw_wav/wav/0003/000064.wav	就 是 说 通 过 这 个 办 法 呢 主 要 是 呢 一 个 是 保 障 供 应
+0003000065	data/huiyan_dataset/raw_wav/wav/0003/000065.wav	第 二 个 呢 就 是 勒 保 证 那 个 农 民 种 菜 农 民 的 生 产 积 极 性
+0003000066	data/huiyan_dataset/raw_wav/wav/0003/000066.wav	张 成 文 的 农 场 今 年 夏 天 种 了 一 千 多 亩 青 菜
+0003000067	data/huiyan_dataset/raw_wav/wav/0003/000067.wav	有 两 茬 在 上 市 的 时 候 价 格 比 较 低
+0003000068	data/huiyan_dataset/raw_wav/wav/0003/000068.wav	一 下 获 得 了 十 几 万 元 的 保 险 赔 付
+0003000069	data/huiyan_dataset/raw_wav/wav/0003/000069.wav	由 于 供 应 有 保 障
+0003000070	data/huiyan_dataset/raw_wav/wav/0003/000070.wav	在 上 海 市 整 个 夏 季 的 蔬 菜 价 格
+0003000071	data/huiyan_dataset/raw_wav/wav/0003/000071.wav	除 了 台 风 期 间 曾 一 度 飙 升
+0003000072	data/huiyan_dataset/raw_wav/wav/0003/000072.wav	基 本 维 持 了 相 对 平 稳
+0003000073	data/huiyan_dataset/raw_wav/wav/0003/000073.wav	目 前 在 秋 季 蔬 菜 价 格 下 跌 之 后
+0003000074	data/huiyan_dataset/raw_wav/wav/0003/000074.wav	也 没 有 出 现 菜 农 大 规 模 弃 种 的 现 象
+0003000075	data/huiyan_dataset/raw_wav/wav/0003/000075.wav	市 郊 蔬 菜 在 田 面 积 五 十 四 万 亩
+0003000076	data/huiyan_dataset/raw_wav/wav/0003/000076.wav	比 去 年 同 期 反 而 增 加 了 百 分 之 十 四 点 八
+0003000077	data/huiyan_dataset/raw_wav/wav/0003/000077.wav	因 为 新 公 布 的 冬 季 蔬 菜 价 格 保 险 方 案 中
+0003000078	data/huiyan_dataset/raw_wav/wav/0003/000078.wav	明 确 了 蔬 菜 均 衡 种 植 上 市 的 计 划
+0003000079	data/huiyan_dataset/raw_wav/wav/0003/000079.wav	按 计 划 种 植 的 农 户 就 可 以 获 得 价 格 保 障
+0003000080	data/huiyan_dataset/raw_wav/wav/0003/000080.wav	通 过 这 样 均 衡 的 方 式 呢 使 我 们 整 个 蔬 菜 的 种 植 计 划
+0003000081	data/huiyan_dataset/raw_wav/wav/0003/000081.wav	那 么 得 到 比 较 科 学 的 一 个 一 个 部 署
+0003000082	data/huiyan_dataset/raw_wav/wav/0003/000082.wav	那 么 也 使 我 们 作 为 价 格 保 险 体 系 来 讲 呢 得 到 了 较 为 稳 定 的 一 个 基 础
+0003000083	data/huiyan_dataset/raw_wav/wav/0003/000083.wav	那 么 作 为 冬 淡 期 间 来 讲 呢 也 是 坚 持 这 样 一 个 原 则
+0003000084	data/huiyan_dataset/raw_wav/wav/0003/000084.wav	我 们 并 不 鼓 励 农 民 盲 目 的 去 去 种 菜
+0003000085	data/huiyan_dataset/raw_wav/wav/0003/000085.wav	而 是 能 够 有 通 过 一 定 计 划 性 的 方 式 呢 科 学 的 进 行 进 行 播 种
+0003000086	data/huiyan_dataset/raw_wav/wav/0003/000086.wav	目 前 这 个 国 务 院 已 经 启 动 了 第 二 轮 的 这 个 呃 菜 篮 子 工 程 建 设
+0003000087	data/huiyan_dataset/raw_wav/wav/0003/000087.wav	呃 那 么 蔬 菜 价 格 保 险 在 上 海 这 个 实 施
+0003000088	data/huiyan_dataset/raw_wav/wav/0003/000088.wav	呃 为 其 他 地 方 积 累 了 经 验
+0003000089	data/huiyan_dataset/raw_wav/wav/0003/000089.wav	国 家 副 主 席 中 央 军 委 副 主 席 习 近 平 今 天 在 人 民 大 会 堂 会 见 了 缅 甸 国 防 军 总 司 令 敏 昂 莱
+0003000091	data/huiyan_dataset/raw_wav/wav/0003/000091.wav	习 近 平 说
+0003000092	data/huiyan_dataset/raw_wav/wav/0003/000092.wav	中 缅 建 交 六 十 多 年 来
+0003000093	data/huiyan_dataset/raw_wav/wav/0003/000093.wav	由 两 国 老 一 辈 领 导 人 缔 造 和 培 育 的 中 缅 友 谊
+0003000094	data/huiyan_dataset/raw_wav/wav/0003/000094.wav	经 受 住 了 国 际 风 云 变 幻 的 考 验
+0003000095	data/huiyan_dataset/raw_wav/wav/0003/000095.wav	两 国 各 领 域 务 实 合 作 卓 有 成 效
+0003000096	data/huiyan_dataset/raw_wav/wav/0003/000096.wav	在 国 际 和 地 区 事 务 中 相 互 支 持
+0003000097	data/huiyan_dataset/raw_wav/wav/0003/000097.wav	作 为 缅 甸 的 好 邻 居 好 朋 友 好 伙 伴
+0003000098	data/huiyan_dataset/raw_wav/wav/0003/000098.wav	中 国 将 一 如 既 往 得 支 持 缅 甸
+0003000099	data/huiyan_dataset/raw_wav/wav/0003/000099.wav	为 维 护 民 族 团 结 发 展 国 民 经 济
+0003000100	data/huiyan_dataset/raw_wav/wav/0003/000100.wav	改 善 人 民 生 活 所 做 的 努 力
+0003000101	data/huiyan_dataset/raw_wav/wav/0003/000101.wav	中 方 希 望 缅 方 能 妥 善 处 理 相 关 问 题
+0003000102	data/huiyan_dataset/raw_wav/wav/0003/000102.wav	保 持 良 好 发 展 势 头
+0003000103	data/huiyan_dataset/raw_wav/wav/0003/000103.wav	中 方 愿 与 缅 方 共 同 努 力
+0003000104	data/huiyan_dataset/raw_wav/wav/0003/000104.wav	推 动 全 面 战 略 合 作 伙 伴 关 系 不 断 向 前 发 展
+0003000105	data/huiyan_dataset/raw_wav/wav/0003/000105.wav	习 近 平 表 示
+0003000106	data/huiyan_dataset/raw_wav/wav/0003/000106.wav	作 为 两 国 全 面 战 略 合 作 伙 伴 关 系 的 重 要 组 成 部 分
+0003000107	data/huiyan_dataset/raw_wav/wav/0003/000107.wav	中 缅 两 军 关 系 近 年 来 发 展 良 好
+0003000108	data/huiyan_dataset/raw_wav/wav/0003/000108.wav	希 望 两 国 军 队 今 后 继 续 加 强 交 流 深 化 合 作
+0003000109	data/huiyan_dataset/raw_wav/wav/0003/000109.wav	为 推 动 两 国 关 系 全 面 发 展 发 挥 积 极 作 用
+0003000110	data/huiyan_dataset/raw_wav/wav/0003/000110.wav	敏 昂 莱 说
+0003000111	data/huiyan_dataset/raw_wav/wav/0003/000111.wav	缅 中 两 国 人 民 和 军 队 之 间 有 着 传 统 深 厚 友 谊
+0003000112	data/huiyan_dataset/raw_wav/wav/0003/000112.wav	希 望 继 续 保 持 密 切 友 好 往 来
+0003000113	data/huiyan_dataset/raw_wav/wav/0003/000113.wav	深 化 两 国 两 军 各 领 域 的 合 作
+0003000114	data/huiyan_dataset/raw_wav/wav/0003/000114.wav	加 强 沟 通 和 协 作
+0003000115	data/huiyan_dataset/raw_wav/wav/0003/000115.wav	维 护 好 两 国 和 本 地 区 的 和 平 与 稳 定
+0003000116	data/huiyan_dataset/raw_wav/wav/0003/000116.wav	不 断 把 两 国 两 军 关 系 提 升 到 新 的 水 平
+0003000117	data/huiyan_dataset/raw_wav/wav/0003/000117.wav	敏 昂 莱 重 申
+0003000118	data/huiyan_dataset/raw_wav/wav/0003/000118.wav	缅 方 将 坚 定 奉 行 一 个 中 国 政 策
+0003000119	data/huiyan_dataset/raw_wav/wav/0003/000119.wav	在 台 湾 涉 藏 涉 疆 等 问 题 上 支 持 中 方 立 场
+0003000120	data/huiyan_dataset/raw_wav/wav/0003/000120.wav	在 经 过 两 年 多 的 研 究 论 证 之 后
+0003000121	data/huiyan_dataset/raw_wav/wav/0003/000121.wav	深 圳 证 券 交 易 所 今 天 正 式 推 出 了 关 于 完 善 创 业 板 退 市 制 度 的 方 案
+0003000122	data/huiyan_dataset/raw_wav/wav/0003/000122.wav	并 向 社 会 公 开 征 求 意 见
+0003000124	data/huiyan_dataset/raw_wav/wav/0003/000124.wav	方 案 在 原 有 创 业 板 十 一 项 退 市 条 件 的 基 础 上
+0003000125	data/huiyan_dataset/raw_wav/wav/0003/000125.wav	增 加 了 两 项 反 映 公 司 规 范 运 作 情 况 和 市 场 效 率 的 退 市 条 件
+0003000126	data/huiyan_dataset/raw_wav/wav/0003/000126.wav	分 别 是 在 最 近 三 十 六 个 月 内
+0003000127	data/huiyan_dataset/raw_wav/wav/0003/000127.wav	累 计 受 到 交 易 所 公 开 谴 责 三 次 的 或 者 公 司 股 票 出 现 连 续 二 十 个 交 易 日
+0003000128	data/huiyan_dataset/raw_wav/wav/0003/000128.wav	每 日 收 盘 价 均 低 于 每 股 面 值 的 股 票 都 将 终 止 上 市
+0003000129	data/huiyan_dataset/raw_wav/wav/0003/000129.wav	同 时 还 缩 短 了 现 行 部 分 退 市 条 件 的 退 市 时 间
+0003000130	data/huiyan_dataset/raw_wav/wav/0003/000130.wav	加 快 退 市 速 度
+0003000131	data/huiyan_dataset/raw_wav/wav/0003/000131.wav	如 将 现 行 的 如 果 公 司 连 续 两 年 净 资 产 为 负 的 就 暂 停 上 市
+0003000132	data/huiyan_dataset/raw_wav/wav/0003/000132.wav	改 为 终 止 上 市
+0003000133	data/huiyan_dataset/raw_wav/wav/0003/000133.wav	因 为 净 资 产 为 负 的 创 业 板 上 市 公 司 就 表 明 他 是 资 不 抵 债 了
+0003000134	data/huiyan_dataset/raw_wav/wav/0003/000134.wav	实 际 上 比 连 续 三 年 亏 损 的 退 市 指 标 要 严 重 的 多
+0003000135	data/huiyan_dataset/raw_wav/wav/0003/000135.wav	此 外 方 案 还 改 进 了 创 业 板 退 市 风 险 提 示 方 式
+0003000136	data/huiyan_dataset/raw_wav/wav/0003/000136.wav	不 再 实 施 现 行 的 退 市 风 险 警 示 处 理 方 式 及 星 s t 制 度
+0003000137	data/huiyan_dataset/raw_wav/wav/0003/000137.wav	与 此 同 时 通 过 设 立 退 市 整 理 期
+0003000138	data/huiyan_dataset/raw_wav/wav/0003/000138.wav	保 证 了 投 资 者 在 公 司 退 市 前 有 充 足 的 时 间 处 理 手 中 的 股 票
+0003000139	data/huiyan_dataset/raw_wav/wav/0003/000139.wav	最 大 的 区 别 就 是 我 们 实 行 了 更 加 市 场 化 啊 更 有 效 率 的 退 市 制 度
+0003000140	data/huiyan_dataset/raw_wav/wav/0003/000140.wav	啊 这 样 的 话 从 根 本 上 要 遏 制 这 个 科 技 园 的 炒 作 成 风 的 这 个 情 况
+0003000141	data/huiyan_dataset/raw_wav/wav/0003/000141.wav	啊 嗯 更 大 更 多 的 保 护 这 个 投 资 者
+0003000142	data/huiyan_dataset/raw_wav/wav/0003/000142.wav	特 别 是 中 小 投 资 者 的 合 法 权 益
+0003000143	data/huiyan_dataset/raw_wav/wav/0003/000143.wav	近 年 来 我 国 非 公 有 制 经 济 在 吸 纳 就 业 方 面 发 挥 着 越 来 越 重 要 的 作 用
+0003000144	data/huiyan_dataset/raw_wav/wav/0003/000144.wav	今 天 就 让 我 们 走 进 其 中 的 典 型 代 表 苏 宁 电 器 及 其 负 责 人 张 近 东
+0003000146	data/huiyan_dataset/raw_wav/wav/0003/000146.wav	苏 宁 电 器
+0003000147	data/huiyan_dataset/raw_wav/wav/0003/000147.wav	我 国 大 型 民 营 家 电 连 锁 企 业
+0003000148	data/huiyan_dataset/raw_wav/wav/0003/000148.wav	二 十 一 年 前 从 一 家 二 百 平 米 十 多 个 人 的 空 调 专 营 店 起 步
+0003000149	data/huiyan_dataset/raw_wav/wav/0003/000149.wav	发 展 到 今 天 已 经 成 为 在 海 内 外 六 百 多 个 城 市
+0003000150	data/huiyan_dataset/raw_wav/wav/0003/000150.wav	拥 有 一 千 七 百 家 连 锁 店
+0003000151	data/huiyan_dataset/raw_wav/wav/0003/000151.wav	年 销 售 规 模 一 千 八 百 亿
+0003000152	data/huiyan_dataset/raw_wav/wav/0003/000152.wav	在 职 员 工 十 八 万 人 的 大 型 企 业 集 团
+0003000153	data/huiyan_dataset/raw_wav/wav/0003/000153.wav	是 国 内 吸 纳 就 业 最 多 的 民 营 企 业
+0003000154	data/huiyan_dataset/raw_wav/wav/0003/000154.wav	前 不 久 苏 宁 在 北 大 清 华 人 大 等 启 动 了 二 零 一 二 年 应 届 毕 业 生 招 聘 活 动
+0003000155	data/huiyan_dataset/raw_wav/wav/0003/000155.wav	值 得 关 注 的 是 苏 宁 电 器 今 年 针 对 大 学 毕 业 生 的 人 才 招 聘 计 划
+0003000156	data/huiyan_dataset/raw_wav/wav/0003/000156.wav	创 记 录 的 达 到 了 一 万 人
+0003000157	data/huiyan_dataset/raw_wav/wav/0003/000157.wav	从 而 使 苏 宁 电 器 大 学 生 就 业 人 数 总 数 超 过 三 万 人
+0003000158	data/huiyan_dataset/raw_wav/wav/0003/000158.wav	除 应 届 大 学 毕 业 生 外
+0003000159	data/huiyan_dataset/raw_wav/wav/0003/000159.wav	苏 宁 电 器 还 广 泛 吸 纳 当 年 从 国 企 下 岗 的 四 零 五 零 员 工 以 及 大 量 进 城 务 工 人 员
+0003000160	data/huiyan_dataset/raw_wav/wav/0003/000160.wav	据 统 计
+0003000161	data/huiyan_dataset/raw_wav/wav/0003/000161.wav	苏 宁 电 器 累 计 招 收 培 养 的 进 城 务 工 人 员 目 前 已 经 超 过 了 十 万 人
+0003000162	data/huiyan_dataset/raw_wav/wav/0003/000162.wav	我 从 一 名 进 城 务 工 人 员 发 展 至 今 成 为 管 理 七 百 多 人 的 部 门 负 责 人
+0003000163	data/huiyan_dataset/raw_wav/wav/0003/000163.wav	这 是 我 做 梦 也 没 想 到 的
+0003000164	data/huiyan_dataset/raw_wav/wav/0003/000164.wav	苏 宁 电 器 董 事 长 张 近 东 说
+0003000165	data/huiyan_dataset/raw_wav/wav/0003/000165.wav	人 才 成 长 推 动 企 业 创 新
+0003000166	data/huiyan_dataset/raw_wav/wav/0003/000166.wav	企 业 创 新 助 力 企 业 跨 越 发 展
+0003000167	data/huiyan_dataset/raw_wav/wav/0003/000167.wav	创 造 就 业 造 就 人 才 成 长 就 是 永 续 企 业 的 发 展 关 键
+0003000168	data/huiyan_dataset/raw_wav/wav/0003/000168.wav	人 力 资 本 是 比 货 币 资 本 更 重 要 的 资 本 企 业 在 多 用 人 的 同 时
+0003000169	data/huiyan_dataset/raw_wav/wav/0003/000169.wav	还 需 要 解 决 就 业 品 质
+0003000170	data/huiyan_dataset/raw_wav/wav/0003/000170.wav	也 就 是 人 的 发 展 的 问 题
+0003000171	data/huiyan_dataset/raw_wav/wav/0003/000171.wav	张 近 东 说
+0003000172	data/huiyan_dataset/raw_wav/wav/0003/000172.wav	除 了 企 业 自 身 不 断 强 化 人 才 等 基 础 建 设 以 外
+0003000173	data/huiyan_dataset/raw_wav/wav/0003/000173.wav	苏 宁 的 发 展 还 离 不 开 国 家 对 非 公 经 济 的 政 策 支 持
+0003000174	data/huiyan_dataset/raw_wav/wav/0003/000174.wav	特 别 是 二 零 零 八 年 国 际 金 融 危 机 爆 发 后
+0003000175	data/huiyan_dataset/raw_wav/wav/0003/000175.wav	国 家 及 时 出 台 了 家 电 下 乡 以 旧 换 新
+0003000176	data/huiyan_dataset/raw_wav/wav/0003/000176.wav	能 效 补 贴 等 财 政 政 策
+0003000177	data/huiyan_dataset/raw_wav/wav/0003/000177.wav	显 著 改 善 了 企 业 的 经 营 环 境
+0003000178	data/huiyan_dataset/raw_wav/wav/0003/000178.wav	帮 助 企 业 渡 过 了 危 机
+0003000179	data/huiyan_dataset/raw_wav/wav/0003/000179.wav	仅 家 电 下 乡 和 以 旧 换 新 两 项 政 策 实 施 三 年 来 给 苏 宁 带 来 的 直 接 销 售 就
+0003000180	data/huiyan_dataset/raw_wav/wav/0003/000180.wav	高 达 八 百 五 十 亿 元
+0003000181	data/huiyan_dataset/raw_wav/wav/0003/000181.wav	占 到 了 苏 宁 春 季 销 售 额 的 百 分 之 二 十
+0003000182	data/huiyan_dataset/raw_wav/wav/0003/000182.wav	据 张 近 东 介 绍
+0003000183	data/huiyan_dataset/raw_wav/wav/0003/000183.wav	未 来 十 年 他 将 把 苏 宁 电 器 构 筑 成 为 一 个 科 技 型 智 慧 型 的 就 业 载 体
+0003000184	data/huiyan_dataset/raw_wav/wav/0003/000184.wav	预 计 员 工 总 数 将 突 破 三 十 万 人
+0003000185	data/huiyan_dataset/raw_wav/wav/0003/000185.wav	同 时 加 快 国 际 化 的 步 伐
+0003000186	data/huiyan_dataset/raw_wav/wav/0003/000186.wav	把 苏 宁 打 造 成 为 一 个 万 亿 销 售 规 模 的 世 界 级 企 业
+0003000188	data/huiyan_dataset/raw_wav/wav/0003/000188.wav	山 东 临 沂 今 年 通 过 加 大 民 生 投 入
+0003000189	data/huiyan_dataset/raw_wav/wav/0003/000189.wav	让 千 万 老 区 人 民 受 益
+0003000190	data/huiyan_dataset/raw_wav/wav/0003/000190.wav	你 看 这 条 河 修 的 多 漂 亮
+0003000191	data/huiyan_dataset/raw_wav/wav/0003/000191.wav	而 且 还 能 节 能 减 排
+0003000192	data/huiyan_dataset/raw_wav/wav/0003/000192.wav	朱 文 彩 说 的 这 条 河 是 山 东 临 沂 临 沭 县 北 沟 头 村
+0003000193	data/huiyan_dataset/raw_wav/wav/0003/000193.wav	中 沟 头 村 和 杨 沙 埠 村 三 村 交 叉 地 带 的 一 条 沙 埠 河 由 于 治 理 滞 后
+0003000194	data/huiyan_dataset/raw_wav/wav/0003/000194.wav	造 成 河 边 村 民 的 田 地 涝 天 积 水 旱 天 却 无 法 浇 灌
+0003000195	data/huiyan_dataset/raw_wav/wav/0003/000195.wav	今 年 临 沂 市 通 过 设 立 人 民 建 议 征 集 箱
+0003000196	data/huiyan_dataset/raw_wav/wav/0003/000196.wav	使 百 姓 的 问 题 能 够 在 第 一 时 间 得 到 处 理
+0003000197	data/huiyan_dataset/raw_wav/wav/0003/000197.wav	困 扰 朱 文 彩 等 村 民 多 年 的 难 题 终 于 得 到 了 解 决 你 看
+0003000198	data/huiyan_dataset/raw_wav/wav/0003/000198.wav	今 年 临 沂 市 将 财 政 总 支 出 的 六 成 以 上 资 金 投 向 了 城 乡 基 础 设 施 生 态 文 明 和 公 共 文 化 建 设
+0003000199	data/huiyan_dataset/raw_wav/wav/0003/000199.wav	用 一 百 六 十 四 亿 元 让 福 利 院 中 的 五 保 老 人 吃 上 了 免 费 的 营 养 早 餐
+0003000200	data/huiyan_dataset/raw_wav/wav/0003/000200.wav	实 现 了 先 诊 疗 后 付 费 的 医 疗 模 式
+0003000201	data/huiyan_dataset/raw_wav/wav/0003/000201.wav	并 将 贫 困 患 者 大 病 一 次 性 救 助 市 级 标 准 提 高 至 两 万 元
+0003000202	data/huiyan_dataset/raw_wav/wav/0003/000202.wav	江 苏 省 南 通 市 是 一 座 充 满 经 济 活 力 的 城 市
+0003000203	data/huiyan_dataset/raw_wav/wav/0003/000203.wav	每 天 都 有 大 量 的 外 来 流 动 人 口 涌 入
+0003000204	data/huiyan_dataset/raw_wav/wav/0003/000204.wav	他 们 在 给 城 市 做 贡 献 的 同 时
+0003000205	data/huiyan_dataset/raw_wav/wav/0003/000205.wav	也 考 验 着 这 座 城 市 的 社 会 管 理 能 力
+0003000206	data/huiyan_dataset/raw_wav/wav/0003/000206.wav	小 崔 来 自 河 南 郑 州
+0003000207	data/huiyan_dataset/raw_wav/wav/0003/000207.wav	出 来 打 工 前 衣 食 住 行 是 她 最 担 心 的 事
+0003000208	data/huiyan_dataset/raw_wav/wav/0003/000208.wav	但 是 当 她 住 进 南 通 开 发 区 四 海 家 园 时
+0003000209	data/huiyan_dataset/raw_wav/wav/0003/000209.wav	担 心 变 成 了 惊 喜
+0003000210	data/huiyan_dataset/raw_wav/wav/0003/000210.wav	公 寓 楼 内 光 线 明 亮
+0003000211	data/huiyan_dataset/raw_wav/wav/0003/000211.wav	生 活 设 施 一 应 俱 全
+0003000212	data/huiyan_dataset/raw_wav/wav/0003/000212.wav	完 全 达 到 了 拎 包 入 住 的 标 准
+0003000213	data/huiyan_dataset/raw_wav/wav/0003/000213.wav	唉 很 方 便 相 当 方 便
+0003000214	data/huiyan_dataset/raw_wav/wav/0003/000214.wav	他 就 像 我 们 一 般 家 里 的 社 区 一 样 的
+0003000215	data/huiyan_dataset/raw_wav/wav/0003/000215.wav	回 家 的 感 觉 确 实 有 在 南 通 二 百 六 十 七 个 流 动 人 口 居 住 点 为 六 十 一 点 四 万 外 来 人 员 解 决 了 居 住 问 题
+0003000216	data/huiyan_dataset/raw_wav/wav/0003/000216.wav	同 时 南 通 推 行 流 动 人 口 居 住 证 一 证 通 制 度
+0003000217	data/huiyan_dataset/raw_wav/wav/0003/000217.wav	再 就 业 服 务
+0003000218	data/huiyan_dataset/raw_wav/wav/0003/000218.wav	医 疗 卫 生 子 女 就 学 方 面
+0003000219	data/huiyan_dataset/raw_wav/wav/0003/000219.wav	外 来 人 员 都 能 享 受 同 城 化 待 遇
+0003000220	data/huiyan_dataset/raw_wav/wav/0003/000220.wav	柏 自 兰 从 湖 北 来 南 通 打 工
+0003000221	data/huiyan_dataset/raw_wav/wav/0003/000221.wav	女 儿 从 当 初 入 学 到 现 在 初 中 毕 业
+0003000222	data/huiyan_dataset/raw_wav/wav/0003/000222.wav	她 没 有 为 女 儿 的 上 学 问 题 犯 过 愁
+0003000223	data/huiyan_dataset/raw_wav/wav/0003/000223.wav	让 这 些 人 的 这 个 安 居 乐 业 享 受 同 城 化 待 遇
+0003000224	data/huiyan_dataset/raw_wav/wav/0003/000224.wav	同 时 呢 也 是 对 我 们 整 个 社 会 的 社 会 管 理 社 会 治 安 这 方 面 呢 实 际 上 是 很 重 要 的 一 环
+0003000225	data/huiyan_dataset/raw_wav/wav/0003/000225.wav	近 年 来 南 通 市 建 立 了 社 会 矛 盾 纠 纷 大 调 解
+0003000226	data/huiyan_dataset/raw_wav/wav/0003/000226.wav	新 型 社 区 服 务 管 理
+0003000227	data/huiyan_dataset/raw_wav/wav/0003/000227.wav	特 殊 人 群 管 理 服 务
+0003000228	data/huiyan_dataset/raw_wav/wav/0003/000228.wav	外 来 人 员 服 务 等 社 会 管 理 十 大 体 系
+0003000229	data/huiyan_dataset/raw_wav/wav/0003/000229.wav	从 群 众 最 关 心 的 问 题 入 手
+0003000230	data/huiyan_dataset/raw_wav/wav/0003/000230.wav	回 应 群 众 诉 求
+0003000231	data/huiyan_dataset/raw_wav/wav/0003/000231.wav	解 决 民 生 问 题
+0003000233	data/huiyan_dataset/raw_wav/wav/0003/000233.wav	在 浙 江 海 宁 的 一 个 桥 洞 底 下
+0003000234	data/huiyan_dataset/raw_wav/wav/0003/000234.wav	荆 文 彬 老 人 七 年 坚 持 义 务 教 务 工 人 员 的 孩 子 学 音 乐
+0003000235	data/huiyan_dataset/raw_wav/wav/0003/000235.wav	拉 二 胡 吹 笛 子
+0003000236	data/huiyan_dataset/raw_wav/wav/0003/000236.wav	风 雨 无 阻
+0003000237	data/huiyan_dataset/raw_wav/wav/0003/000237.wav	他 叫 荆 文 斌 辽 宁 营 口 人 年 轻 时 当 过 文 艺 兵
+0003000238	data/huiyan_dataset/raw_wav/wav/0003/000238.wav	二 零 零 二 年 下 岗 之 后 和 老 伴 来 到 海 宁 谋 生 换 过 很 多 份 工 作
+0003000239	data/huiyan_dataset/raw_wav/wav/0003/000239.wav	唯 一 坚 持 没 有 放 弃 的 就 是 这 音 乐
+0003000240	data/huiyan_dataset/raw_wav/wav/0003/000240.wav	因 为 我 闲 着 没 有 事 情 嘛 我 就 自 己 拉 一 拉 二 胡 吹 吹 笛 子
+0003000241	data/huiyan_dataset/raw_wav/wav/0003/000241.wav	叫 附 近 的 邻 居 呢 听 到 了 一 看 你 这 老 头 还 会 这 个 给 我 们 孩 子 教 一 教 吧 这 些 孩 子 的 父 母 大 都 是 到 海 宁 打 工 的 外 来 人 员
+0003000242	data/huiyan_dataset/raw_wav/wav/0003/000242.wav	平 时 也 没 有 什 么 时 间 管 孩 子 学 乐 器
+0003000243	data/huiyan_dataset/raw_wav/wav/0003/000243.wav	对 他 们 来 说 更 是 机 会 难 得
+0003000244	data/huiyan_dataset/raw_wav/wav/0003/000244.wav	你 是 哪 人 啊 我 是 衢 州 人 我 我 是 郑 州 人 我 爸 爸 我 爸 爸 是 在 超 市 工 作 我 妈 妈 在 袜 厂 工 作
+0003000245	data/huiyan_dataset/raw_wav/wav/0003/000245.wav	他 们 这 些 孩 子 都 是 打 工 的
+0003000246	data/huiyan_dataset/raw_wav/wav/0003/000246.wav	唉 家 庭 生 活 都 很 困 难 的
+0003000247	data/huiyan_dataset/raw_wav/wav/0003/000247.wav	你 跟 他 们 收 钱 呃 那 那 那 个 什 么
+0003000248	data/huiyan_dataset/raw_wav/wav/0003/000248.wav	就 这 样 荆 大 爷 决 定 义 务 教 孩 子 们 乐 器
+0003000249	data/huiyan_dataset/raw_wav/wav/0003/000249.wav	有 时 孩 子 的 父 母 打 工 比 较 忙
+0003000250	data/huiyan_dataset/raw_wav/wav/0003/000250.wav	荆 大 爷 就 带 着 他 们 一 起 回 家 吃 午 饭
+0003000252	data/huiyan_dataset/raw_wav/wav/0003/000252.wav	我 说 你 怎 么 吃 啊 我 也 是 一 样
+0003000253	data/huiyan_dataset/raw_wav/wav/0003/000253.wav	荆 大 爷 的 家 并 不 富 裕
+0003000254	data/huiyan_dataset/raw_wav/wav/0003/000254.wav	只 是 靠 老 伴 给 人 剪 剪 线 头
+0003000255	data/huiyan_dataset/raw_wav/wav/0003/000255.wav	贴 贴 商 标 过 日 子
+0003000256	data/huiyan_dataset/raw_wav/wav/0003/000256.wav	吃 完 中 午 饭
+0003000257	data/huiyan_dataset/raw_wav/wav/0003/000257.wav	金 大 爷 就 带 着 孩 子 们 又 回 到 了 桥 洞 接 着 练 习
+0003000258	data/huiyan_dataset/raw_wav/wav/0003/000258.wav	整 个 下 午 他 一 次 厕 所 都 没 上 一 步 都 没 离 开 桥 洞
+0003000259	data/huiyan_dataset/raw_wav/wav/0003/000259.wav	我 一 旦 要 是 走 了 的 话
+0003000260	data/huiyan_dataset/raw_wav/wav/0003/000260.wav	这 些 孩 子 要 是 到 处 乱 跑 容 易 因 为 这 都 是 机 动 车 道 啊 我 怕 出 事 故
+0003000261	data/huiyan_dataset/raw_wav/wav/0003/000261.wav	所 以 说 我 早 晨 到 中 午 吃 饭 的 时 候
+0003000262	data/huiyan_dataset/raw_wav/wav/0003/000262.wav	我 尽 量 的 吃 点 干 的
+0003000263	data/huiyan_dataset/raw_wav/wav/0003/000263.wav	七 年 的 时 间 里
+0003000264	data/huiyan_dataset/raw_wav/wav/0003/000264.wav	荆 大 爷 的 教 学 地 点 换 了 又 换
+0003000265	data/huiyan_dataset/raw_wav/wav/0003/000265.wav	从 小 区 草 坪 到 地 下 车 库
+0003000266	data/huiyan_dataset/raw_wav/wav/0003/000266.wav	再 到 如 今 的 桥 洞
+0003000267	data/huiyan_dataset/raw_wav/wav/0003/000267.wav	时 间 一 长 我 就 很 舍 不 得 他 们
+0003000268	data/huiyan_dataset/raw_wav/wav/0003/000268.wav	我 要 是 走 了 的 话
+0003000269	data/huiyan_dataset/raw_wav/wav/0003/000269.wav	他 们 家 父 母 不 可 能 说 是 拿 出 六 七 十 块 钱 一 个 小 时 去 上 专 业 老 师 那 去 上 课 的
+0003000270	data/huiyan_dataset/raw_wav/wav/0003/000270.wav	荆 大 爷 的 坚 持 没 有 白 费 在 第 一 批 教 的 十 二 个 孩 子 里 面
+0003000271	data/huiyan_dataset/raw_wav/wav/0003/000271.wav	有 三 个 考 过 了 杭 州 艺 术 学 校 的 艺 考
+0003000272	data/huiyan_dataset/raw_wav/wav/0003/000272.wav	有 九 个 孩 子 拿 到 了 各 自 乐 器 的 九 级
+0003000273	data/huiyan_dataset/raw_wav/wav/0003/000273.wav	呃 这 一 生 干 过 很 多 工 作
+0003000274	data/huiyan_dataset/raw_wav/wav/0003/000274.wav	啊 无 论 我 做 什 么
+0003000275	data/huiyan_dataset/raw_wav/wav/0003/000275.wav	也 没 有 现 在 这 么 高 兴 和 舒 心
+0003000276	data/huiyan_dataset/raw_wav/wav/0003/000276.wav	每 当 看 到 他 们 取 得 的 成 绩 呢 我 就 有 成 就 感
+0003000277	data/huiyan_dataset/raw_wav/wav/0003/000277.wav	一 把 二 胡 一 根 笛 子
+0003000278	data/huiyan_dataset/raw_wav/wav/0003/000278.wav	一 位 诲 人 不 倦 的 老 人 桥 洞 音 乐 课 虽 然 条 件 简 陋
+0003000279	data/huiyan_dataset/raw_wav/wav/0003/000279.wav	但 是 传 播 美 和 善 的 力 量 丝 毫 不 亚 于 科 班 教 育
+0003000280	data/huiyan_dataset/raw_wav/wav/0003/000280.wav	前 几 天 浙 江 海 宁 的 一 所 民 工 子 弟 学 校 腾 出 了 一 间 教 室
+0003000281	data/huiyan_dataset/raw_wav/wav/0003/000281.wav	这 样 一 来 呢 周 末 和 寒 假 期 间
+0003000282	data/huiyan_dataset/raw_wav/wav/0003/000282.wav	荆 大 爷 和 孩 子 们 可 以 在 那 里 上 课
+0003000283	data/huiyan_dataset/raw_wav/wav/0003/000283.wav	至 少 这 个 冬 天 他 们 不 用 再 露 天 挨 冻 了
+0003000285	data/huiyan_dataset/raw_wav/wav/0003/000285.wav	由 中 国 共 产 党 和 越 南 共 产 党 有 关 部 门 共 同 举 办 的
+0003000286	data/huiyan_dataset/raw_wav/wav/0003/000286.wav	以 新 形 势 下 做 好 群 众 工 作 的 经 验 为 主 题 的 第 七 次 中 越 两 党 理 论 研 讨 会
+0003000287	data/huiyan_dataset/raw_wav/wav/0003/000287.wav	二 十 八 号 上 午 在 江 苏 常 州 开 幕
+0003000288	data/huiyan_dataset/raw_wav/wav/0003/000288.wav	中 共 中 央 政 治 局 委 员 中 央 书 记 处 书 记 中 宣 部 部 长 刘 云 山 和 越 共 中 央 政 治 局 委 员
+0003000289	data/huiyan_dataset/raw_wav/wav/0003/000289.wav	中 央 书 记 处 书 记 中 央 宣 教 部 部 长 中 央 理 论 委 员 会 主 席 丁 世 兄 出 席 开 幕 式
+0003000290	data/huiyan_dataset/raw_wav/wav/0003/000290.wav	开 幕 式 上 刘 云 山 作 了 题 为 秉 持 人 民 至 上 的 价 值 追 求
+0003000291	data/huiyan_dataset/raw_wav/wav/0003/000291.wav	切 实 做 好 新 形 势 下 的 群 众 工 作 的 主 旨 报 告
+0003000292	data/huiyan_dataset/raw_wav/wav/0003/000292.wav	丁 世 兄 做 了 题 为 越 南 共 产 党 群 众 工 作 的 实 践 和 若 干 经 验 的 主 旨 报 告
+0003000293	data/huiyan_dataset/raw_wav/wav/0003/000293.wav	中 越 两 党 有 关 部 门 负 责 同 志 和 专 家 学 者 出 席 开 幕 式
+0003000294	data/huiyan_dataset/raw_wav/wav/0003/000294.wav	国 家 广 电 总 局 今 天 下 发 广 播 电 视 广 告 播 出 管 理 办 法 的 补 充 规 定
+0003000295	data/huiyan_dataset/raw_wav/wav/0003/000295.wav	决 定 自 二 零 一 二 年 一 月 一 号 起
+0003000296	data/huiyan_dataset/raw_wav/wav/0003/000296.wav	全 国 各 电 视 台 播 出 电 视 剧 时
+0003000297	data/huiyan_dataset/raw_wav/wav/0003/000297.wav	每 集 电 视 剧 中 间 不 得 再 以 任 何 形 式 插 播 广 告
+0003000298	data/huiyan_dataset/raw_wav/wav/0003/000298.wav	为 确 保 新 政 策 得 到 切 实 执 行
+0003000299	data/huiyan_dataset/raw_wav/wav/0003/000299.wav	国 家 广 电 总 局 今 天 还 专 门 下 发 了 关 于 贯 彻 执 行 广 播 电 视 广 告 播 出 管 理 办 法 的 补 充 规 定 的 通 知
+0003000300	data/huiyan_dataset/raw_wav/wav/0003/000300.wav	要 求 各 级 电 视 台 立 即 清 理 并 撤 销 二 零 一 二 年 的 电 视 剧 插 播 广 告 时 段
+0003000301	data/huiyan_dataset/raw_wav/wav/0003/000301.wav	重 新 编 排 节 目 和 广 告
+0003000302	data/huiyan_dataset/raw_wav/wav/0003/000302.wav	要 求 各 级 广 播 影 视 行 政 部 门 全 面 监 看 各 级 电 视 台 的 落 实 情 况
+0003000303	data/huiyan_dataset/raw_wav/wav/0003/000303.wav	对 仍 插 播 广 告 的 播 出 机 构
+0003000304	data/huiyan_dataset/raw_wav/wav/0003/000304.wav	将 按 照 相 关 法 规 规 定 给 予 严 肃 处 理
+0003000305	data/huiyan_dataset/raw_wav/wav/0003/000305.wav	关 关 雎 鸠 在 河 之 洲 这 个 诗 经 当 中 人 们 耳 熟 能 详 的 诗 句 唱 进 民 歌 会 是 什 么 样 呢
+0003000306	data/huiyan_dataset/raw_wav/wav/0003/000306.wav	今 天 我 们 就 一 块 去 湖 北 房 县 听 一 听 那 儿 的 民 歌 爱 好 者 的 歌 声
+0003000308	data/huiyan_dataset/raw_wav/wav/0003/000308.wav	正 在 唱 民 歌 的 这 一 老 一 小 是 湖 北 房 县 门 古 寺 镇 红 星 村 中 的 民 歌 爱 好 者
+0003000309	data/huiyan_dataset/raw_wav/wav/0003/000309.wav	诗 经 开 篇 的 内 容 会 加 入 通 俗 的 语 句
+0003000310	data/huiyan_dataset/raw_wav/wav/0003/000310.wav	就 这 样 从 他 们 的 口 中 唱 了 出 来
+0003000311	data/huiyan_dataset/raw_wav/wav/0003/000311.wav	当 地 人 说 这 是 他 们 口 口 相 传 延 续 至 今 的 一 种 民 间 演 唱 方 式
+0003000312	data/huiyan_dataset/raw_wav/wav/0003/000312.wav	大 家 农 闲 的 时 候 就 在 村 口 的 老 榆 树 下 赛 歌 学 歌
+0003000313	data/huiyan_dataset/raw_wav/wav/0003/000313.wav	无 论 是 在 呃 山 上 干 活
+0003000314	data/huiyan_dataset/raw_wav/wav/0003/000314.wav	还 在 听 那 个 河 边 洗 衣 服
+0003000315	data/huiyan_dataset/raw_wav/wav/0003/000315.wav	反 正 是 没 事 就 唱 歌
+0003000316	data/huiyan_dataset/raw_wav/wav/0003/000316.wav	就 爱 唱 歌
+0003000317	data/huiyan_dataset/raw_wav/wav/0003/000317.wav	房 县 流 传 的 民 歌 中 很 多 都 与 诗 经 有 关
+0003000318	data/huiyan_dataset/raw_wav/wav/0003/000318.wav	根 据 整 理 当 地 共 流 传 了 三 十 七 首 还 有 诗 经 元 素 的 民 歌
+0003000319	data/huiyan_dataset/raw_wav/wav/0003/000319.wav	全 县 能 唱 诗 经 民 歌 的 艺 人 有 一 百 多 人
+0003000320	data/huiyan_dataset/raw_wav/wav/0003/000320.wav	这 是 我 们 的 财 富
+0003000321	data/huiyan_dataset/raw_wav/wav/0003/000321.wav	是 我 们 很 宝 贵 的 东 西
+0003000322	data/huiyan_dataset/raw_wav/wav/0003/000322.wav	唉 绝 不 能 把 它 失 掉 了
+0003000323	data/huiyan_dataset/raw_wav/wav/0003/000323.wav	二 零 一 零 年 起
+0003000324	data/huiyan_dataset/raw_wav/wav/0003/000324.wav	湖 北 省 的 文 艺 工 作 者 深 入 基 层
+0003000325	data/huiyan_dataset/raw_wav/wav/0003/000325.wav	发 掘 了 包 括 房 县 诗 经 题 材 民 歌 在 内 的 一 千 多 首 作 品
+0003000326	data/huiyan_dataset/raw_wav/wav/0003/000326.wav	陆 续 在 全 省 各 地 举 办 各 种 活 动
+0003000327	data/huiyan_dataset/raw_wav/wav/0003/000327.wav	为 这 些 乡 村 中 的 民 歌 手 提 供 了 一 个 唱 民 歌 的 舞 台
+0003000328	data/huiyan_dataset/raw_wav/wav/0003/000328.wav	以 前 呢 我 们 都 是 在 山 里 头 唱 在 河 畔 里 唱
+0003000329	data/huiyan_dataset/raw_wav/wav/0003/000329.wav	呃 见 不 到 这 么 多 的 人
+0003000330	data/huiyan_dataset/raw_wav/wav/0003/000330.wav	现 在 能 让 全 国 的 观 众 听 到 我 们 的 歌 声 我 们 非 常 的 开 心 和 激 动
+0003000331	data/huiyan_dataset/raw_wav/wav/0003/000331.wav	近 年 来
+0003000332	data/huiyan_dataset/raw_wav/wav/0003/000332.wav	湖 北 将 民 歌 挖 掘 与 保 护 工 作 纳 入 工 作 议 程
+0003000333	data/huiyan_dataset/raw_wav/wav/0003/000333.wav	对 民 间 工 作 者 队 伍 进 行 了 定 期 培 训
+0003000334	data/huiyan_dataset/raw_wav/wav/0003/000334.wav	培 养 民 间 文 化 传 承 人
+0003000335	data/huiyan_dataset/raw_wav/wav/0003/000335.wav	并 将 优 秀 民 歌 的 相 关 知 识 纳 入 中 小 学 课 程
+0003000336	data/huiyan_dataset/raw_wav/wav/0003/000336.wav	今 天 凌 晨 起
+0003000337	data/huiyan_dataset/raw_wav/wav/0003/000337.wav	新 疆 河 北 上 海 等 地 普 降 浓 雾 交 通 受 阻
+0003000338	data/huiyan_dataset/raw_wav/wav/0003/000338.wav	早 上 七 点 三 十 三 分
+0003000339	data/huiyan_dataset/raw_wav/wav/0003/000339.wav	天 津 市 气 象 台 发 布 了 大 雾 橙 色 预 警
+0003000340	data/huiyan_dataset/raw_wav/wav/0003/000340.wav	部 分 地 区 能 见 度 仅 有 十 米
+0003000341	data/huiyan_dataset/raw_wav/wav/0003/000341.wav	造 成 高 速 公 路 封 闭
+0003000342	data/huiyan_dataset/raw_wav/wav/0003/000342.wav	天 津 滨 海 国 际 机 场 进 出 港 航 班 延 误
+0003000343	data/huiyan_dataset/raw_wav/wav/0003/000343.wav	近 三 千 名 旅 客 滞 留
+0003000344	data/huiyan_dataset/raw_wav/wav/0003/000344.wav	山 东 大 部 分 地 区 也 笼 罩 在 一 片 雾 气 之 中 烟 台 临 沂 等 地 能 见 度 不 足 三 十 米
+0003000345	data/huiyan_dataset/raw_wav/wav/0003/000345.wav	受 大 雾 影 响
+0003000346	data/huiyan_dataset/raw_wav/wav/0003/000346.wav	山 东 境 内 数 十 条 高 速 公 路 收 费 站 临 时 关 闭
+0003000347	data/huiyan_dataset/raw_wav/wav/0003/000347.wav	安 徽 江 苏 部 分 地 区 今 天 相 继 发 出 大 雾 预 警 信 号
+0003000348	data/huiyan_dataset/raw_wav/wav/0003/000348.wav	部 分 市 县 发 出 大 雾 红 色 预 警 高 速 公 路 民 航 交 通 大 面 积 受 阻
+0003000349	data/huiyan_dataset/raw_wav/wav/0003/000349.wav	淮 河 蚌 埠 段 长 江 安 庆 段 及 京 杭 运 河 宿 迁 段 等 全 面 禁 行
+0003000350	data/huiyan_dataset/raw_wav/wav/0003/000350.wav	中 央 气 象 台 监 测 显 示
+0003000351	data/huiyan_dataset/raw_wav/wav/0003/000351.wav	一 股 较 强 冷 空 气 在 未 来 几 天 会 影 响 我 国 中 东 部 地 区 并 带 来 大 范 围 的 雨 雪 和 降 温
+0003000352	data/huiyan_dataset/raw_wav/wav/0003/000352.wav	受 这 股 冷 空 气 影 响
+0003000353	data/huiyan_dataset/raw_wav/wav/0003/000353.wav	持 续 笼 罩 的 大 雾 将 会 有 所 减 弱 或 消 散
+0003000355	data/huiyan_dataset/raw_wav/wav/0003/000355.wav	下 面 请 看 一 组 联 播 快 讯
+0003000357	data/huiyan_dataset/raw_wav/wav/0003/000357.wav	从 今 天 起
+0003000358	data/huiyan_dataset/raw_wav/wav/0003/000358.wav	人 民 币 对 澳 元 和 加 元 的 直 接 交 易 正 式 推 出
+0003000360	data/huiyan_dataset/raw_wav/wav/0003/000360.wav	人 民 币 与 美 元 日 元 欧 元 英 镑 卢 布 等 九 种 主 要 货 币 都 已 实 现 了 直 接 挂 牌 交 易
+0003000361	data/huiyan_dataset/raw_wav/wav/0003/000361.wav	国 内 目 前 仓 储 能 力 最 大 的 商 业 石 油 储 备 基 地 今 天 在 海 南 开 工
+0003000362	data/huiyan_dataset/raw_wav/wav/0003/000362.wav	仓 储 能 力 达 到 五 百 二 十 万 立 方 米
+0003000363	data/huiyan_dataset/raw_wav/wav/0003/000363.wav	将 为 我 国 东 南 华 南 沿 海 的 石 化 企 业 以 及 东 南 亚 提 供 第 三 方 油 品 仓 储 中 转 和 配 送 服 务
+0003000364	data/huiyan_dataset/raw_wav/wav/0003/000364.wav	商 业 石 油 储 备 将 为 国 家 战 略 石 油 储 备 提 供 有 效 补 充
+0003000365	data/huiyan_dataset/raw_wav/wav/0003/000365.wav	合 作 精 神 二 零 一 一 中 国 和 澳 大 利 亚 人 道 主 义 救 援 减 灾 联 合 演 练
+0003000366	data/huiyan_dataset/raw_wav/wav/0003/000366.wav	今 天 在 成 都 公 安 消 防 综 合 应 急 救 援 训 练 基 地 开 始
+0003000367	data/huiyan_dataset/raw_wav/wav/0003/000367.wav	中 澳 两 军 分 四 天 对 国 际 救 援 方 式 方 法
+0003000368	data/huiyan_dataset/raw_wav/wav/0003/000368.wav	救 灾 协 调 机 制 等 多 项 内 容 进 行 推 演
+0003000369	data/huiyan_dataset/raw_wav/wav/0003/000369.wav	并 进 行 实 兵 救 援 减 灾 演 练
+0003000370	data/huiyan_dataset/raw_wav/wav/0003/000370.wav	全 国 第 一 个 通 用 航 空 科 技 创 新 园 日 前 启 动
+0003000371	data/huiyan_dataset/raw_wav/wav/0003/000371.wav	创 新 园 致 力 于 通 用 航 空 发 行 器 的 研 发 生 产 和 人 才 培 养
+0003000372	data/huiyan_dataset/raw_wav/wav/0003/000372.wav	通 用 航 空 是 指 公 共 运 输 以 外 的 民 用 航 空 活 动
+0003000373	data/huiyan_dataset/raw_wav/wav/0003/000373.wav	卫 生 部 今 天 在 京 启 动 中 国 急 性 心 肌 梗 死 规 范 化 救 治 项 目
+0003000374	data/huiyan_dataset/raw_wav/wav/0003/000374.wav	认 定 四 十 八 家 医 院 为 试 点 医 院
+0003000375	data/huiyan_dataset/raw_wav/wav/0003/000375.wav	开 展 我 国 急 性 心 肌 梗 死 救 治 体 系 和 区 域 性 急 救 网 络 建 设 研 究
+0003000376	data/huiyan_dataset/raw_wav/wav/0003/000376.wav	辽 宁 建 昌 东 大 杖 子 战 国 古 墓 群 发 掘 工 作 正 在 进 行
+0003000377	data/huiyan_dataset/raw_wav/wav/0003/000377.wav	考 古 队 员 在 编 号 为 M 四 零 的 大 墓 中 发 现 了 大 量 极 具 研 究 价 值 的 彩 绘 陶 器
+0003000378	data/huiyan_dataset/raw_wav/wav/0003/000378.wav	这 是 长 城 以 北 地 区 迄 今 为 止 发 现 的 规 模 最 大 的 战 国 古 墓 群
+0003000379	data/huiyan_dataset/raw_wav/wav/0003/000379.wav	当 地 相 关 部 门 已 经 着 手 启 动 相 关 保 护 工 程
+0003000380	data/huiyan_dataset/raw_wav/wav/0003/000380.wav	全 国 航 空 模 型 公 开 赛 正 在 深 圳 举 行
+0003000381	data/huiyan_dataset/raw_wav/wav/0003/000381.wav	公 开 赛 包 括 了 遥 控 固 定 翼 空 站
+0003000382	data/huiyan_dataset/raw_wav/wav/0003/000382.wav	遥 控 固 定 翼 穿 越 龙 遥 控 直 升 机 任 务 飞 行 等 七 个 项 目
+0003000383	data/huiyan_dataset/raw_wav/wav/0003/000383.wav	三 百 多 名 国 内 外 航 模 高 手 登 台 献 技
+0003000385	data/huiyan_dataset/raw_wav/wav/0003/000385.wav	阿 拉 伯 国 家 联 盟 二 十 七 号 通 过 对 叙 利 亚 制 裁 的 决 议
+0003000386	data/huiyan_dataset/raw_wav/wav/0003/000386.wav	中 国 外 交 部 发 言 人 洪 磊 在 今 天 举 行 的 例 行 记 者 会 上 表 示
+0003000387	data/huiyan_dataset/raw_wav/wav/0003/000387.wav	中 方 希 望 叙 利 亚 问 题 应 坚 持 在 阿 盟 框 架 内
+0003000388	data/huiyan_dataset/raw_wav/wav/0003/000388.wav	通 过 沟 通 与 协 调 妥 善 解 决
+0003000390	data/huiyan_dataset/raw_wav/wav/0003/000390.wav	阿 盟 对 叙 利 亚 的 制 裁 决 议
+0003000391	data/huiyan_dataset/raw_wav/wav/0003/000391.wav	包 括 切 断 叙 利 亚 中 央 银 行 业 务 往 来
+0003000392	data/huiyan_dataset/raw_wav/wav/0003/000392.wav	停 止 与 叙 利 亚 贸 易 等
+0003000393	data/huiyan_dataset/raw_wav/wav/0003/000393.wav	决 议 还 提 到
+0003000394	data/huiyan_dataset/raw_wav/wav/0003/000394.wav	若 叙 利 亚 无 视 阿 盟 努 力
+0003000395	data/huiyan_dataset/raw_wav/wav/0003/000395.wav	阿 盟 可 寻 求 国 际 社 会 介 入
+0003000396	data/huiyan_dataset/raw_wav/wav/0003/000396.wav	对 此 洪 磊 说
+0003000397	data/huiyan_dataset/raw_wav/wav/0003/000397.wav	叙 利 亚 问 题 应 坚 持 在 阿 盟 框 架 内 解 决
+0003000398	data/huiyan_dataset/raw_wav/wav/0003/000398.wav	这 符 合 叙 利 亚 阿 拉 伯 国 家 及 国 际 社 会 的 共 同 利 益
+0003000399	data/huiyan_dataset/raw_wav/wav/0003/000399.wav	中 方 希 望 阿 盟 和 叙 利 亚 能 从 叙 利 亚 人 民 的 根 本 利 益
+0003000400	data/huiyan_dataset/raw_wav/wav/0003/000400.wav	阿 拉 伯 地 区 的 和 平 稳 定 和 防 止 外 来 干 涉 出 发
+0003000401	data/huiyan_dataset/raw_wav/wav/0003/000401.wav	为 结 束 叙 利 亚 危 机 加 强 沟 通 和 协 调
+0003000402	data/huiyan_dataset/raw_wav/wav/0003/000402.wav	妥 善 解 决 有 关 问 题
+0003000404	data/huiyan_dataset/raw_wav/wav/0003/000404.wav	由 于 叙 利 亚 政 府 没 有 在 最 后 的 期 限 内 同 意 阿 盟 向 其 派 遣 观 察 团
+0003000405	data/huiyan_dataset/raw_wav/wav/0003/000405.wav	阿 拉 伯 国 家 联 盟 外 长 二 十 七 号 在 埃 及 首 都 开 罗 召 开 紧 急 会 议 之 后 决 定 立 即 对 叙 利 亚 方 面 实 施 经 济 制 裁
+0003000407	data/huiyan_dataset/raw_wav/wav/0003/000407.wav	卡 塔 尔 首 相 兼 外 交 大 臣 哈 马 德 二 十 七 号 在 开 罗 宣 布 了 制 裁 决 议
+0003000408	data/huiyan_dataset/raw_wav/wav/0003/000408.wav	除 了 伊 拉 克 和 黎 巴 嫩
+0003000409	data/huiyan_dataset/raw_wav/wav/0003/000409.wav	十 九 个 阿 盟 成 员 国 都 对 制 裁 决 议 表 示 支 持
+0003000410	data/huiyan_dataset/raw_wav/wav/0003/000410.wav	阿 盟 秘 书 长 阿 拉 比 说
+0003000411	data/huiyan_dataset/raw_wav/wav/0003/000411.wav	阿 盟 部 分 成 员 国 还 提 出 了 召 回 大 使 以 及 断 绝 外 交 关 系 等 政 治 制 裁 建 议
+0003000412	data/huiyan_dataset/raw_wav/wav/0003/000412.wav	但 短 期 内 阿 盟 没 有 实 施 这 些 建 议 的 计 划
+0003000413	data/huiyan_dataset/raw_wav/wav/0003/000413.wav	当 晚 上 千 名 叙 利 亚 民 众 涌 上 大 马 士 革 街 头 举 行 示 威 活 动 反 对 阿 盟 制 裁
+0003000414	data/huiyan_dataset/raw_wav/wav/0003/000414.wav	叙 利 亚 国 家 电 视 台 当 晚 的 报 道 指 出
+0003000415	data/huiyan_dataset/raw_wav/wav/0003/000415.wav	阿 盟 的 制 裁 措 施 最 终 会 伤 害 叙 利 亚 民 众
+0003000416	data/huiyan_dataset/raw_wav/wav/0003/000416.wav	叙 利 亚 经 贸 部 长 穆 罕 默 德 尼 达 尔 沙 尔 今 天 说
+0003000417	data/huiyan_dataset/raw_wav/wav/0003/000417.wav	阿 盟 的 经 济 制 裁 令 人 悲 伤
+0003000418	data/huiyan_dataset/raw_wav/wav/0003/000418.wav	将 影 响 到 每 一 个 和 叙 利 亚 有 来 往 的 阿 拉 伯 人
+0003000420	data/huiyan_dataset/raw_wav/wav/0003/000420.wav	今 天 联 合 国 应 对 气 候 变 化 大 会 在 南 非 德 班 开 幕
+0003000422	data/huiyan_dataset/raw_wav/wav/0003/000422.wav	在 为 期 两 周 的 时 间 里
+0003000423	data/huiyan_dataset/raw_wav/wav/0003/000423.wav	联 合 国 气 候 变 化 框 架 公 约 第 十 七 次 缔 约 方 会 议 和 京 都 议 定 书 第 七 次 缔 约 方 会 议 及 其 工 作 组 会 议 将 同 时 举 行
+0003000424	data/huiyan_dataset/raw_wav/wav/0003/000424.wav	超 过 一 百 九 十 个 缔 约 方 代 表 将 展 开 磋 商 和 谈 判
+0003000425	data/huiyan_dataset/raw_wav/wav/0003/000425.wav	主 要 议 题 包 括 京 都 议 定 书 第 二 承 诺 期 是 否 达 成
+0003000426	data/huiyan_dataset/raw_wav/wav/0003/000426.wav	在 公 约 下 是 否 可 以 确 定 非 议 定 书 发 达 国 家 缔 约 方 可 比 的 减 排 指 标
+0003000427	data/huiyan_dataset/raw_wav/wav/0003/000427.wav	如 何 落 实 适 应 资 金 技 术 转 让 能 力 建 设 等 方 面 的 机 制 安 排
+0003000428	data/huiyan_dataset/raw_wav/wav/0003/000428.wav	细 化 体 现 发 达 国 家 和 发 展 中 国 家 区 别 的 三 可 和 透 明 度 具 体 安 排
+0003000429	data/huiyan_dataset/raw_wav/wav/0003/000429.wav	呃 京 都 议 定 书 是 呃 气 候 变 化 国 际 制 度 的 一 个 重 要 的 支 柱
+0003000430	data/huiyan_dataset/raw_wav/wav/0003/000430.wav	如 果 说 厄 在 德 班 会 议 上 不 能 够 就 京 都 议 定 书 第 二 承 诺 期 问 题 有 一 个 明 确 的 决 定 的 话
+0003000431	data/huiyan_dataset/raw_wav/wav/0003/000431.wav	那 么 整 个 这 个 应 对 气 候 变 化 的 进 程 会 受 到 很 大 的 影 响
+0003000432	data/huiyan_dataset/raw_wav/wav/0003/000432.wav	这 我 觉 得 这 不 仅 仅 是 中 国 的 关 键 也 是 这 个 全 球 在 这 个 问 题 上 的 一 个 重 要 的 关 键
+0003000433	data/huiyan_dataset/raw_wav/wav/0003/000433.wav	从 一 九 九 二 年 巴 西 里 约 热 内 卢 联 合 国 环 境 与 发 展 大 会 至 今
+0003000434	data/huiyan_dataset/raw_wav/wav/0003/000434.wav	国 际 气 候 谈 判 已 经 走 过 二 十 年 历 程
+0003000435	data/huiyan_dataset/raw_wav/wav/0003/000435.wav	虽 然 共 识 不 断 增 多
+0003000436	data/huiyan_dataset/raw_wav/wav/0003/000436.wav	但 各 方 分 歧 也 远 未 消 弥
+0003000437	data/huiyan_dataset/raw_wav/wav/0003/000437.wav	此 次 德 班 会 议 要 想 取 得 成 果
+0003000438	data/huiyan_dataset/raw_wav/wav/0003/000438.wav	仍 然 需 要 各 方 做 出 切 实 的 努 力
+0003000439	data/huiyan_dataset/raw_wav/wav/0003/000439.wav	再 过 一 个 月 就 将 进 入 二 零 一 二 年 了
+0003000440	data/huiyan_dataset/raw_wav/wav/0003/000440.wav	二 零 一 二 意 味 着 发 达 国 家 量 化 强 制 减 排 的 法 律 约 束 力 是 存 还 是 废 进 入 了 倒 计 时 时 刻
+0003000441	data/huiyan_dataset/raw_wav/wav/0003/000441.wav	此 次 德 班 会 议 会 成 为 人 类 应 对 气 候 变 化 的 一 个 新 开 始
+0003000442	data/huiyan_dataset/raw_wav/wav/0003/000442.wav	还 是 会 成 为 以 往 努 力 的 一 个 终 结
+0003000443	data/huiyan_dataset/raw_wav/wav/0003/000443.wav	未 来 十 几 天 的 艰 苦 谈 判 将 给 出 答 案
+0003000444	data/huiyan_dataset/raw_wav/wav/0003/000444.wav	央 视 记 者 南 非 德 班 报 道
+0003000445	data/huiyan_dataset/raw_wav/wav/0003/000445.wav	埃 及 人 民 议 会 选 举 第 一 阶 段 投 票 今 天 正 式 开 始 了
+0003000446	data/huiyan_dataset/raw_wav/wav/0003/000446.wav	这 也 是 穆 巴 拉 克 辞 去 总 统 职 务 之 后 埃 及 举 行 的 首 次 议 会 选 举
+0003000448	data/huiyan_dataset/raw_wav/wav/0003/000448.wav	在 这 次 选 举 中
+0003000449	data/huiyan_dataset/raw_wav/wav/0003/000449.wav	大 约 四 千 万 选 民 将 投 票 选 出 议 会 下 院 中 四 百 九 十 八 名 议 员
+0003000450	data/huiyan_dataset/raw_wav/wav/0003/000450.wav	投 票 持 续 三 周
+0003000451	data/huiyan_dataset/raw_wav/wav/0003/000451.wav	最 终 选 举 结 果 预 计 明 年 一 月 十 三 号 揭 晓
+0003000452	data/huiyan_dataset/raw_wav/wav/0003/000452.wav	我 现 在 所 在 的 地 方 就 是 开 罗 市 区 的 一 个 投 票 点
+0003000453	data/huiyan_dataset/raw_wav/wav/0003/000453.wav	尽 管 投 票 的 人 已 经 排 起 了 长 队
+0003000454	data/huiyan_dataset/raw_wav/wav/0003/000454.wav	但 是 现 场 的 秩 序 还 是 非 常 的 井 然
+0003000455	data/huiyan_dataset/raw_wav/wav/0003/000455.wav	很 多 人 都 等 待 着 投 下 自 己 的 一 票
+0003000456	data/huiyan_dataset/raw_wav/wav/0003/000456.wav	二 十 七 号 埃 及 武 装 部 队 最 高 委 员 会 主 席 坦 塔 维 通 过 埃 及 国 家 电 视 台 发 表 讲 话 说
+0003000457	data/huiyan_dataset/raw_wav/wav/0003/000457.wav	如 果 埃 及 当 前 的 混 乱 局 面 无 法 扭 转
+0003000458	data/huiyan_dataset/raw_wav/wav/0003/000458.wav	国 家 将 面 临 十 分 严 重 的 后 果
+0003000459	data/huiyan_dataset/raw_wav/wav/0003/000459.wav	他 呼 吁 广 大 民 众 踊 跃 投 票
+0003000460	data/huiyan_dataset/raw_wav/wav/0003/000460.wav	埃 及 今 年 一 月 爆 发 大 规 模 反 政 府 示 威
+0003000461	data/huiyan_dataset/raw_wav/wav/0003/000461.wav	穆 巴 拉 克 二 月 辞 去 总 统 职 务
+0003000462	data/huiyan_dataset/raw_wav/wav/0003/000462.wav	把 权 力 移 交 给 军 方
+0003000463	data/huiyan_dataset/raw_wav/wav/0003/000463.wav	埃 及 武 装 部 队 最 高 委 员 会 随 后 宣 布 暂 时 中 止 现 行 宪 法 解 散 议 会
+0003000464	data/huiyan_dataset/raw_wav/wav/0003/000464.wav	最 终 确 定 从 本 月 二 十 八 号 开 始 举 行 人 民 议 会 选 举
+0003000465	data/huiyan_dataset/raw_wav/wav/0003/000465.wav	明 年 一 月 二 十 九 号 开 始 举 行 协 商 会 议 即 议 会 上 院 选 举
+0003000466	data/huiyan_dataset/raw_wav/wav/0003/000466.wav	总 统 选 举 将 在 明 年 六 月 三 十 号 前 举 行
+0003000468	data/huiyan_dataset/raw_wav/wav/0003/000468.wav	继 美 英 等 国 二 十 一 号 对 伊 朗 实 施 新 一 轮 制 裁 之 后
+0003000469	data/huiyan_dataset/raw_wav/wav/0003/000469.wav	伊 朗 议 会 二 十 七 号 通 过 了 一 项 关 于 降 低 伊 朗 与 英 国 外 交 关 系 的 议 案
+0003000470	data/huiyan_dataset/raw_wav/wav/0003/000470.wav	英 国 外 交 部 对 此 表 示 遗 憾
+0003000472	data/huiyan_dataset/raw_wav/wav/0003/000472.wav	这 项 议 案 敦 促 伊 朗 外 交 部 在 两 周 内 将 一 英 两 国 外 交 关 系 从 大 使 级 降 至 代 办 级
+0003000473	data/huiyan_dataset/raw_wav/wav/0003/000473.wav	撤 回 驻 英 大 使
+0003000474	data/huiyan_dataset/raw_wav/wav/0003/000474.wav	并 要 求 伊 朗 政 府 降 低 两 国 经 贸 关 系 水 平
+0003000475	data/huiyan_dataset/raw_wav/wav/0003/000475.wav	该 议 案 在 议 会 获 得 百 分 之 八 十 七 的 议 员 赞 同
+0003000476	data/huiyan_dataset/raw_wav/wav/0003/000476.wav	还 需 递 交 伊 朗 宪 法 监 护 委 员 会 批 准 后 方 能 生 效
+0003000477	data/huiyan_dataset/raw_wav/wav/0003/000477.wav	伊 朗 议 会 议 长 拉 里 贾 尼 表 示
+0003000478	data/huiyan_dataset/raw_wav/wav/0003/000478.wav	通 过 议 案 只 是 开 始
+0003000479	data/huiyan_dataset/raw_wav/wav/0003/000479.wav	此 前 伊 朗 议 员 曾 表 示
+0003000480	data/huiyan_dataset/raw_wav/wav/0003/000480.wav	议 会 国 家 安 全 与 对 外 关 系 委 员 会 正 在 研 究 一 项 提 案
+0003000481	data/huiyan_dataset/raw_wav/wav/0003/000481.wav	提 议 伊 朗 政 府 降 低 与 所 有 支 持 敌 视 伊 朗 的 国 家 的 外 交 关 系
+0003000482	data/huiyan_dataset/raw_wav/wav/0003/000482.wav	英 国 外 交 部 二 十 七 号 发 表 声 明 说
+0003000483	data/huiyan_dataset/raw_wav/wav/0003/000483.wav	伊 朗 这 一 没 有 事 先 通 告 的 举 动
+0003000484	data/huiyan_dataset/raw_wav/wav/0003/000484.wav	无 助 于 缓 和 外 界 对 伊 朗 核 项 目 的 担 忧
+0003000485	data/huiyan_dataset/raw_wav/wav/0003/000485.wav	如 果 伊 朗 政 府 将 议 案 付 诸 实 施
+0003000486	data/huiyan_dataset/raw_wav/wav/0003/000486.wav	英 国 将 予 以 回 击
+0003000488	data/huiyan_dataset/raw_wav/wav/0003/000488.wav	也 门 副 总 统 哈 迪 二 十 七 号 发 布 共 和 国 令
+0003000489	data/huiyan_dataset/raw_wav/wav/0003/000489.wav	任 命 反 对 派 全 国 委 员 会 主 席 巴 桑 杜 为 新 总 理 并 授 权 巴 桑 杜 组 阁
+0003000491	data/huiyan_dataset/raw_wav/wav/0003/000491.wav	根 据 海 湾 阿 拉 伯 国 家 合 作 委 员 会 调 解 协 议
+0003000492	data/huiyan_dataset/raw_wav/wav/0003/000492.wav	也 门 新 政 府 将 由 反 对 派 领 导 并 在 明 年 总 统 选 举 前 执 政 也 门 总 统 选 举 定 于 明 年 二 月 二 十 一 号 举 行
+0003000493	data/huiyan_dataset/raw_wav/wav/0003/000493.wav	今 年 六 十 六 岁 的 巴 桑 杜 曾 历 任 也 门 外 交 部 长 新 闻 部 长 总 统 萨 利 赫 的 政 治 顾 问 等
+0003000494	data/huiyan_dataset/raw_wav/wav/0003/000494.wav	从 二 零 零 六 年 起
+0003000495	data/huiyan_dataset/raw_wav/wav/0003/000495.wav	巴 桑 杜 成 为 反 对 党 主 要 领 导 人
+0003000496	data/huiyan_dataset/raw_wav/wav/0003/000496.wav	今 年 八 月 十 八 号 反 对 派 成 立 全 国 委 员 会
+0003000497	data/huiyan_dataset/raw_wav/wav/0003/000497.wav	并 推 选 巴 桑 杜 为 主 席
+0003000499	data/huiyan_dataset/raw_wav/wav/0003/000499.wav	好 接 下 来 请 看 一 组 联 播 快 讯
+0003000501	data/huiyan_dataset/raw_wav/wav/0003/000501.wav	摩 洛 哥 内 政 部 二 十 七 号 晚 公 布 第 九 届 众 议 院 选 举 结 果
+0003000502	data/huiyan_dataset/raw_wav/wav/0003/000502.wav	温 和 的 伊 斯 兰 政 党 正 义 与 发 展 党 以 绝 对 优 势 获 胜
+0003000503	data/huiyan_dataset/raw_wav/wav/0003/000503.wav	成 为 摩 洛 哥 宪 政 改 革 后 首 个 获 得 议 会 多 数 席 位 的 政 党
+0003000504	data/huiyan_dataset/raw_wav/wav/0003/000504.wav	根 据 摩 洛 哥 新 宪 法
+0003000505	data/huiyan_dataset/raw_wav/wav/0003/000505.wav	首 相 人 选 将 由 正 义 与 发 展 党 产 生 而 不 是 由 国 王 指 派
+0003000506	data/huiyan_dataset/raw_wav/wav/0003/000506.wav	二 零 一 一 年 度 世 界 一 级 方 程 式 赛 车 大 奖 赛 的 收 官 之 战
+0003000507	data/huiyan_dataset/raw_wav/wav/0003/000507.wav	二 十 七 号 在 巴 西 圣 保 罗 英 特 拉 格 斯 赛 道 进 行
+0003000508	data/huiyan_dataset/raw_wav/wav/0003/000508.wav	红 牛 车 队 的 两 位 车 手 韦 伯 和 维 特 尔 分 获 冠 亚 军
+0003000509	data/huiyan_dataset/raw_wav/wav/0003/000509.wav	迈 凯 轮 车 手 巴 顿 获 得 第 三
+0003000510	data/huiyan_dataset/raw_wav/wav/0003/000510.wav	至 此 本 年 度 f 一 大 奖 赛 落 下 帷 幕
+0003000511	data/huiyan_dataset/raw_wav/wav/0003/000511.wav	德 国 车 手 维 特 尔 和 红 牛 车 队 分 获 本 年 度 车 手 和 车 队 总 冠 军
+0003000512	data/huiyan_dataset/raw_wav/wav/0003/000512.wav	男 子 职 业 网 球 选 手 协 会 A T P 世 界 巡 回 赛 年 终 总 决 赛 二 十 七 号 在 伦 敦 举 行
+0003000513	data/huiyan_dataset/raw_wav/wav/0003/000513.wav	瑞 士 天 王 费 德 勒 最 终 以 二 比 一 战 胜 法 国 选 手 特 松 加 获 得 冠 军
+0003000514	data/huiyan_dataset/raw_wav/wav/0003/000514.wav	至 此 费 德 勒 以 六 次 冠 军 的 成 绩 成 为 笑 傲 A T P 年 终 总 决 赛 次 数 最 多 的 球 员
+0003000515	data/huiyan_dataset/raw_wav/wav/0003/000515.wav	同 时 他 也 将 自 己 职 业 生 涯 的 冠 军 奖 杯 增 加 到 了 七 十 个
+0003000517	data/huiyan_dataset/raw_wav/wav/0003/000517.wav	好 各 位 观 众
+0003000518	data/huiyan_dataset/raw_wav/wav/0003/000518.wav	今 天 的 新 闻 联 播 节 目 播 送 完 了
+0003000519	data/huiyan_dataset/raw_wav/wav/0003/000519.wav	感 谢 您 的 收 看 再 见 再 见
+0004000002	data/huiyan_dataset/raw_wav/wav/0004/000002.wav	观 众 朋 友 们 晚 上 好 晚 上 好
+0004000003	data/huiyan_dataset/raw_wav/wav/0004/000003.wav	今 天 是 十 一 月 二 十 九 号 星 期 二 农 历 十 一 月 初 五
+0004000004	data/huiyan_dataset/raw_wav/wav/0004/000004.wav	欢 迎 收 看 新 闻 联 播 节 目
+0004000005	data/huiyan_dataset/raw_wav/wav/0004/000005.wav	今 天 节 目 的 主 要 内 容 有 中 央 扶 贫 开 发 工 作 会 议 在 北 京 召 开
+0004000006	data/huiyan_dataset/raw_wav/wav/0004/000006.wav	胡 锦 涛 温 家 宝 发 表 重 要 讲 话 吴 邦 国 贾 庆 林 李 长 春 习 近 平 李 克 强 贺 国 强 周 永 康 出 席
+0004000007	data/huiyan_dataset/raw_wav/wav/0004/000007.wav	习 近 平 会 见 国 际 劳 工 组 织 总 干 事
+0004000008	data/huiyan_dataset/raw_wav/wav/0004/000008.wav	李 克 强 出 席 国 务 院 医 改 领 导 小 组 第 十 次 全 体 会 议
+0004000009	data/huiyan_dataset/raw_wav/wav/0004/000009.wav	我 国 新 增 扶 贫 资 金 将 主 要 用 于 连 片 特 困 地 区
+0004000010	data/huiyan_dataset/raw_wav/wav/0004/000010.wav	各 地 不 得 再 以 任 何 理 由 任 何 方 式 从 中 提 取 任 何 费 用
+0004000011	data/huiyan_dataset/raw_wav/wav/0004/000011.wav	四 川 凉 山 专 项 扶 贫 改 善 少 数 民 族 地 区 基 础 设 施 扶 贫 成 果 惠 及 六 十 三 万 彝 族 同 胞
+0004000012	data/huiyan_dataset/raw_wav/wav/0004/000012.wav	继 穆 迪 和 标 普 之 后
+0004000013	data/huiyan_dataset/raw_wav/wav/0004/000013.wav	国 际 评 级 机 构 惠 誉 公 司 将 美 国 主 权 信 用 评 级 前 景 展 望 调 整 为 负 面
+0004000014	data/huiyan_dataset/raw_wav/wav/0004/000014.wav	叙 利 亚 谴 责 阿 盟 经 济 制 裁 决 定
+0004000015	data/huiyan_dataset/raw_wav/wav/0004/000015.wav	阿 盟 再 次 呼 吁 叙 利 亚 签 署 观 察 团 派 遣 协 议
+0004000016	data/huiyan_dataset/raw_wav/wav/0004/000016.wav	以 换 取 阿 盟 重 新 决 策
+0004000017	data/huiyan_dataset/raw_wav/wav/0004/000017.wav	下 面 请 看 详 细 内 容
+0004000019	data/huiyan_dataset/raw_wav/wav/0004/000019.wav	中 央 扶 贫 开 发 工 作 会 议 二 十 九 号 在 北 京 召 开
+0004000020	data/huiyan_dataset/raw_wav/wav/0004/000020.wav	中 共 中 央 总 书 记 国 家 主 席 中 央 军 委 主 席 胡 锦 涛 出 席 会 议 并 发 表 重 要 讲 话
+0004000021	data/huiyan_dataset/raw_wav/wav/0004/000021.wav	强 调 扶 贫 开 发 是 一 项 长 期 而 重 大 的 任 务
+0004000022	data/huiyan_dataset/raw_wav/wav/0004/000022.wav	是 一 项 崇 高 而 伟 大 的 事 业
+0004000023	data/huiyan_dataset/raw_wav/wav/0004/000023.wav	全 党 全 社 会 要 深 刻 认 识 扶 贫 开 发 工 作 的 重 要 性 和 紧 迫 性
+0004000024	data/huiyan_dataset/raw_wav/wav/0004/000024.wav	增 强 做 好 扶 贫 开 发 工 作 的 自 觉 性 和 坚 定 性
+0004000025	data/huiyan_dataset/raw_wav/wav/0004/000025.wav	以 更 大 的 决 心 更 强 的 力 度 更 有 效 的 举 措
+0004000026	data/huiyan_dataset/raw_wav/wav/0004/000026.wav	扎 扎 实 实 做 好 扶 贫 开 发 各 项 工 作
+0004000027	data/huiyan_dataset/raw_wav/wav/0004/000027.wav	确 保 到 二 零 二 零 年 全 国 实 现 全 面 建 设 小 康 社 会 目 标
+0004000028	data/huiyan_dataset/raw_wav/wav/0004/000028.wav	党 和 国 家 领 导 人 吴 邦 国
+0004000029	data/huiyan_dataset/raw_wav/wav/0004/000029.wav	温 家 宝
+0004000030	data/huiyan_dataset/raw_wav/wav/0004/000030.wav	贾 庆 林
+0004000031	data/huiyan_dataset/raw_wav/wav/0004/000031.wav	李 长 春
+0004000032	data/huiyan_dataset/raw_wav/wav/0004/000032.wav	习 近 平
+0004000033	data/huiyan_dataset/raw_wav/wav/0004/000033.wav	李 克 强
+0004000034	data/huiyan_dataset/raw_wav/wav/0004/000034.wav	贺 国 强
+0004000035	data/huiyan_dataset/raw_wav/wav/0004/000035.wav	周 永 康 出 席 会 议
+0004000036	data/huiyan_dataset/raw_wav/wav/0004/000036.wav	胡 锦 涛 在 讲 话 中 指 出
+0004000037	data/huiyan_dataset/raw_wav/wav/0004/000037.wav	这 次 中 央 扶 贫 开 发 工 作 会 议 是 在 十 二 五 时 期 顺 利 开 局
+0004000038	data/huiyan_dataset/raw_wav/wav/0004/000038.wav	全 面 建 设 小 康 社 会 进 入 关 键 时 期 召 开 的 一 次 重 要 会 议
+0004000039	data/huiyan_dataset/raw_wav/wav/0004/000039.wav	会 议 的 主 要 任 务 是 总 结 我 国 扶 贫 开 发 工 作 取 得 的 成 就 和 经 验
+0004000040	data/huiyan_dataset/raw_wav/wav/0004/000040.wav	分 析 当 前 和 今 后 一 个 时 期 扶 贫 开 发 形 势 和 任 务
+0004000041	data/huiyan_dataset/raw_wav/wav/0004/000041.wav	全 面 部 署 中 国 农 村 扶 贫 开 发 纲 要 二 零 一 一 至 二 零 二 零 年 贯 彻 落 实 工 作
+0004000042	data/huiyan_dataset/raw_wav/wav/0004/000042.wav	动 员 全 党 全 社 会 力 量
+0004000043	data/huiyan_dataset/raw_wav/wav/0004/000043.wav	坚 决 打 好 新 一 轮 扶 贫 开 发 攻 坚 战
+0004000044	data/huiyan_dataset/raw_wav/wav/0004/000044.wav	胡 锦 涛 强 调
+0004000045	data/huiyan_dataset/raw_wav/wav/0004/000045.wav	消 除 贫 困 改 善 民 生 实 现 共 同 富 裕 是 社 会 主 义 的 本 质 要 求
+0004000046	data/huiyan_dataset/raw_wav/wav/0004/000046.wav	是 改 革 开 放 和 社 会 主 义 现 代 化 建 设 的 重 大 任 务
+0004000047	data/huiyan_dataset/raw_wav/wav/0004/000047.wav	是 全 党 全 国 各 族 人 民 始 终 不 渝 的 奋 斗 目 标
+0004000048	data/huiyan_dataset/raw_wav/wav/0004/000048.wav	新 中 国 成 立 以 来
+0004000049	data/huiyan_dataset/raw_wav/wav/0004/000049.wav	党 和 国 家 始 终 高 度 重 视 扶 贫 开 发 事 业
+0004000050	data/huiyan_dataset/raw_wav/wav/0004/000050.wav	特 别 是 改 革 开 放 以 来
+0004000051	data/huiyan_dataset/raw_wav/wav/0004/000051.wav	党 和 国 家 正 式 启 动
+0004000052	data/huiyan_dataset/raw_wav/wav/0004/000052.wav	全 国 范 围 有 计 划 有 组 织 的 大 规 模 开 发 式 扶 贫
+0004000053	data/huiyan_dataset/raw_wav/wav/0004/000053.wav	取 得 了 举 世 瞩 目 的 巨 大 成 就
+0004000054	data/huiyan_dataset/raw_wav/wav/0004/000054.wav	扶 贫 开 发 事 业 取 得 的 巨 大 成 就
+0004000055	data/huiyan_dataset/raw_wav/wav/0004/000055.wav	为 促 进 我 国 经 济 发 展 政 治 稳 定 民 族 团 结 边 疆 巩 固 社 会 和 谐 发 挥 了 重 要 作 用
+0004000056	data/huiyan_dataset/raw_wav/wav/0004/000056.wav	为 全 球 减 贫 事 业 作 出 了 重 大 贡 献
+0004000057	data/huiyan_dataset/raw_wav/wav/0004/000057.wav	胡 锦 涛 强 调
+0004000058	data/huiyan_dataset/raw_wav/wav/0004/000058.wav	实 践 充 分 证 明
+0004000059	data/huiyan_dataset/raw_wav/wav/0004/000059.wav	经 过 改 革 开 放 三 十 多 年 来 的 不 懈 努 力
+0004000060	data/huiyan_dataset/raw_wav/wav/0004/000060.wav	我 们 成 功 走 出 了 一 条 中 国 特 色 扶 贫 开 发 道 路
+0004000061	data/huiyan_dataset/raw_wav/wav/0004/000061.wav	当 前 我 国 扶 贫 开 发 已 经 从 以 解 决 温 饱 为 主 要 任 务 的 阶 段
+0004000062	data/huiyan_dataset/raw_wav/wav/0004/000062.wav	转 入 巩 固 温 饱 成 果
+0004000063	data/huiyan_dataset/raw_wav/wav/0004/000063.wav	加 快 脱 贫 致 富
+0004000064	data/huiyan_dataset/raw_wav/wav/0004/000064.wav	改 善 生 态 环 境
+0004000065	data/huiyan_dataset/raw_wav/wav/0004/000065.wav	提 高 发 展 能 力
+0004000066	data/huiyan_dataset/raw_wav/wav/0004/000066.wav	缩 小 发 展 差 距 的 新 阶 段
+0004000067	data/huiyan_dataset/raw_wav/wav/0004/000067.wav	扶 贫 开 发 既 具 有 更 加 有 利 的 基 础 和 条 件
+0004000068	data/huiyan_dataset/raw_wav/wav/0004/000068.wav	也 面 临 新 的 困 难 和 挑 战
+0004000069	data/huiyan_dataset/raw_wav/wav/0004/000069.wav	深 入 推 进 扶 贫 开 发
+0004000070	data/huiyan_dataset/raw_wav/wav/0004/000070.wav	扎 实 做 好 新 阶 段 扶 贫 开 发 工 作
+0004000071	data/huiyan_dataset/raw_wav/wav/0004/000071.wav	对 维 护 人 民 根 本 利 益
+0004000072	data/huiyan_dataset/raw_wav/wav/0004/000072.wav	巩 固 党 的 执 政 基 础
+0004000073	data/huiyan_dataset/raw_wav/wav/0004/000073.wav	确 保 国 家 长 治 久 安
+0004000074	data/huiyan_dataset/raw_wav/wav/0004/000074.wav	实 现 全 面 建 设 小 康 社 会 和 社 会 主 义 现 代 化 宏 伟 目 标 具 有 极 为 重 大 的 意 义
+0004000075	data/huiyan_dataset/raw_wav/wav/0004/000075.wav	胡 锦 涛 强 调
+0004000076	data/huiyan_dataset/raw_wav/wav/0004/000076.wav	做 好 新 阶 段 扶 贫 开 发 工 作
+0004000077	data/huiyan_dataset/raw_wav/wav/0004/000077.wav	必 须 高 举 中 国 特 色 社 会 主 义 伟 大 旗 帜
+0004000078	data/huiyan_dataset/raw_wav/wav/0004/000078.wav	以 邓 小 平 理 论 和 三 个 代 表 重 要 思 想 为 指 导
+0004000079	data/huiyan_dataset/raw_wav/wav/0004/000079.wav	深 入 贯 彻 落 实 科 学 发 展 观
+0004000080	data/huiyan_dataset/raw_wav/wav/0004/000080.wav	提 高 扶 贫 标 准 加 大 投 入 力 度
+0004000081	data/huiyan_dataset/raw_wav/wav/0004/000081.wav	把 集 中 连 片 特 殊 困 难 地 区 作 为 主 战 场
+0004000082	data/huiyan_dataset/raw_wav/wav/0004/000082.wav	把 稳 定 解 决 扶 贫 对 象 温 饱
+0004000083	data/huiyan_dataset/raw_wav/wav/0004/000083.wav	尽 快 实 现 脱 贫 致 富 作 为 首 要 任 务
+0004000084	data/huiyan_dataset/raw_wav/wav/0004/000084.wav	坚 持 政 府 主 导
+0004000085	data/huiyan_dataset/raw_wav/wav/0004/000085.wav	坚 持 统 筹 发 展
+0004000086	data/huiyan_dataset/raw_wav/wav/0004/000086.wav	更 加 注 重 转 变 经 济 发 展 方 式
+0004000087	data/huiyan_dataset/raw_wav/wav/0004/000087.wav	更 加 注 重 增 强 扶 贫 对 象 自 我 发 展 能 力
+0004000088	data/huiyan_dataset/raw_wav/wav/0004/000088.wav	更 加 注 重 基 本 公 共 服 务 均 等 化
+0004000089	data/huiyan_dataset/raw_wav/wav/0004/000089.wav	更 加 注 重 解 决 制 约 发 展 的 突 出 问 题
+0004000090	data/huiyan_dataset/raw_wav/wav/0004/000090.wav	努 力 推 动 贫 困 地 区 经 济 社 会 更 好 更 快 发 展
+0004000091	data/huiyan_dataset/raw_wav/wav/0004/000091.wav	胡 锦 涛 指 出
+0004000092	data/huiyan_dataset/raw_wav/wav/0004/000092.wav	到 二 零 二 零 年 深 入 推 进 扶 贫 开 发 的 总 体 目 标 是 稳 定 实 现 扶 贫 对 象 不 愁 吃 不 愁 穿
+0004000093	data/huiyan_dataset/raw_wav/wav/0004/000093.wav	保 障 其 义 务 教 育
+0004000094	data/huiyan_dataset/raw_wav/wav/0004/000094.wav	基 本 医 疗 和 住 房 贫 困 地 区 农 民 人 均 纯 收 入 增 长 幅 度 高 于 全 国 平 均 水 平
+0004000095	data/huiyan_dataset/raw_wav/wav/0004/000095.wav	基 本 公 共 服 务 主 要 领 域 指 标 接 近 全 国 平 均 水 平
+0004000096	data/huiyan_dataset/raw_wav/wav/0004/000096.wav	扭 转 发 展 差 距 扩 大 趋 势
+0004000097	data/huiyan_dataset/raw_wav/wav/0004/000097.wav	要 坚 持 开 发 式 扶 贫 方 针
+0004000098	data/huiyan_dataset/raw_wav/wav/0004/000098.wav	同 时 实 行 扶 贫 开 发 和 农 村 最 低 生 活 保 障 制 度 有 效 衔 接
+0004000099	data/huiyan_dataset/raw_wav/wav/0004/000099.wav	把 扶 贫 开 发 作 为 脱 贫 致 富 的 主 要 途 径
+0004000100	data/huiyan_dataset/raw_wav/wav/0004/000100.wav	把 社 会 保 障 作 为 解 决 温 饱 问 题 的 基 本 手 段
+0004000101	data/huiyan_dataset/raw_wav/wav/0004/000101.wav	坚 持 统 筹 城 乡 发 展
+0004000102	data/huiyan_dataset/raw_wav/wav/0004/000102.wav	坚 持 扶 贫 开 发 与 推 进 城 镇 化 建 设 社 会 主 义 新 农 村 相 结 合
+0004000103	data/huiyan_dataset/raw_wav/wav/0004/000103.wav	与 生 态 环 境 保 护 相 结 合
+0004000104	data/huiyan_dataset/raw_wav/wav/0004/000104.wav	促 进 经 济 社 会 发 展 与 人 口 资 源 环 境 相 协 调
+0004000105	data/huiyan_dataset/raw_wav/wav/0004/000105.wav	要 坚 持 政 府 主 导 分 级 负 责
+0004000106	data/huiyan_dataset/raw_wav/wav/0004/000106.wav	坚 持 突 出 重 点 分 类 指 导
+0004000107	data/huiyan_dataset/raw_wav/wav/0004/000107.wav	坚 持 全 社 会 参 与 合 力 推 进
+0004000108	data/huiyan_dataset/raw_wav/wav/0004/000108.wav	坚 持 尊 重 扶 贫 对 象 主 体 地 位
+0004000109	data/huiyan_dataset/raw_wav/wav/0004/000109.wav	激 发 贫 困 地 区 内 在 活 力
+0004000110	data/huiyan_dataset/raw_wav/wav/0004/000110.wav	胡 锦 涛 指 出
+0004000111	data/huiyan_dataset/raw_wav/wav/0004/000111.wav	中 央 颁 发 的 中 国 农 村 扶 贫 开 发 纲 要
+0004000112	data/huiyan_dataset/raw_wav/wav/0004/000112.wav	二 零 一 一 至 二 零 二 零 年 对 新 阶 段 扶 贫 开 发 工 作 作 出 了 全 面 部 署
+0004000113	data/huiyan_dataset/raw_wav/wav/0004/000113.wav	中 央 明 确 了 新 的 国 家 扶 贫 标 准
+0004000114	data/huiyan_dataset/raw_wav/wav/0004/000114.wav	各 级 党 委 和 政 府 要 抓 紧 行 动 抓 紧 落 实
+0004000115	data/huiyan_dataset/raw_wav/wav/0004/000115.wav	突 出 工 作 重 点 解 决 关 键 问 题
+0004000116	data/huiyan_dataset/raw_wav/wav/0004/000116.wav	确 保 不 断 取 得 阶 段 性 突 破 和 进 展
+0004000117	data/huiyan_dataset/raw_wav/wav/0004/000117.wav	要 着 力 推 进 集 中 连 片 特 殊 困 难 地 区 扶 贫 攻 坚
+0004000118	data/huiyan_dataset/raw_wav/wav/0004/000118.wav	着 力 巩 固 和 发 展 专 项 扶 贫 行 业 扶 贫 社 会 扶 贫 大 扶 贫 格 局
+0004000119	data/huiyan_dataset/raw_wav/wav/0004/000119.wav	着 力 完 善 扶 贫 开 发 政 策 保 障 体 系
+0004000120	data/huiyan_dataset/raw_wav/wav/0004/000120.wav	着 力 加 强 扶 贫 开 发 国 际 交 流 合 作
+0004000121	data/huiyan_dataset/raw_wav/wav/0004/000121.wav	胡 锦 涛 强 调
+0004000122	data/huiyan_dataset/raw_wav/wav/0004/000122.wav	新 阶 段 扶 贫 开 发 任 务 艰 巨 时 间 紧 迫
+0004000123	data/huiyan_dataset/raw_wav/wav/0004/000123.wav	必 须 加 强 领 导 真 抓 实 干
+0004000124	data/huiyan_dataset/raw_wav/wav/0004/000124.wav	切 实 把 中 央 决 策 部 署 落 到 实 处
+0004000125	data/huiyan_dataset/raw_wav/wav/0004/000125.wav	各 级 党 委 和 政 府 要 高 度 重 视 扶 贫 开 发 工 作
+0004000126	data/huiyan_dataset/raw_wav/wav/0004/000126.wav	加 强 对 扶 贫 开 发 工 作 的 督 促 检 查 和 考 核 评 估
+0004000127	data/huiyan_dataset/raw_wav/wav/0004/000127.wav	加 强 扶 贫 资 金 使 用 管 理
+0004000128	data/huiyan_dataset/raw_wav/wav/0004/000128.wav	要 切 实 加 强 基 层 组 织 建 设
+0004000129	data/huiyan_dataset/raw_wav/wav/0004/000129.wav	把 基 层 党 组 织 建 设 成 为 推 动 科 学 发 展
+0004000130	data/huiyan_dataset/raw_wav/wav/0004/000130.wav	带 领 农 民 致 富 密 切 联 系 群 众
+0004000131	data/huiyan_dataset/raw_wav/wav/0004/000131.wav	维 护 农 村 稳 定 的 坚 强 领 导 核 心
+0004000132	data/huiyan_dataset/raw_wav/wav/0004/000132.wav	要 切 实 加 强 扶 贫 干 部 队 伍 建 设
+0004000133	data/huiyan_dataset/raw_wav/wav/0004/000133.wav	努 力 打 造 一 支 素 质 高 作 风 实 讲 奉 献 的 扶 贫 开 发 干 部 队 伍
+0004000134	data/huiyan_dataset/raw_wav/wav/0004/000134.wav	对 那 些 长 期 在 贫 困 地 区 工 作 实 际 突 出 的 干 部 要 给 予 表 彰
+0004000135	data/huiyan_dataset/raw_wav/wav/0004/000135.wav	并 注 意 提 拔 使 用
+0004000136	data/huiyan_dataset/raw_wav/wav/0004/000136.wav	要 切 实 加 强 扶 贫 研 究 和 宣 传 工 作
+0004000137	data/huiyan_dataset/raw_wav/wav/0004/000137.wav	把 扶 贫 纳 入 基 本 国 情 教 育 范 畴
+0004000138	data/huiyan_dataset/raw_wav/wav/0004/000138.wav	在 全 社 会 营 造 关 心 和 支 持 扶 贫 开 发 的 良 好 氛 围
+0004000139	data/huiyan_dataset/raw_wav/wav/0004/000139.wav	温 家 宝 在 会 议 上 讲 话
+0004000140	data/huiyan_dataset/raw_wav/wav/0004/000140.wav	他 指 出 在 长 期 实 践 中
+0004000141	data/huiyan_dataset/raw_wav/wav/0004/000141.wav	特 别 是 近 十 年 来
+0004000142	data/huiyan_dataset/raw_wav/wav/0004/000142.wav	我 们 不 断 完 善 国 家 扶 贫 战 略 和 政 策 体 系
+0004000143	data/huiyan_dataset/raw_wav/wav/0004/000143.wav	成 功 走 出 了 一 条 以 经 济 发 展 为 带 动 力 量
+0004000144	data/huiyan_dataset/raw_wav/wav/0004/000144.wav	以 增 强 扶 贫 对 象 自 我 发 展 能 力 为 根 本 途 径
+0004000145	data/huiyan_dataset/raw_wav/wav/0004/000145.wav	政 府 主 导 社 会 帮 扶 与 农 民 主 体 作 用 相 结 合
+0004000146	data/huiyan_dataset/raw_wav/wav/0004/000146.wav	普 惠 性 政 策 与 特 惠 性 政 策 相 配 套
+0004000147	data/huiyan_dataset/raw_wav/wav/0004/000147.wav	扶 贫 开 发 与 社 会 保 障 相 衔 接 的 中 国 特 色 扶 贫 开 发 道 路
+0004000148	data/huiyan_dataset/raw_wav/wav/0004/000148.wav	我 们 坚 持 统 筹 城 乡 经 济 社 会 发 展
+0004000149	data/huiyan_dataset/raw_wav/wav/0004/000149.wav	实 行 工 业 反 哺 农 业
+0004000150	data/huiyan_dataset/raw_wav/wav/0004/000150.wav	城 市 支 持 农 村 和 多 予 少 取 放 活 方 针
+0004000151	data/huiyan_dataset/raw_wav/wav/0004/000151.wav	全 面 取 消 农 业 税
+0004000152	data/huiyan_dataset/raw_wav/wav/0004/000152.wav	实 行 多 种 农 业 补 贴
+0004000153	data/huiyan_dataset/raw_wav/wav/0004/000153.wav	加 强 农 村 基 础 设 施 建 设
+0004000154	data/huiyan_dataset/raw_wav/wav/0004/000154.wav	不 断 增 加 对 贫 困 地 区 的 财 政 转 移 支 付 和 专 项 扶 贫 资 金
+0004000155	data/huiyan_dataset/raw_wav/wav/0004/000155.wav	中 央 和 地 方 财 政 安 排 的 扶 贫 资 金 从 二 零 零 一 年 的 一 百 二 十 七 点 五 亿 元 增 加 到 二 零 一 零 年 的 三 百 四 十 九 点 三 亿 元
+0004000156	data/huiyan_dataset/raw_wav/wav/0004/000156.wav	十 年 累 计 达 到 两 千 零 四 十 三 点 八 亿 元
+0004000157	data/huiyan_dataset/raw_wav/wav/0004/000157.wav	十 年 来 五 百 九 十 二 个 国 家 扶 贫 工 作 重 点 县
+0004000158	data/huiyan_dataset/raw_wav/wav/0004/000158.wav	农 民 人 均 纯 收 入 年 均 增 长 幅 度 超 过 全 国 平 均 水 平
+0004000159	data/huiyan_dataset/raw_wav/wav/0004/000159.wav	温 家 宝 强 调
+0004000160	data/huiyan_dataset/raw_wav/wav/0004/000160.wav	要 顺 应 经 济 社 会 发 展 和 扶 贫 开 发 的 阶 段 性 变 化
+0004000161	data/huiyan_dataset/raw_wav/wav/0004/000161.wav	不 断 完 善 扶 贫 开 发 政 策
+0004000162	data/huiyan_dataset/raw_wav/wav/0004/000162.wav	中 央 决 定 将 农 民 人 均 纯 收 入 两 千 三 百 元
+0004000163	data/huiyan_dataset/raw_wav/wav/0004/000163.wav	二 零 一 零 年 不 变 价
+0004000164	data/huiyan_dataset/raw_wav/wav/0004/000164.wav	作 为 新 的 国 家 扶 贫 标 准
+0004000165	data/huiyan_dataset/raw_wav/wav/0004/000165.wav	这 个 标 准 比 二 零 零 九 年 提 高 了 百 分 之 九 十 二
+0004000166	data/huiyan_dataset/raw_wav/wav/0004/000166.wav	大 幅 度 提 高 扶 贫 标 准
+0004000167	data/huiyan_dataset/raw_wav/wav/0004/000167.wav	把 更 多 低 收 入 人 口 纳 入 扶 贫 范 围
+0004000168	data/huiyan_dataset/raw_wav/wav/0004/000168.wav	这 是 社 会 发 展 的 进 步
+0004000169	data/huiyan_dataset/raw_wav/wav/0004/000169.wav	是 扶 贫 力 度 加 大 的 重 要 措 施
+0004000170	data/huiyan_dataset/raw_wav/wav/0004/000170.wav	各 地 发 展 不 平 衡
+0004000171	data/huiyan_dataset/raw_wav/wav/0004/000171.wav	经 济 发 达 地 区 可 根 据 自 身 实 际 和 能 力 确 定 更 高 的 本 地 扶 贫 标 准
+0004000172	data/huiyan_dataset/raw_wav/wav/0004/000172.wav	要 全 面 推 进 连 片 特 困 地 区 扶 贫 攻 坚
+0004000173	data/huiyan_dataset/raw_wav/wav/0004/000173.wav	将 六 盘 山 区 等 十 一 个 连 片 特 困 地 区 和 西 藏 及 四 川 云 南 甘 肃 青 海 四 省 藏 区
+0004000174	data/huiyan_dataset/raw_wav/wav/0004/000174.wav	新 疆 南 疆 三 地 州 作 为 扶 贫 攻 坚 的 主 战 场
+0004000175	data/huiyan_dataset/raw_wav/wav/0004/000175.wav	并 在 武 陵 山 片 区 率 先 开 展 区 域 发 展 与 扶 贫 攻 坚 试 点
+0004000176	data/huiyan_dataset/raw_wav/wav/0004/000176.wav	中 央 和 省 级 财 政 要 大 幅 度 增 加 对 这 些 地 区 的 一 般 性 转 移 支 付
+0004000177	data/huiyan_dataset/raw_wav/wav/0004/000177.wav	中 央 财 政 扶 贫 资 金 的 新 增 部 分 主 要 用 于 连 片 特 困 地 区
+0004000178	data/huiyan_dataset/raw_wav/wav/0004/000178.wav	国 家 大 型 项 目 重 点 工 程 和 新 兴 产 业 要 优 先 向 符 合 条 件 的 特 困 地 区 安 排
+0004000179	data/huiyan_dataset/raw_wav/wav/0004/000179.wav	农 村 义 务 教 育 学 生 营 养 改 善 计 划
+0004000180	data/huiyan_dataset/raw_wav/wav/0004/000180.wav	率 先 在 连 片 特 困 地 区 的 六 百 八 十 个 县 市 试 点
+0004000181	data/huiyan_dataset/raw_wav/wav/0004/000181.wav	建 立 定 点 联 系 机 制
+0004000182	data/huiyan_dataset/raw_wav/wav/0004/000182.wav	每 一 个 片 区 由 一 个 中 央 部 委 负 责 具 体 联 系
+0004000183	data/huiyan_dataset/raw_wav/wav/0004/000183.wav	督 促 指 导 片 区 规 划 的 实 施
+0004000184	data/huiyan_dataset/raw_wav/wav/0004/000184.wav	各 省 区 市 可 从 实 际 出 发
+0004000185	data/huiyan_dataset/raw_wav/wav/0004/000185.wav	确 定 若 干 连 片 特 困 地 区 给 予 重 点 扶 持
+0004000186	data/huiyan_dataset/raw_wav/wav/0004/000186.wav	要 坚 持 开 发 式 扶 贫 和 农 村 社 会 保 障 两 手 抓
+0004000187	data/huiyan_dataset/raw_wav/wav/0004/000187.wav	今 后 一 个 时 期
+0004000188	data/huiyan_dataset/raw_wav/wav/0004/000188.wav	国 家 新 增 社 会 保 障 投 入 要 向 农 村 尤 其 是 贫 困 地 区 倾 斜
+0004000189	data/huiyan_dataset/raw_wav/wav/0004/000189.wav	新 型 农 村 社 会 养 老 保 险 明 年 要 实 现 全 覆 盖
+0004000190	data/huiyan_dataset/raw_wav/wav/0004/000190.wav	会 议 由 李 克 强 主 持
+0004000191	data/huiyan_dataset/raw_wav/wav/0004/000191.wav	出 席 会 议 的 中 央 领 导 同 志 还 有 王 岐 山
+0004000192	data/huiyan_dataset/raw_wav/wav/0004/000192.wav	回 良 玉
+0004000194	data/huiyan_dataset/raw_wav/wav/0004/000194.wav	李 源 潮
+0004000196	data/huiyan_dataset/raw_wav/wav/0004/000196.wav	张 高 丽
+0004000197	data/huiyan_dataset/raw_wav/wav/0004/000197.wav	张 德 江
+0004000198	data/huiyan_dataset/raw_wav/wav/0004/000198.wav	俞 正 声
+0004000199	data/huiyan_dataset/raw_wav/wav/0004/000199.wav	薄 熙 来
+0004000200	data/huiyan_dataset/raw_wav/wav/0004/000200.wav	令 计 划
+0004000201	data/huiyan_dataset/raw_wav/wav/0004/000201.wav	李 建 国
+0004000203	data/huiyan_dataset/raw_wav/wav/0004/000203.wav	戴 秉 国
+0004000204	data/huiyan_dataset/raw_wav/wav/0004/000204.wav	钱 运 录
+0004000205	data/huiyan_dataset/raw_wav/wav/0004/000205.wav	中 央 扶 贫 开 发 工 作 会 议 第 一 次 全 体 会 议 以 电 视 电 话 会 议 形 式 召 开
+0004000206	data/huiyan_dataset/raw_wav/wav/0004/000206.wav	主 会 场 设 在 人 民 大 会 堂 小 礼 堂
+0004000207	data/huiyan_dataset/raw_wav/wav/0004/000207.wav	各 省 自 治 区 直 辖 市 和 计 划 单 列 市
+0004000208	data/huiyan_dataset/raw_wav/wav/0004/000208.wav	新 疆 生 产 建 设 兵 团 以 及 各 市 地 州 盟 设 分 会 场
+0004000209	data/huiyan_dataset/raw_wav/wav/0004/000209.wav	国 家 副 主 席 习 近 平 今 天 下 午 在 人 民 大 会 堂 会 见 了 来 访 的 国 际 劳 工 组 织 总 干 事 胡 安 索 马 维 亚 一 行
+0004000210	data/huiyan_dataset/raw_wav/wav/0004/000210.wav	习 近 平 说
+0004000211	data/huiyan_dataset/raw_wav/wav/0004/000211.wav	国 际 劳 工 组 织 是 历 史 最 悠 久 的 联 合 国 专 门 机 构
+0004000212	data/huiyan_dataset/raw_wav/wav/0004/000212.wav	在 国 际 上 具 有 重 要 影 响
+0004000213	data/huiyan_dataset/raw_wav/wav/0004/000213.wav	中 国 赞 赏 国 际 劳 工 组 织 在 促 进 社 会 公 正 和 保 护 劳 动 者 权 益 方 面 所 做 的 开 创 性 工 作
+0004000214	data/huiyan_dataset/raw_wav/wav/0004/000214.wav	习 近 平 指 出
+0004000215	data/huiyan_dataset/raw_wav/wav/0004/000215.wav	中 国 一 贯 高 度 重 视 保 护 广 大 劳 动 者 的 合 法 权 益
+0004000216	data/huiyan_dataset/raw_wav/wav/0004/000216.wav	积 极 推 进 人 力 资 源 和 社 会 保 障 制 度 改 革
+0004000217	data/huiyan_dataset/raw_wav/wav/0004/000217.wav	使 广 大 劳 动 者 实 现 就 业 获 得 基 本 社 会 保 障
+0004000218	data/huiyan_dataset/raw_wav/wav/0004/000218.wav	坚 持 发 展 为 了 人 民
+0004000219	data/huiyan_dataset/raw_wav/wav/0004/000219.wav	发 展 依 靠 人 民
+0004000220	data/huiyan_dataset/raw_wav/wav/0004/000220.wav	发 展 成 果 由 人 民 共 享
+0004000221	data/huiyan_dataset/raw_wav/wav/0004/000221.wav	使 广 大 劳 动 者 公 平 分 享 改 革 发 展 成 果
+0004000222	data/huiyan_dataset/raw_wav/wav/0004/000222.wav	中 国 将 积 极 参 与 国 际 劳 工 事 务
+0004000223	data/huiyan_dataset/raw_wav/wav/0004/000223.wav	进 一 步 加 强 与 国 际 劳 工 组 织 各 成 员 国 以 及 工 会 和 企 业 协 会 的 合 作
+0004000224	data/huiyan_dataset/raw_wav/wav/0004/000224.wav	促 进 社 会 公 平 正 义
+0004000225	data/huiyan_dataset/raw_wav/wav/0004/000225.wav	索 马 维 亚 说
+0004000226	data/huiyan_dataset/raw_wav/wav/0004/000226.wav	中 国 是 国 际 劳 工 组 织 的 创 始 会 员 国 和 国 际 劳 工 组 织 理 事 会 常 任 理 事 国
+0004000227	data/huiyan_dataset/raw_wav/wav/0004/000227.wav	国 际 劳 工 组 织 高 度 重 视 同 中 国 发 展 关 系
+0004000228	data/huiyan_dataset/raw_wav/wav/0004/000228.wav	希 望 中 国 在 国 际 劳 工 组 织 乃 至 全 球 治 理 中 发 挥 更 大 作 用
+0004000229	data/huiyan_dataset/raw_wav/wav/0004/000229.wav	中 共 中 央 政 治 局 常 委 国 务 院 副 总 理
+0004000230	data/huiyan_dataset/raw_wav/wav/0004/000230.wav	国 务 院 深 化 医 药 卫 生 体 制 改 革 领 导 小 组 组 长 李 克 强 今 天 主 持 召 开
+0004000231	data/huiyan_dataset/raw_wav/wav/0004/000231.wav	国 务 院 深 化 医 改 领 导 小 组 第 十 次 全 体 会 议
+0004000232	data/huiyan_dataset/raw_wav/wav/0004/000232.wav	李 克 强 强 调
+0004000233	data/huiyan_dataset/raw_wav/wav/0004/000233.wav	要 充 分 肯 定 两 年 多 来 医 改 取 得 的 成 效
+0004000234	data/huiyan_dataset/raw_wav/wav/0004/000234.wav	巩 固 和 发 展 改 革 的 阶 段 性 成 果
+0004000235	data/huiyan_dataset/raw_wav/wav/0004/000235.wav	正 视 困 难 与 挑 战
+0004000236	data/huiyan_dataset/raw_wav/wav/0004/000236.wav	创 新 体 制 机 制
+0004000237	data/huiyan_dataset/raw_wav/wav/0004/000237.wav	制 定 好 医 改 十 二 五 规 划 把 医 改 持 续 推 向 深 入
+0004000238	data/huiyan_dataset/raw_wav/wav/0004/000238.wav	会 议 审 议 了 医 药 卫 生 体 制 改 革 近 期 重 点 实 施 方 案
+0004000239	data/huiyan_dataset/raw_wav/wav/0004/000239.wav	二 零 零 九 至 二 零 一 一 年 实 施 中 期 评 估 报 告
+0004000240	data/huiyan_dataset/raw_wav/wav/0004/000240.wav	十 二 五 期 间 深 化 医 药 卫 生 体 制 改 革 规 划
+0004000241	data/huiyan_dataset/raw_wav/wav/0004/000241.wav	二 零 一 二 至 二 零 一 五 和 关 于 县 级 公 立 医 院 改 革 试 点 的 意 见 等 文 件
+0004000242	data/huiyan_dataset/raw_wav/wav/0004/000242.wav	认 为 医 改 五 项 重 点 任 务 取 得 阶 段 性 成 果
+0004000243	data/huiyan_dataset/raw_wav/wav/0004/000243.wav	基 本 医 疗 保 障 制 度 基 本 实 现 全 覆 盖
+0004000244	data/huiyan_dataset/raw_wav/wav/0004/000244.wav	城 乡 参 保 人 口 覆 盖 率 达 到 百 分 之 九 十 五
+0004000245	data/huiyan_dataset/raw_wav/wav/0004/000245.wav	基 本 药 物 制 度 在 基 层 初 步 建 立
+0004000246	data/huiyan_dataset/raw_wav/wav/0004/000246.wav	群 众 用 药 负 担 明 显 减 轻
+0004000247	data/huiyan_dataset/raw_wav/wav/0004/000247.wav	基 层 医 疗 卫 生 服 务 体 系 逐 步 健 全
+0004000248	data/huiyan_dataset/raw_wav/wav/0004/000248.wav	公 共 卫 生 服 务 投 入 力 度 加 大
+0004000249	data/huiyan_dataset/raw_wav/wav/0004/000249.wav	公 立 医 院 改 革 试 点 有 序 推 进
+0004000250	data/huiyan_dataset/raw_wav/wav/0004/000250.wav	李 克 强 指 出
+0004000251	data/huiyan_dataset/raw_wav/wav/0004/000251.wav	十 二 五 时 期 无 论 是 推 动 基 本 公 共 卫 生 服 务 均 等 化
+0004000252	data/huiyan_dataset/raw_wav/wav/0004/000252.wav	还 是 更 好 满 足 群 众 日 益 增 长 的 健 康 需 求
+0004000253	data/huiyan_dataset/raw_wav/wav/0004/000253.wav	都 需 要 提 高 医 疗 卫 生 服 务 水 平
+0004000254	data/huiyan_dataset/raw_wav/wav/0004/000254.wav	而 随 着 医 改 的 不 断 深 入
+0004000255	data/huiyan_dataset/raw_wav/wav/0004/000255.wav	改 革 难 点 问 题 将 集 中 显 现
+0004000256	data/huiyan_dataset/raw_wav/wav/0004/000256.wav	体 制 性 矛 盾 将 集 中 暴 露
+0004000257	data/huiyan_dataset/raw_wav/wav/0004/000257.wav	工 作 难 度 加 大
+0004000258	data/huiyan_dataset/raw_wav/wav/0004/000258.wav	统 筹 谋 划 好 十 二 五 医 改 规 划
+0004000259	data/huiyan_dataset/raw_wav/wav/0004/000259.wav	对 于 巩 固 医 改 成 果 以 及 确 保 实 现 二 零 二 零 年 医 改 目 标 至 关 重 要
+0004000260	data/huiyan_dataset/raw_wav/wav/0004/000260.wav	李 克 强 强 调
+0004000261	data/huiyan_dataset/raw_wav/wav/0004/000261.wav	医 改 是 一 个 宏 大 系 统 工 程
+0004000262	data/huiyan_dataset/raw_wav/wav/0004/000262.wav	也 是 重 大 制 度 创 新
+0004000263	data/huiyan_dataset/raw_wav/wav/0004/000263.wav	要 深 入 贯 彻 落 实 党 中 央 国 务 院 关 于 医 改 的 决 策 部 署
+0004000264	data/huiyan_dataset/raw_wav/wav/0004/000264.wav	坚 持 把 基 本 医 疗 卫 生 制 度 作 为 公 共 产 品 向 全 民 提 供 的 核 心 理 念
+0004000265	data/huiyan_dataset/raw_wav/wav/0004/000265.wav	坚 持 保 基 本 强 基 层 建 机 制 的 基 本 原 则
+0004000266	data/huiyan_dataset/raw_wav/wav/0004/000266.wav	坚 持 预 防 为 主
+0004000267	data/huiyan_dataset/raw_wav/wav/0004/000267.wav	以 农 村 为 重 点
+0004000268	data/huiyan_dataset/raw_wav/wav/0004/000268.wav	中 西 医 并 重 的 方 针
+0004000269	data/huiyan_dataset/raw_wav/wav/0004/000269.wav	统 筹 安 排 突 出 重 点 循 序 推 进
+0004000270	data/huiyan_dataset/raw_wav/wav/0004/000270.wav	推 动 基 本 医 保 由 扩 大 范 围 转 向 提 升 质 量
+0004000271	data/huiyan_dataset/raw_wav/wav/0004/000271.wav	基 层 机 构 由 强 筋 健 骨 转 向 全 面 发 展
+0004000272	data/huiyan_dataset/raw_wav/wav/0004/000272.wav	公 立 医 院 改 革 由 局 部 试 点 转 向 全 面 推 进
+0004000273	data/huiyan_dataset/raw_wav/wav/0004/000273.wav	医 疗 卫 生 建 设 由 重 硬 件 转 向 重 服 务
+0004000274	data/huiyan_dataset/raw_wav/wav/0004/000274.wav	一 是 健 全 全 民 基 本 医 保 制 度
+0004000275	data/huiyan_dataset/raw_wav/wav/0004/000275.wav	提 高 居 民 参 保 率 和 政 府 补 助 标 准
+0004000276	data/huiyan_dataset/raw_wav/wav/0004/000276.wav	探 索 建 立 重 特 大 疾 病 保 障 机 制
+0004000277	data/huiyan_dataset/raw_wav/wav/0004/000277.wav	积 极 发 展 商 业 健 康 保 险
+0004000278	data/huiyan_dataset/raw_wav/wav/0004/000278.wav	二 是 把 国 家 基 本 药 物 制 度 实 施 范 围 扩 大 到 村 卫 生 室 和 非 政 府 办 基 层 医 疗 卫 生 机 构
+0004000279	data/huiyan_dataset/raw_wav/wav/0004/000279.wav	建 立 药 品 生 产 流 通 新 秩 序
+0004000280	data/huiyan_dataset/raw_wav/wav/0004/000280.wav	巩 固 完 善 基 层 医 疗 机 构 运 行 新 机 制
+0004000281	data/huiyan_dataset/raw_wav/wav/0004/000281.wav	三 是 全 面 推 进 公 立 医 院 改 革
+0004000282	data/huiyan_dataset/raw_wav/wav/0004/000282.wav	推 进 政 事 分 开
+0004000283	data/huiyan_dataset/raw_wav/wav/0004/000283.wav	管 办 分 开
+0004000284	data/huiyan_dataset/raw_wav/wav/0004/000284.wav	医 药 分 开
+0004000285	data/huiyan_dataset/raw_wav/wav/0004/000285.wav	盈 利 性 和 非 营 利 性 分 开
+0004000286	data/huiyan_dataset/raw_wav/wav/0004/000286.wav	改 革 以 药 补 医 机 制
+0004000287	data/huiyan_dataset/raw_wav/wav/0004/000287.wav	完 善 公 立 医 院 管 理 体 制
+0004000288	data/huiyan_dataset/raw_wav/wav/0004/000288.wav	搞 好 便 民 服 务
+0004000289	data/huiyan_dataset/raw_wav/wav/0004/000289.wav	重 点 推 进 县 级 医 院 综 合 改 革
+0004000290	data/huiyan_dataset/raw_wav/wav/0004/000290.wav	增 加 政 府 卫 生 投 入
+0004000291	data/huiyan_dataset/raw_wav/wav/0004/000291.wav	尽 力 而 为
+0004000292	data/huiyan_dataset/raw_wav/wav/0004/000292.wav	量 力 而 行
+0004000293	data/huiyan_dataset/raw_wav/wav/0004/000293.wav	做 到 可 持 续
+0004000294	data/huiyan_dataset/raw_wav/wav/0004/000294.wav	鼓 励 和 引 导 社 会 资 本 开 办 医 疗 机 构
+0004000295	data/huiyan_dataset/raw_wav/wav/0004/000295.wav	形 成 多 元 办 医 格 局
+0004000296	data/huiyan_dataset/raw_wav/wav/0004/000296.wav	发 展 和 健 全 非 基 本 医 疗 卫 生 服 务 体 系
+0004000297	data/huiyan_dataset/raw_wav/wav/0004/000297.wav	不 断 筑 强 城 乡 居 民 看 病 就 医 的 保 障 网
+0004000299	data/huiyan_dataset/raw_wav/wav/0004/000299.wav	财 政 部 国 家 发 改 委 和 国 务 院 扶 贫 办 今 天 印 发 财 政 专 项 扶 贫 资 金 管 理 办 法
+0004000300	data/huiyan_dataset/raw_wav/wav/0004/000300.wav	规 定 中 央 财 政 专 项 扶 贫 资 金 主 要 投 向 国 家 确 定 的 连 片 特 困 地 区 和 扶 贫 开 发 工 作 重 点 县 贫 困 村
+0004000301	data/huiyan_dataset/raw_wav/wav/0004/000301.wav	其 中 新 增 部 分 主 要 用 于 连 片 特 困 地 区
+0004000302	data/huiyan_dataset/raw_wav/wav/0004/000302.wav	中 央 财 政 专 项 扶 贫 资 金 分 配
+0004000303	data/huiyan_dataset/raw_wav/wav/0004/000303.wav	坚 持 向 西 部 地 区 贫 困 少 数 民 族 地 区
+0004000304	data/huiyan_dataset/raw_wav/wav/0004/000304.wav	贫 困 边 境 地 区 和 贫 困 革 命 老 区 倾 斜
+0004000305	data/huiyan_dataset/raw_wav/wav/0004/000305.wav	除 中 央 财 政 根 据 补 助 地 方 财 政 专 项 扶 贫 资 金 规 模
+0004000306	data/huiyan_dataset/raw_wav/wav/0004/000306.wav	按 百 分 之 二 的 比 例 提 取 项 目 管 理 费 外
+0004000307	data/huiyan_dataset/raw_wav/wav/0004/000307.wav	各 地 不 得 再 以 任 何 理 由 任 何 方 式 从 中 央 财 政 补 助 地 方 财 政 专 项 扶 贫 资 金 中 提 取 任 何 费 用
+0004000308	data/huiyan_dataset/raw_wav/wav/0004/000308.wav	新 世 纪 第 一 个 十 年
+0004000309	data/huiyan_dataset/raw_wav/wav/0004/000309.wav	我 国 累 计 投 入 扶 贫 资 金 超 过 两 千 亿 元
+0004000310	data/huiyan_dataset/raw_wav/wav/0004/000310.wav	贫 困 人 口 减 少 六 千 七 百 万 成 为 世 界 上 率 先 实 现 联 合 国 千 年 发 展 目 标 贫 困 人 口 减 半 的 国 家
+0004000311	data/huiyan_dataset/raw_wav/wav/0004/000311.wav	新 一 轮 扶 贫 开 发 集 中 连 片 特 困 地 区 将 成 为 扶 贫 攻 坚 的 主 战 场
+0004000312	data/huiyan_dataset/raw_wav/wav/0004/000312.wav	四 川 凉 山 就 是 这 些 集 中 连 片 特 困 地 区 之 一
+0004000313	data/huiyan_dataset/raw_wav/wav/0004/000313.wav	当 地 通 过 危 房 改 造 产 业 开 发 两 大 民 生 工 程 使 这 里 的 六 十 三 万 彝 族 同 胞 开 始 走 上 了 脱 贫 致 富 的 道 路
+0004000314	data/huiyan_dataset/raw_wav/wav/0004/000314.wav	* * 一 二 三 行
+0004000316	data/huiyan_dataset/raw_wav/wav/0004/000316.wav	这 几 天 四 川 凉 山 的 彝 族 同 胞 正 迎 来 传 统 的 彝 族 年
+0004000317	data/huiyan_dataset/raw_wav/wav/0004/000317.wav	凉 山 新 闻 网 的 资 深 记 者 宋 明 也 给 彝 族 老 朋 友 米 色 尔 拉 送 来 了 一 份 新 年 祝 福
+0004000318	data/huiyan_dataset/raw_wav/wav/0004/000318.wav	就 在 米 色 尔 拉 的 新 家 前 帮 他 们 拍 下 了 一 张 张 全 家 福
+0004000319	data/huiyan_dataset/raw_wav/wav/0004/000319.wav	现 在 在 这 里 我 抓 拍 的 更 多 是 他 们 的 笑 脸
+0004000320	data/huiyan_dataset/raw_wav/wav/0004/000320.wav	还 有 他 们 的 生 产 生 活
+0004000321	data/huiyan_dataset/raw_wav/wav/0004/000321.wav	我 觉 得 他 们 对 未 来 充 满 了 信 心
+0004000322	data/huiyan_dataset/raw_wav/wav/0004/000322.wav	而 在 以 前 宋 明 的 相 机 里 记 录 的 更 多 的 是 当 地 的 穷 苦 记 忆
+0004000323	data/huiyan_dataset/raw_wav/wav/0004/000323.wav	凉 山 彝 族 自 治 州 是 中 国 最 大 的 彝 族 聚 居 区
+0004000324	data/huiyan_dataset/raw_wav/wav/0004/000324.wav	由 于 底 子 薄 发 展 不 均
+0004000325	data/huiyan_dataset/raw_wav/wav/0004/000325.wav	全 州 有 十 一 个 县 市 目 前 还 是 国 家 确 定 的 扶 贫 开 发 重 点 县
+0004000326	data/huiyan_dataset/raw_wav/wav/0004/000326.wav	吃 饭 的 时 候 坐 着 吃
+0004000327	data/huiyan_dataset/raw_wav/wav/0004/000327.wav	睡 觉 的 时 候 就 是 打 个 地 铺 睡
+0004000328	data/huiyan_dataset/raw_wav/wav/0004/000328.wav	现 代 文 明 新 生 活 如 何 展 开
+0004000329	data/huiyan_dataset/raw_wav/wav/0004/000329.wav	扶 贫 开 发 如 何 破 题
+0004000330	data/huiyan_dataset/raw_wav/wav/0004/000330.wav	四 川 从 不 起 眼 的 小 板 凳 儿 开 始
+0004000331	data/huiyan_dataset/raw_wav/wav/0004/000331.wav	引 导 彝 族 同 胞 不 坐 地 下 坐 板 凳
+0004000332	data/huiyan_dataset/raw_wav/wav/0004/000332.wav	不 睡 地 下 睡 床 铺
+0004000333	data/huiyan_dataset/raw_wav/wav/0004/000333.wav	不 用 锅 庄 用 灶 台 生 活 方 式 的 转 变 在 大 小 凉 山 悄 然 推 开
+0004000334	data/huiyan_dataset/raw_wav/wav/0004/000334.wav	新 生 活 就 从 坐 板 凳 开 始 了
+0004000335	data/huiyan_dataset/raw_wav/wav/0004/000335.wav	让 米 色 尔 拉 他 们 一 家 生 活 发 生 变 化 的 就 是 我 手 中 现 在 拿 的 这 个 小 小 的 板 凳
+0004000336	data/huiyan_dataset/raw_wav/wav/0004/000336.wav	大 家 来 看 啊 它 是 四 川 省 省 直 机 关 特 意 为 咱 们 凉 山 彝 族 同 胞 定 制 的 上 面 还 有 民 族 符 号
+0004000337	data/huiyan_dataset/raw_wav/wav/0004/000337.wav	那 么 正 是 因 为 有 了 这 个 小 小 的 板 凳 的 出 现 啊 米 斯 尔 他 们 一 家 像 现 在 这 样 的 劳 动 包 括 吃 饭 不 用 在 蹲 在 地 上 了
+0004000338	data/huiyan_dataset/raw_wav/wav/0004/000338.wav	跟 随 小 板 凳 一 同 走 进 当 地 彝 家 新 生 活 的
+0004000339	data/huiyan_dataset/raw_wav/wav/0004/000339.wav	还 有 干 净 卫 生 健 康 文 明 的 生 活 观 念 和 水 电 路 基 础 设 施 的 大 变 样
+0004000340	data/huiyan_dataset/raw_wav/wav/0004/000340.wav	观 念 在 变 居 住 环 境 也 在 变
+0004000341	data/huiyan_dataset/raw_wav/wav/0004/000341.wav	大 小 凉 山 有 十 四 点 一 万 贫 困 群 众 长 期 居 住 在 木 板 房 茅 草 房 石 板 房 中
+0004000342	data/huiyan_dataset/raw_wav/wav/0004/000342.wav	破 旧 低 矮 潮 湿 的 三 房 一 度 成 为 凉 山 极 度 贫 困 的 集 中 体 现
+0004000343	data/huiyan_dataset/raw_wav/wav/0004/000343.wav	也 是 凉 山 扶 贫 开 发 中 最 难 啃 的 骨 头
+0004000344	data/huiyan_dataset/raw_wav/wav/0004/000344.wav	怎 样 才 能 做 到 既 尽 快 改 造
+0004000345	data/huiyan_dataset/raw_wav/wav/0004/000345.wav	又 让 农 民 经 济 上 承 受 得 起 呢
+0004000346	data/huiyan_dataset/raw_wav/wav/0004/000346.wav	不 搞 一 刀 切
+0004000347	data/huiyan_dataset/raw_wav/wav/0004/000347.wav	呃 就 按 农 户 的 实 际 情 况
+0004000348	data/huiyan_dataset/raw_wav/wav/0004/000348.wav	或 者 经 济 承 受 能 力 来 进 行 划 分 经 济 条 件 好 的 集 中 起 来 统 规 统 建
+0004000349	data/huiyan_dataset/raw_wav/wav/0004/000349.wav	啊 经 济 基 础 条 件 稍 微 差 一 点 这 部 分 呢 就 继 续 搞 就 地 改 建
+0004000350	data/huiyan_dataset/raw_wav/wav/0004/000350.wav	为 减 轻 贫 困 户 的 建 房 负 担
+0004000351	data/huiyan_dataset/raw_wav/wav/0004/000351.wav	国 家 拿 出 补 贴 资 金 四 亿 元
+0004000352	data/huiyan_dataset/raw_wav/wav/0004/000352.wav	四 川 一 百 一 十 六 个 省 直 机 关 和 凉 山 州 五 万 名 干 部 结 对 帮 扶 贫 困 户
+0004000353	data/huiyan_dataset/raw_wav/wav/0004/000353.wav	凉 山 贫 困 群 众 的 困 难
+0004000354	data/huiyan_dataset/raw_wav/wav/0004/000354.wav	也 正 是 国 家 决 策 部 门 所 牵 挂 的
+0004000355	data/huiyan_dataset/raw_wav/wav/0004/000355.wav	新 一 轮 扶 贫 开 发 中 多 民 族 聚 集 的 十 四 个 重 点 扶 贫 连 片 特 困 地 区
+0004000356	data/huiyan_dataset/raw_wav/wav/0004/000356.wav	将 成 为 扶 贫 开 发 的 主 战 场
+0004000357	data/huiyan_dataset/raw_wav/wav/0004/000357.wav	从 今 年 起
+0004000358	data/huiyan_dataset/raw_wav/wav/0004/000358.wav	集 中 实 施 教 育 卫 生 文 化 就 业 和 社 会 保 障 等 十 二 项 重 大 民 生 工 程
+0004000359	data/huiyan_dataset/raw_wav/wav/0004/000359.wav	打 破 制 约 发 展 的 瓶 颈
+0004000360	data/huiyan_dataset/raw_wav/wav/0004/000360.wav	统 筹 发 展
+0004000361	data/huiyan_dataset/raw_wav/wav/0004/000361.wav	连 片 特 困 地 区
+0004000362	data/huiyan_dataset/raw_wav/wav/0004/000362.wav	就 是 全 面 建 设 小 康 社 会 进 程 中 的 那 块 短 板
+0004000363	data/huiyan_dataset/raw_wav/wav/0004/000363.wav	把 这 块 短 板 的 问 题 解 决 了
+0004000364	data/huiyan_dataset/raw_wav/wav/0004/000364.wav	那 么 我 们 全 面 建 设 小 康 社 会 的 目 标 啊 也 就 能 够 更 好 的 实 现
+0004000365	data/huiyan_dataset/raw_wav/wav/0004/000365.wav	本 台 消 息
+0004000366	data/huiyan_dataset/raw_wav/wav/0004/000366.wav	中 共 云 南 省 第 九 届 委 员 会 第 一 次 全 体 会 议
+0004000367	data/huiyan_dataset/raw_wav/wav/0004/000367.wav	十 一 月 二 十 九 号 选 举 秦 光 荣 为 省 委 书 记
+0004000368	data/huiyan_dataset/raw_wav/wav/0004/000368.wav	两 天 来 一 股 较 强 冷 空 气 持 续 影 响 我 国 北 方 地 区
+0004000369	data/huiyan_dataset/raw_wav/wav/0004/000369.wav	监 测 显 示
+0004000370	data/huiyan_dataset/raw_wav/wav/0004/000370.wav	今 天 清 晨 在 内 蒙 古 中 东 部 以 及 东 北 的 大 部 分 地 区
+0004000371	data/huiyan_dataset/raw_wav/wav/0004/000371.wav	气 温 较 昨 天 清 晨 普 遍 下 降 六 到 十 摄 氏 度
+0004000372	data/huiyan_dataset/raw_wav/wav/0004/000372.wav	其 中 在 内 蒙 古 北 部 和 吉 林 中 部 降 温 幅 度 达 到 十 二 到 十 五 度
+0004000373	data/huiyan_dataset/raw_wav/wav/0004/000373.wav	北 京 今 天 上 午 十 点 的 最 高 气 温 也 较 昨 天 十 点 下 降 了 八 度 左 右
+0004000374	data/huiyan_dataset/raw_wav/wav/0004/000374.wav	在 冷 暖 空 气 的 共 同 作 用 下
+0004000375	data/huiyan_dataset/raw_wav/wav/0004/000375.wav	华 北 及 以 南 地 区 今 天 出 现 了 大 范 围 雨 雪 天 气
+0004000376	data/huiyan_dataset/raw_wav/wav/0004/000376.wav	山 西 陕 西 河 北 河 南 等 地 的 部 分 地 区 普 降 小 到 中 雪
+0004000377	data/huiyan_dataset/raw_wav/wav/0004/000377.wav	山 西 中 部 积 雪 深 度 达 八 到 十 七 厘 米
+0004000378	data/huiyan_dataset/raw_wav/wav/0004/000378.wav	今 天 在 山 东 河 南 安 徽 湖 北 重 庆 四 川 盆 地 等 地 的 部 分 地 区 还 降 下 了 大 到 暴 雨
+0004000379	data/huiyan_dataset/raw_wav/wav/0004/000379.wav	中 央 气 象 台 预 计
+0004000380	data/huiyan_dataset/raw_wav/wav/0004/000380.wav	随 着 这 股 冷 空 气 的 南 下
+0004000381	data/huiyan_dataset/raw_wav/wav/0004/000381.wav	北 方 的 雨 雪 将 减 弱
+0004000382	data/huiyan_dataset/raw_wav/wav/0004/000382.wav	我 国 中 东 部 地 区 的 大 雾 范 围 会 逐 步 缩 小
+0004000383	data/huiyan_dataset/raw_wav/wav/0004/000383.wav	而 我 国 东 部 和 南 部 海 区 先 后 会 有 六 到 八 级 大 风
+0004000384	data/huiyan_dataset/raw_wav/wav/0004/000384.wav	国 家 发 改 委 今 天 公 布 的 数 据 显 示
+0004000385	data/huiyan_dataset/raw_wav/wav/0004/000385.wav	十 月 份 东 部 地 区 规 模 以 上 工 业 增 加 值 同 比 增 长 百 分 之 十 点 六
+0004000386	data/huiyan_dataset/raw_wav/wav/0004/000386.wav	增 速 同 比 减 缓 一 点 四 个 百 分 点
+0004000387	data/huiyan_dataset/raw_wav/wav/0004/000387.wav	中 部 地 区 同 比 增 长 百 分 之 十 七 点 八
+0004000388	data/huiyan_dataset/raw_wav/wav/0004/000388.wav	增 速 同 比 加 快 两 个 百 分 点
+0004000389	data/huiyan_dataset/raw_wav/wav/0004/000389.wav	西 部 地 区 同 比 增 长 百 分 之 十 六 点 三
+0004000390	data/huiyan_dataset/raw_wav/wav/0004/000390.wav	增 速 同 比 加 快 二 点 三 个 百 分 点
+0004000391	data/huiyan_dataset/raw_wav/wav/0004/000391.wav	一 至 十 月 份
+0004000392	data/huiyan_dataset/raw_wav/wav/0004/000392.wav	中 部 和 西 部 地 区 规 模 以 上 工 业 企 业 实 现 利 润 同 比 增 长 均 超 过 百 分 之 三 十 以 上
+0004000393	data/huiyan_dataset/raw_wav/wav/0004/000393.wav	今 天 我 国 十 六 家 光 伏 企 业 代 表 整 个 中 国 光 伏 行 业 在 北 京 正 式 回 应
+0004000394	data/huiyan_dataset/raw_wav/wav/0004/000394.wav	由 美 国 商 务 部 和 美 国 国 际 贸 易 委 员 会 发 起 的 中 国 输 美 太 阳 能 电 池 反 倾 销 和 反 补 贴 调 查
+0004000395	data/huiyan_dataset/raw_wav/wav/0004/000395.wav	初 步 裁 定 结 果 将 在 十 二 月 五 号 公 布
+0004000396	data/huiyan_dataset/raw_wav/wav/0004/000396.wav	总 额 二 十 二 亿 元 的 深 圳 市 地 方 政 府 债 券 二 十 八 号 起 正 式 发 行
+0004000397	data/huiyan_dataset/raw_wav/wav/0004/000397.wav	债 券 分 为 三 年 期 和 五 年 期 记 账 式 固 定 利 率 附 息 债
+0004000398	data/huiyan_dataset/raw_wav/wav/0004/000398.wav	发 行 总 额 各 十 一 亿 元
+0004000399	data/huiyan_dataset/raw_wav/wav/0004/000399.wav	票 面 利 率 分 别 为 百 分 之 三 点 零 三 和 百 分 之 三 点 二 五
+0004000400	data/huiyan_dataset/raw_wav/wav/0004/000400.wav	山 东 省 文 化 产 业 重 点 项 目 推 介 会 今 天 在 京 举 行
+0004000401	data/huiyan_dataset/raw_wav/wav/0004/000401.wav	本 次 推 介 会 共 推 介 文 化 产 业 项 目 二 百 三 十 六 个
+0004000402	data/huiyan_dataset/raw_wav/wav/0004/000402.wav	投 资 总 额 近 一 千 三 百 零 四 亿 元
+0004000403	data/huiyan_dataset/raw_wav/wav/0004/000403.wav	在 今 天 现 场 签 约 的 二 十 二 个 项 目 中
+0004000404	data/huiyan_dataset/raw_wav/wav/0004/000404.wav	有 十 五 个 项 目 投 资 额 超 过 十 亿 元
+0004000405	data/huiyan_dataset/raw_wav/wav/0004/000405.wav	首 次 访 问 科 威 特 的 中 国 海 军 武 汉 舰 和 玉 林 舰
+0004000406	data/huiyan_dataset/raw_wav/wav/0004/000406.wav	今 天 开 始 对 当 地 公 众 开 放
+0004000407	data/huiyan_dataset/raw_wav/wav/0004/000407.wav	在 科 期 间
+0004000408	data/huiyan_dataset/raw_wav/wav/0004/000408.wav	两 国 海 军 将 展 开 多 项 军 事 文 化 交 流
+0004000409	data/huiyan_dataset/raw_wav/wav/0004/000409.wav	这 是 两 艘 军 舰 结 束 亚 丁 湾 索 马 里 海 域 护 航 任 务 后 出 访 西 亚 的 第 一 站
+0004000410	data/huiyan_dataset/raw_wav/wav/0004/000410.wav	日 前 中 国 青 年 网 和 中 国 共 青 团 网 两 网 合 并 后 全 新 融 合 改 版 上 线
+0004000411	data/huiyan_dataset/raw_wav/wav/0004/000411.wav	改 版 后 的 中 国 青 年 网 更 加 突 出 了 时 尚 性 互 动 性 思 想 性
+0004000413	data/huiyan_dataset/raw_wav/wav/0004/000413.wav	在 德 班 气 候 大 会 上
+0004000414	data/huiyan_dataset/raw_wav/wav/0004/000414.wav	几 乎 所 有 的 发 展 中 国 家 都 在 呼 吁
+0004000415	data/huiyan_dataset/raw_wav/wav/0004/000415.wav	在 应 对 气 候 变 化 问 题 上
+0004000416	data/huiyan_dataset/raw_wav/wav/0004/000416.wav	发 达 国 家 应 该 正 视 历 史 责 任
+0004000417	data/huiyan_dataset/raw_wav/wav/0004/000417.wav	承 担 共 同 但 有 区 别 的 责 任
+0004000418	data/huiyan_dataset/raw_wav/wav/0004/000418.wav	在 现 场 我 们 经 常 可 以 看 到 这 样 的 告 示
+0004000419	data/huiyan_dataset/raw_wav/wav/0004/000419.wav	非 洲 并 不 是 造 成 全 球 气 候 变 化 的 主 要 因 素
+0004000420	data/huiyan_dataset/raw_wav/wav/0004/000420.wav	但 是 却 成 了 最 受 气 候 变 化 影 响 的 地 方
+0004000421	data/huiyan_dataset/raw_wav/wav/0004/000421.wav	到 二 零 二 零 年 将 会 有 二 点 五 亿 非 洲 人 民 因 为 气 候 变 化 面 临 缺 水 的 问 题
+0004000422	data/huiyan_dataset/raw_wav/wav/0004/000422.wav	南 非 总 统 祖 马 二 十 八 号 说
+0004000423	data/huiyan_dataset/raw_wav/wav/0004/000423.wav	气 候 变 化 威 胁 着 全 人 类 特 别 是 发 展 中 国 家
+0004000424	data/huiyan_dataset/raw_wav/wav/0004/000424.wav	对 于 非 洲 发 展 中 国 家 的 许 多 人 气 候 变 化 是 生 与 死 的 问 题
+0004000425	data/huiyan_dataset/raw_wav/wav/0004/000425.wav	祖 马 同 时 强 调 贫 穷 严 重 限 制 了 非 洲 应 对 气 候 变 化 的 能 力
+0004000426	data/huiyan_dataset/raw_wav/wav/0004/000426.wav	应 对 气 候 变 化 不 能 损 害 发 展 中 国 家 消 除 贫 困 的 努 力
+0004000427	data/huiyan_dataset/raw_wav/wav/0004/000427.wav	几 乎 所 有 的 发 展 中 国 家 都 认 为
+0004000428	data/huiyan_dataset/raw_wav/wav/0004/000428.wav	正 是 发 达 国 家 在 过 去 一 百 多 年 工 业 化 过 程 中
+0004000429	data/huiyan_dataset/raw_wav/wav/0004/000429.wav	毫 无 节 制 的 排 放 温 室 气 体
+0004000430	data/huiyan_dataset/raw_wav/wav/0004/000430.wav	造 成 了 气 候 变 化 问 题
+0004000431	data/huiyan_dataset/raw_wav/wav/0004/000431.wav	并 对 发 展 中 国 家 尤 其 是 最 不 发 达 国 家 造 成 生 存 威 胁
+0004000432	data/huiyan_dataset/raw_wav/wav/0004/000432.wav	正 是 基 于 历 史 责 任 的 不 同
+0004000433	data/huiyan_dataset/raw_wav/wav/0004/000433.wav	发 达 国 家 和 发 展 中 国 家 在 应 对 气 候 变 化 过 程 中
+0004000434	data/huiyan_dataset/raw_wav/wav/0004/000434.wav	所 要 秉 承 的 就 是 共 同 带 有 区 别 的 责 任
+0004000435	data/huiyan_dataset/raw_wav/wav/0004/000435.wav	一 根 火 柴 下 个 月 发 达 国 家 的 人 们 可 能 会 用 它 来 点 燃 庆 祝 圣 诞 节 的 烟 花
+0004000436	data/huiyan_dataset/raw_wav/wav/0004/000436.wav	而 发 展 中 国 家 的 人 们 可 能 会 用 它 来 蒸 熟 填 饱 肚 子 的 馒 头
+0004000437	data/huiyan_dataset/raw_wav/wav/0004/000437.wav	我 们 共 同 的 责 任 是 要 少 用 火 柴
+0004000438	data/huiyan_dataset/raw_wav/wav/0004/000438.wav	但 是 每 一 根 火 柴 被 用 在 不 同 的 地 方
+0004000439	data/huiyan_dataset/raw_wav/wav/0004/000439.wav	却 决 定 了 人 们 对 他 负 有 不 同 的 责 任
+0004000440	data/huiyan_dataset/raw_wav/wav/0004/000440.wav	央 视 记 者 南 非 德 班 报 道
+0004000441	data/huiyan_dataset/raw_wav/wav/0004/000441.wav	国 际 评 级 机 构 惠 誉 公 司 二 十 八 号 将 美 国 主 权 信 用 评 级 前 景 展 望 调 为 负 面
+0004000442	data/huiyan_dataset/raw_wav/wav/0004/000442.wav	惠 誉 当 天 发 表 声 明 宣 布 维 持 美 国 的 三 A 长 期 主 权 信 用 评 级
+0004000443	data/huiyan_dataset/raw_wav/wav/0004/000443.wav	但 将 其 前 景 展 望 从 稳 定 下 调 为 负 面
+0004000444	data/huiyan_dataset/raw_wav/wav/0004/000444.wav	主 要 原 因 在 于 美 国 国 会 的 超 级 委 员 会 未 能 就 一 点 二 万 亿 美 元 的 减 赤 方 案 达 成 一 致
+0004000445	data/huiyan_dataset/raw_wav/wav/0004/000445.wav	惠 誉 警 告 说
+0004000446	data/huiyan_dataset/raw_wav/wav/0004/000446.wav	如 果 美 国 国 会 无 法 达 成 有 效 减 赤 方 案
+0004000447	data/huiyan_dataset/raw_wav/wav/0004/000447.wav	他 们 将 在 二 零 一 三 年 下 调 美 国 A A A 主 权 信 用 评 级
+0004000448	data/huiyan_dataset/raw_wav/wav/0004/000448.wav	美 国 财 政 部 表 示
+0004000449	data/huiyan_dataset/raw_wav/wav/0004/000449.wav	会 议 的 决 定 给 美 国 国 会 敲 响 了 警 钟
+0004000450	data/huiyan_dataset/raw_wav/wav/0004/000450.wav	美 国 需 要 采 取 平 衡 的 方 式 在 中 长 期 内 削 减 财 政 赤 字
+0004000451	data/huiyan_dataset/raw_wav/wav/0004/000451.wav	十 一 月 二 十 一 号
+0004000452	data/huiyan_dataset/raw_wav/wav/0004/000452.wav	由 六 名 民 主 党 议 员 和 六 名 共 和 党 议 员 组 成 的 超 级 委 员 会 宣 布
+0004000453	data/huiyan_dataset/raw_wav/wav/0004/000453.wav	他 们 无 法 在 最 后 期 限 前 就 减 赤 方 案 达 成 一 致
+0004000454	data/huiyan_dataset/raw_wav/wav/0004/000454.wav	由 此 美 国 可 能 在 二 零 一 三 财 年 启 动 自 动 减 赤 机 制
+0004000455	data/huiyan_dataset/raw_wav/wav/0004/000455.wav	目 前 标 普 给 美 国 主 权 信 用 评 级 为 A A 加 前 景 展 望 为 负 面
+0004000456	data/huiyan_dataset/raw_wav/wav/0004/000456.wav	穆 迪 的 评 级 为 三 A 前 景 展 望 为 负 面
+0004000457	data/huiyan_dataset/raw_wav/wav/0004/000457.wav	叙 利 亚 外 长 穆 阿 利 姆 二 十 八 号 举 行 记 者 招 待 会
+0004000458	data/huiyan_dataset/raw_wav/wav/0004/000458.wav	谴 责 阿 盟 对 叙 利 亚 实 施 经 济 制 裁 的 决 定
+0004000459	data/huiyan_dataset/raw_wav/wav/0004/000459.wav	指 出 这 一 决 定 意 味 着 阿 盟 已 经 关 闭 了 所 有 解 决 叙 利 亚 危 机 的 窗 口
+0004000460	data/huiyan_dataset/raw_wav/wav/0004/000460.wav	穆 阿 利 姆 说
+0004000461	data/huiyan_dataset/raw_wav/wav/0004/000461.wav	阿 盟 拒 绝 倾 听 来 自 叙 利 亚 的 声 音
+0004000462	data/huiyan_dataset/raw_wav/wav/0004/000462.wav	而 是 在 执 行 外 部 势 力 的 授 意
+0004000463	data/huiyan_dataset/raw_wav/wav/0004/000463.wav	将 叙 利 亚 问 题 国 际 化
+0004000464	data/huiyan_dataset/raw_wav/wav/0004/000464.wav	穆 阿 利 姆 强 调 叙 利 亚 政 府 一 直 在 努 力 执 行 旨 在 解 决 国 内 危 机 的 阿 拉 伯 倡 议
+0004000465	data/huiyan_dataset/raw_wav/wav/0004/000465.wav	并 重 申 阿 盟 向 叙 利 亚 派 遣 观 察 团 的 协 议 草 案 对 叙 利 亚 主 权 构 成 了 侵 犯
+0004000466	data/huiyan_dataset/raw_wav/wav/0004/000466.wav	在 谈 到 阿 盟 的 经 济 制 裁 措 施 时
+0004000467	data/huiyan_dataset/raw_wav/wav/0004/000467.wav	穆 阿 利 姆 说 阿 盟 停 止 与 叙 利 亚 中 央 银 行 进 行 业 务 往 来
+0004000468	data/huiyan_dataset/raw_wav/wav/0004/000468.wav	意 味 着 宣 布 打 经 济 战
+0004000469	data/huiyan_dataset/raw_wav/wav/0004/000469.wav	但 是 叙 利 亚 已 经 提 走 了 被 冻 结 海 外 资 金 的 百 分 之 九 十 五
+0004000470	data/huiyan_dataset/raw_wav/wav/0004/000470.wav	穆 阿 利 姆 表 示
+0004000471	data/huiyan_dataset/raw_wav/wav/0004/000471.wav	叙 利 亚 已 经 做 出 了 一 切 能 做 的 努 力
+0004000472	data/huiyan_dataset/raw_wav/wav/0004/000472.wav	但 是 并 没 有 取 得 成 果
+0004000473	data/huiyan_dataset/raw_wav/wav/0004/000473.wav	在 这 场 记 者 招 待 会 之 后
+0004000474	data/huiyan_dataset/raw_wav/wav/0004/000474.wav	叙 利 亚 对 于 阿 盟 态 度 将 会 转 变
+0004000475	data/huiyan_dataset/raw_wav/wav/0004/000475.wav	阿 盟 秘 书 长 阿 拉 比 二 十 八 号 再 次 呼 吁 叙 利 亚 签 署 派 遣 观 察 团 的 协 议
+0004000476	data/huiyan_dataset/raw_wav/wav/0004/000476.wav	并 称 签 署 这 项 协 议 将 使 阿 盟 重 新 考 虑 制 裁 决 定 给 叙 利 亚 一 个 在 阿 拉 伯 范 围 内 解 决 其 危 机 的 机 会
+0004000477	data/huiyan_dataset/raw_wav/wav/0004/000477.wav	二 十 八 号 上 万 名 叙 利 亚 民 众 在 首 都 大 马 士 革 举 行 集 会
+0004000478	data/huiyan_dataset/raw_wav/wav/0004/000478.wav	抗 议 阿 盟 制 裁 并 对 总 统 巴 沙 尔 阿 萨 德 表 示 支 持
+0004000479	data/huiyan_dataset/raw_wav/wav/0004/000479.wav	叙 利 亚 第 二 大 城 市 阿 勒 颇
+0004000480	data/huiyan_dataset/raw_wav/wav/0004/000480.wav	北 部 城 市 哈 塞 克 等 地 也 出 现 民 众 抗 议 活 动
+0004000482	data/huiyan_dataset/raw_wav/wav/0004/000482.wav	乌 干 达 总 理 蒙 巴 巴 齐 当 地 时 间 十 一 月 二 十 八 号 在 坎 帕 拉 会 见 了 中 国 国 务 委 员 兼 国 防 部 长 梁 光 烈 上 将
+0004000483	data/huiyan_dataset/raw_wav/wav/0004/000483.wav	蒙 巴 巴 齐 对 梁 光 烈 一 行 访 乌 表 示 欢 迎
+0004000484	data/huiyan_dataset/raw_wav/wav/0004/000484.wav	希 望 双 方 继 续 加 强 各 领 域 的 合 作
+0004000485	data/huiyan_dataset/raw_wav/wav/0004/000485.wav	把 两 国 关 系 提 高 到 新 的 水 平
+0004000486	data/huiyan_dataset/raw_wav/wav/0004/000486.wav	梁 光 烈 说 中 方 十 分 重 视 中 欧 关 系
+0004000487	data/huiyan_dataset/raw_wav/wav/0004/000487.wav	中 国 军 队 愿 加 强 与 乌 军 在 各 领 域 的 交 流 与 合 作
+0004000488	data/huiyan_dataset/raw_wav/wav/0004/000488.wav	将 两 军 关 系 推 向 新 的 阶 段
+0004000489	data/huiyan_dataset/raw_wav/wav/0004/000489.wav	巴 基 斯 坦 总 理 吉 拉 尼 二 十 八 号 表 示
+0004000490	data/huiyan_dataset/raw_wav/wav/0004/000490.wav	类 似 北 约 袭 击 边 境 检 查 站 以 及 美 军 击 毙 本 拉 登 等 事 件 都 是 侵 犯 巴 基 斯 坦 主 权 的 行 径
+0004000491	data/huiyan_dataset/raw_wav/wav/0004/000491.wav	吉 拉 尼 表 示 巴 基 斯 坦 正 在 重 新 评 估 同 美 国 之 间 的 关 系
+0004000492	data/huiyan_dataset/raw_wav/wav/0004/000492.wav	美 国 国 防 部 二 十 八 号 宣 布
+0004000493	data/huiyan_dataset/raw_wav/wav/0004/000493.wav	美 军 中 央 司 令 部 将 牵 头 调 查 北 约 轰 炸 巴 基 斯 坦 军 事 检 查 站
+0004000494	data/huiyan_dataset/raw_wav/wav/0004/000494.wav	并 造 成 二 十 四 名 巴 士 兵 死 亡 一 事
+0004000495	data/huiyan_dataset/raw_wav/wav/0004/000495.wav	联 合 国 粮 农 组 织 二 十 八 号 发 表 报 告 说
+0004000496	data/huiyan_dataset/raw_wav/wav/0004/000496.wav	当 前 全 世 界 土 地 和 水 资 源 普 遍 出 现 退 化
+0004000497	data/huiyan_dataset/raw_wav/wav/0004/000497.wav	已 有 百 分 之 二 十 五 的 土 地 处 于 高 度 退 化 状 态
+0004000498	data/huiyan_dataset/raw_wav/wav/0004/000498.wav	所 有 大 洲 均 存 在 不 同 程 度 的 土 地 退 化 情 况
+0004000499	data/huiyan_dataset/raw_wav/wav/0004/000499.wav	这 将 对 粮 食 生 产 造 成 影 响
+0004000500	data/huiyan_dataset/raw_wav/wav/0004/000500.wav	对 世 界 粮 食 安 全 构 成 挑 战
+0004000501	data/huiyan_dataset/raw_wav/wav/0004/000501.wav	报 告 认 为 保 证 粮 食 增 产 的 措 施 包 括 提 高 农 业 用 水 效 率
+0004000502	data/huiyan_dataset/raw_wav/wav/0004/000502.wav	创 新 耕 作 方 法 以 及 加 大 对 农 业 的 投 资 力 度
+0004000503	data/huiyan_dataset/raw_wav/wav/0004/000503.wav	中 国 青 年 歌 手 谭 晶 与 瑞 典 摇 滚 钢 琴 家 罗 伯 特 威 尔 斯 二 十 八 号 在 英 国 伦 敦 皇 家 阿 尔 伯 特 音 乐 厅 联 袂 举 办
+0004000504	data/huiyan_dataset/raw_wav/wav/0004/000504.wav	约 定 从 北 京 到 伦 敦 音 乐 会
+0004000505	data/huiyan_dataset/raw_wav/wav/0004/000505.wav	用 优 美 的 音 乐 将 二 零 零 八 年 的 北 京 奥 运 会 和 明 年 即 将 于 伦 敦 举 行 的 奥 运 会 联 系 起 来
+0004000506	data/huiyan_dataset/raw_wav/wav/0004/000506.wav	谭 晶 还 向 伦 敦 观 众 送 上 来 自 中 国 的 祝 福
+0004000507	data/huiyan_dataset/raw_wav/wav/0004/000507.wav	观 众 朋 友 们 这 次 新 闻 联 播 节 目 播 送 完 了
+0004000508	data/huiyan_dataset/raw_wav/wav/0004/000508.wav	感 谢 您 收 看
+0004000509	data/huiyan_dataset/raw_wav/wav/0004/000509.wav	再 见 再 见
+0005000002	data/huiyan_dataset/raw_wav/wav/0005/000002.wav	中 央 人 民 广 播 电 台 中 央 人 民 广 播 电 台 全 国 新 闻 联 播
+0005000004	data/huiyan_dataset/raw_wav/wav/0005/000004.wav	全 国 新 闻 联 播 每 天 为 您 汇 总 梳 理 全 天 资 讯 我 是 子 文 我 是 王 娴
+0005000005	data/huiyan_dataset/raw_wav/wav/0005/000005.wav	这 次 节 目 的 主 要 内 容 有 中 国 之 声 专 访 全 国 政 协 常 委 中 国 税 务 学 会 副 会 长 张 连 起
+0005000006	data/huiyan_dataset/raw_wav/wav/0005/000006.wav	中 美 经 贸 摩 擦 到 了 扳 一 扳 手 腕 的 阶 段
+0005000007	data/huiyan_dataset/raw_wav/wav/0005/000007.wav	银 保 监 会 主 席 郭 树 清 表 示 投 机 做 空 人 民 币 必 然 遭 受 损 失
+0005000008	data/huiyan_dataset/raw_wav/wav/0005/000008.wav	全 球 第 二 大 指 数 公 司 富 时 罗 素 宣 布 纳 入 一 千 零 九 十 七 支 A 股
+0005000009	data/huiyan_dataset/raw_wav/wav/0005/000009.wav	北 斗 产 业 化 应 用 核 心 技 术 能 力 已 达 国 际 一 流 水 平
+0005000010	data/huiyan_dataset/raw_wav/wav/0005/000010.wav	财 政 部 国 家 税 务 总 局 发 布 公 告 明 确 车 辆 购 置 税 具 体 政 策
+0005000011	data/huiyan_dataset/raw_wav/wav/0005/000011.wav	应 急 管 理 部 透 露 全 国 开 建 森 林 防 火 灭 火 数 据 库
+0005000012	data/huiyan_dataset/raw_wav/wav/0005/000012.wav	我 国 第 一 个 器 官 捐 献 登 记 网 站 登 记 志 愿 者 人 数 即 将 突 破 百 万 人 次
+0005000013	data/huiyan_dataset/raw_wav/wav/0005/000013.wav	南 方 降 雨 强 势 登 场 北 方 高 温 陆 续 缓 解
+0005000014	data/huiyan_dataset/raw_wav/wav/0005/000014.wav	特 朗 普 说 美 国 将 向 中 东 增 兵 约 一 千 五 百 人 以 下 是 详 细 内 容
+0005000015	data/huiyan_dataset/raw_wav/wav/0005/000015.wav	近 一 段 时 间 美 方 挥 舞 加 征 关 税 大 棒 屡 屡 升 级 中 美 经 贸 摩 擦 对 于 美 方 的 霸 凌 行 径 全 国 政 协 常 委 中 国 税 务 学 会 副 会 长 张 连 起 指 出
+0005000016	data/huiyan_dataset/raw_wav/wav/0005/000016.wav	中 美 经 贸 摩 擦 中 国 会 痛 但 绝 不 会 输 中 美 经 贸 摩 擦 到 了 掰 一 掰 手 腕 的 阶 段
+0005000017	data/huiyan_dataset/raw_wav/wav/0005/000017.wav	央 广 记 者 李 思 默 报 道
+0005000018	data/huiyan_dataset/raw_wav/wav/0005/000018.wav	在 中 美 经 贸 摩 擦 中 美 方 屡 屡 指 责 中 方 窃 取 知 识 产 权 进 行 所 谓 强 制 技 术 转 让
+0005000019	data/huiyan_dataset/raw_wav/wav/0005/000019.wav	张 连 起 指 出
+0005000020	data/huiyan_dataset/raw_wav/wav/0005/000020.wav	美 方 采 取 的 是 典 型 的 欲 加 之 罪 何 患 无 罪 的 有 罪 推 定 套 路
+0005000021	data/huiyan_dataset/raw_wav/wav/0005/000021.wav	美 方 既 拿 不 出 整 体 层 面 的 证 据 也 拿 不 出 令 人 信 服 的 个 案
+0005000022	data/huiyan_dataset/raw_wav/wav/0005/000022.wav	比 方 说 说 我 们 盗 取 知 识 产 权 了 这 极 其 抹 黑 的 极 其 荒 唐 的
+0005000023	data/huiyan_dataset/raw_wav/wav/0005/000023.wav	作 为 一 个 国 家 一 个 这 样 的 大 国 不 可 能 国 家 有 任 何 的 法 条 有 任 何 的 法 规 规 章 支 持 这 个 所 谓 盗 窃 知 识 产 权 的 他 即 使 有 个 案 美 国 人 得 拿 出 一 个 响 当 当 的 个 案 的 例 子
+0005000024	data/huiyan_dataset/raw_wav/wav/0005/000024.wav	相 反 呢 从 上 个 世 纪 九 十 年 代 以 来
+0005000025	data/huiyan_dataset/raw_wav/wav/0005/000025.wav	像 美 国 的 一 些 大 公 司 像 微 软 了 通 用 电 气 了 英 特 尔 了 唉 高 通 了 朗 讯 了 等 等 啊 都 在 中 国 设 立 研 发 机 构 可 以 说 设 立 研 发 机 构 得 到 可 观 的 回 报 而 且 这 些 大 的 公 司 在 中 国 的 专 利 最 多
+0005000026	data/huiyan_dataset/raw_wav/wav/0005/000026.wav	这 些 说 明 了 什 么
+0005000027	data/huiyan_dataset/raw_wav/wav/0005/000027.wav	恰 恰 不 就 是 说 明 中 国 知 识 产 权 保 护 和 知 识 产 权 运 用 的 一 个 生 态 的 良 好 一 个 结 果 吗
+0005000028	data/huiyan_dataset/raw_wav/wav/0005/000028.wav	贸 易 吃 亏 论 也 是 美 方 在 谈 判 中 屡 屡 打 出 的 一 张 牌
+0005000029	data/huiyan_dataset/raw_wav/wav/0005/000029.wav	美 国 总 是 说 中 美 贸 易 中 因 为 中 国 的 贸 易 顺 差 自 己 吃 了 亏
+0005000030	data/huiyan_dataset/raw_wav/wav/0005/000030.wav	张 连 起 指 出
+0005000031	data/huiyan_dataset/raw_wav/wav/0005/000031.wav	过 去 四 十 年 中 美 贸 易 规 模 增 长 二 百 三 十 多 倍
+0005000032	data/huiyan_dataset/raw_wav/wav/0005/000032.wav	如 果 不 是 共 赢 而 是 一 方 受 害 的 凌 河 怎 么 可 能 有 如 此 天 翻 地 覆 的 变 化
+0005000033	data/huiyan_dataset/raw_wav/wav/0005/000033.wav	互 加 关 税 以 后 你 像 洗 衣 机 的 这 个 价 格 就 上 升 了 百 分 之 十 二 呃 烘 干 机 的 价 格 也 随 之 提 升 据 这 个 美 国 服 装 和 鞋 业 协 会 估 计 如 果 贸 易 冲 突 进 一 步 扩 大 一 个 四 口 之 家 鞋 子 的 花 费 了 等 等 了 至 少 会 增 加 五 百 美 元  
+0005000034	data/huiyan_dataset/raw_wav/wav/0005/000034.wav	据 美 国 贸 易 顾 问 公 司 的 估 计 啊 中 美 贸 易 冲 突 利 用 美 国 家 庭 每 年 开 支 会 增 加 到 两 千 三 美 国 人 最 终 会 伤 到 自 己
+0005000035	data/huiyan_dataset/raw_wav/wav/0005/000035.wav	张 连 起 强 调
+0005000036	data/huiyan_dataset/raw_wav/wav/0005/000036.wav	我 们 面 对 外 部 环 境 趋 紧 和 国 内 经 济 的 下 行 压 力
+0005000037	data/huiyan_dataset/raw_wav/wav/0005/000037.wav	既 要 坚 定 信 心 树 立 恒 心
+0005000038	data/huiyan_dataset/raw_wav/wav/0005/000038.wav	又 要 保 持 耐 心 凝 聚 同 心
+0005000039	data/huiyan_dataset/raw_wav/wav/0005/000039.wav	中 美 贸 易 摩 擦 对 中 国 经 济 的 影 响 从 短 期 来 看 会 对 产 业 链 就 业 有 不 利 影 响
+0005000040	data/huiyan_dataset/raw_wav/wav/0005/000040.wav	但 从 中 长 期 看 会 倒 逼 中 国 的 自 主 创 新 转 型 升 级
+0005000041	data/huiyan_dataset/raw_wav/wav/0005/000041.wav	因 为 只 有 让 这 个 企 业 活 起 来 增 加 内 生 动 力 创 新 呢 它 的 研 发 费 用 啊 这 个 投 入 才 能 更 强
+0005000042	data/huiyan_dataset/raw_wav/wav/0005/000042.wav	你 必 须 得 做 出 一 些 别 人 仿 不 了 拿 不 去 这 样 的 技 术 我 们 自 己 在 制 造 业 方 面 呢 腰 杆 才 能 更 硬 一 些
+0005000043	data/huiyan_dataset/raw_wav/wav/0005/000043.wav	张 连 起 表 示 中 美 经 贸 摩 擦 中 国 会 痛 但 绝 不 会 输 中 美 经 贸 摩 擦 到 了 掰 一 掰 手 腕 的 阶 段
+0005000044	data/huiyan_dataset/raw_wav/wav/0005/000044.wav	掰 一 掰 手 腕 才 能 让 美 国 人 知 道 我 们 的 这 个 韧 性
+0005000045	data/huiyan_dataset/raw_wav/wav/0005/000045.wav	我 们 民 族 艰 苦 卓 绝 的 一 个 呃 内 在 向 心 力
+0005000046	data/huiyan_dataset/raw_wav/wav/0005/000046.wav	以 及 呢 中 华 民 族 伟 大 复 兴 的 意 志
+0005000047	data/huiyan_dataset/raw_wav/wav/0005/000047.wav	我 可 以 这 么 说
+0005000048	data/huiyan_dataset/raw_wav/wav/0005/000048.wav	他 高 估 了 自 己 的 经 济
+0005000049	data/huiyan_dataset/raw_wav/wav/0005/000049.wav	低 估 了 中 华 民 族 的 决 心 和 意 志
+0005000050	data/huiyan_dataset/raw_wav/wav/0005/000050.wav	错 估 了 包 括 经 贸 在 内 的 世 界 多 元 化 发 展 的 趋 势
+0005000051	data/huiyan_dataset/raw_wav/wav/0005/000051.wav	银 保 监 会 主 席 郭 树 清 今 天 表 示 投 机 做 空 人 民 币 必 然 遭 受 损 失
+0005000052	data/huiyan_dataset/raw_wav/wav/0005/000052.wav	央 广 记 者 侯 燕 报 道
+0005000053	data/huiyan_dataset/raw_wav/wav/0005/000053.wav	郭 树 清 在 一 个 论 坛 的 演 讲 稿 中 指 出
+0005000054	data/huiyan_dataset/raw_wav/wav/0005/000054.wav	虽 然 近 期 外 汇 市 场 出 现 波 动
+0005000055	data/huiyan_dataset/raw_wav/wav/0005/000055.wav	但 中 国 居 民 和 企 业 并 没 有 出 现 任 何 恐 慌
+0005000056	data/huiyan_dataset/raw_wav/wav/0005/000056.wav	越 来 越 多 的 人 认 识 到 通 过 买 卖 外 汇 来 获 取 投 资 收 益 是 不 现 实 的
+0005000057	data/huiyan_dataset/raw_wav/wav/0005/000057.wav	将 金 融 资 产 转 移 到 海 外 也 是 不 安 全 的
+0005000058	data/huiyan_dataset/raw_wav/wav/0005/000058.wav	在 成 熟 市 场 国 家 几 乎 没 有 企 业 和 居 民 专 门 炒 汇 获 取 投 资 收 益
+0005000059	data/huiyan_dataset/raw_wav/wav/0005/000059.wav	人 民 币 汇 率 短 期 波 动 是 正 常 的
+0005000060	data/huiyan_dataset/raw_wav/wav/0005/000060.wav	但 长 期 看 我 国 经 济 基 本 面 决 定 人 民 币 不 可 能 持 续 贬 值
+0005000061	data/huiyan_dataset/raw_wav/wav/0005/000061.wav	中 国 仍 是 世 界 经 济 增 长 的 最 大 引 擎
+0005000062	data/huiyan_dataset/raw_wav/wav/0005/000062.wav	具 备 极 好 的 市 场 空 间 和 增 长 潜 力
+0005000063	data/huiyan_dataset/raw_wav/wav/0005/000063.wav	郭 树 清 强 调
+0005000064	data/huiyan_dataset/raw_wav/wav/0005/000064.wav	随 着 经 济 发 展 质 量 提 升
+0005000065	data/huiyan_dataset/raw_wav/wav/0005/000065.wav	人 民 币 市 场 汇 率 将 不 断 向 购 买 力 平 价 靠 近
+0005000066	data/huiyan_dataset/raw_wav/wav/0005/000066.wav	投 机 做 空 人 民 币 必 然 遭 受 巨 大 损 失
+0005000067	data/huiyan_dataset/raw_wav/wav/0005/000067.wav	北 京 时 间 今 天 凌 晨
+0005000068	data/huiyan_dataset/raw_wav/wav/0005/000068.wav	全 球 知 名 指 数 编 制 公 司 富 时 罗 素 宣 布
+0005000069	data/huiyan_dataset/raw_wav/wav/0005/000069.wav	二 零 一 九 年 六 月 起 将 正 式 开 启 中 国 A 股 纳 入 其 旗 舰 指 数 富 时 全 球 股 票 指 数 系 列 的 第 一 步
+0005000070	data/huiyan_dataset/raw_wav/wav/0005/000070.wav	第 一 批 次 的 纳 入 因 子 为 百 分 之 五 将 于 二 零 一 九 年 六 月 二 十 四 号 开 盘 后 正 式 生 效
+0005000071	data/huiyan_dataset/raw_wav/wav/0005/000071.wav	央 广 记 者 张 佳 宁 报 道
+0005000072	data/huiyan_dataset/raw_wav/wav/0005/000072.wav	富 时 罗 素 是 富 时 集 团 和 罗 素 指 数 在 二 零 一 五 年 合 并 而 来
+0005000073	data/huiyan_dataset/raw_wav/wav/0005/000073.wav	富 时 集 团 及 英 国 金 融 时 报 集 团 其 著 名 的 富 时 一 百 指 数 于 一 九 八 四 年 创 立
+0005000074	data/huiyan_dataset/raw_wav/wav/0005/000074.wav	同 一 年 罗 素 公 司 成 立
+0005000075	data/huiyan_dataset/raw_wav/wav/0005/000075.wav	并 推 出 了 罗 素 一 千 和 罗 素 两 千 等 指 数
+0005000076	data/huiyan_dataset/raw_wav/wav/0005/000076.wav	目 前 市 场 上 追 踪 指 数 的 被 动 基 金 越 来 越 多
