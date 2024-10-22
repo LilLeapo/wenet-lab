@@ -1,0 +1,51 @@
+sed: can't read data/local/aishell4_train/wav.flist: No such file or directory
+paste: data/local/aishell4_train/wav.flist: No such file or directory
+Traceback (most recent call last):
+  File "/Work21/2021/luhaoyu/wenet/examples/aishell4/s0/local/aishell4_process_textgrid.py", line 109, in <module>
+    main(args)
+  File "/Work21/2021/luhaoyu/wenet/examples/aishell4/s0/local/aishell4_process_textgrid.py", line 29, in main
+    textgrid_flist = codecs.open(
+  File "/Work21/2021/luhaoyu/anaconda3/lib/python3.9/codecs.py", line 905, in open
+    file = builtins.open(filename, mode, buffering)
+FileNotFoundError: [Errno 2] No such file or directory: 'data/local/aishell4_train/textgrid.flist'
+local/prepare_data.sh: line 55: local/text_normalize.pl: Permission denied
+cat: local/prepare_data.sh: line 55: local/text_format.pl: Permission denied
+data/local/aishell4_train/text_all: No such file or directory
+Can't open data/local/aishell4_train/utt2spk_all: No such file or directory at local/filter_scp.pl line 65.
+Can't open data/local/aishell4_train/segments_all: No such file or directory at local/filter_scp.pl line 65.
+sed: can't read data/local/aishell4_test/wav.flist: No such file or directory
+paste: data/local/aishell4_test/wav.flist: No such file or directory
+Traceback (most recent call last):
+  File "/Work21/2021/luhaoyu/wenet/examples/aishell4/s0/local/aishell4_process_textgrid.py", line 109, in <module>
+    main(args)
+  File "/Work21/2021/luhaoyu/wenet/examples/aishell4/s0/local/aishell4_process_textgrid.py", line 29, in main
+    textgrid_flist = codecs.open(
+  File "/Work21/2021/luhaoyu/anaconda3/lib/python3.9/codecs.py", line 905, in open
+    file = builtins.open(filename, mode, buffering)
+FileNotFoundError: [Errno 2] No such file or directory: 'data/local/aishell4_test/textgrid.flist'
+local/prepare_data.sh: line 64: local/text_format.pl: Permission denied
+cat: data/local/aishell4_test/text_all: No such file or directory
+local/prepare_data.sh: line 64: local/text_normalize.pl: Permission denied
+Can't open data/local/aishell4_test/utt2spk_all: No such file or directory at local/filter_scp.pl line 65.
+Can't open data/local/aishell4_test/segments_all: No such file or directory at local/filter_scp.pl line 65.
+local/copy_data_dir.sh: line 28: local/parse_options.sh: No such file or directory
+Usage: 
+  local/copy_data_dir.sh [options] <srcdir> <destdir>
+e.g.:
+ local/copy_data_dir.sh --spk-prefix=1- --utt-prefix=1- data/train data/train_1
+Options
+   --spk-prefix=<prefix>     # Prefix for speaker ids, default empty
+   --utt-prefix=<prefix>     # Prefix for utterance ids, default empty
+   --spk-suffix=<suffix>     # Suffix for speaker ids, default empty
+   --utt-suffix=<suffix>     # Suffix for utterance ids, default empty
+local/copy_data_dir.sh: line 28: local/parse_options.sh: No such file or directory
+Usage: 
+  local/copy_data_dir.sh [options] <srcdir> <destdir>
+e.g.:
+ local/copy_data_dir.sh --spk-prefix=1- --utt-prefix=1- data/train data/train_1
+Options
+   --spk-prefix=<prefix>     # Prefix for speaker ids, default empty
+   --utt-prefix=<prefix>     # Prefix for utterance ids, default empty
+   --spk-suffix=<suffix>     # Suffix for speaker ids, default empty
+   --utt-suffix=<suffix>     # Suffix for utterance ids, default empty
+local/prepare_data.sh: AISHELL4 data preparation succeeded
